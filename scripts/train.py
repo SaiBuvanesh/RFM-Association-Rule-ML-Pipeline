@@ -33,7 +33,7 @@ def main():
     print(f"Unique products saved: {len(all_products)}")
 
     print("Generating association rules...")
-    rules = generate_rules(df, min_support=0.01, min_threshold=0.2) 
+    rules = generate_rules(df, min_support=0.005, min_threshold=0.2) 
     
     print(f"Rules generated: {len(rules)}")
     save_rules(rules, "association_rules.pkl")
