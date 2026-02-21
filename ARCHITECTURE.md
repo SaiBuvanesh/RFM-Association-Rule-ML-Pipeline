@@ -33,8 +33,8 @@ The system employs a two-staged approach for segmentation:
     - **Monetary**: Total spend. Log-scaled to reduce the influence of high-spending outliers.
 - **Clustering (K-Means)**: The RFM vectors are normalized using `StandardScaler`. K-Means clustering is then applied. We chose 5 clusters as the "Elbow Point" where within-cluster sum of squares (WCSS) starts to diminish.
 
-### Association Rule Mining (Apriori)
-The Apriori algorithm mines "hidden" relationships between products:
+### Association Rule Mining (FPGrowth)
+The FPGrowth algorithm is utilized due to its memory efficiency when mining "hidden" relationships between products:
 
 - **Support**: How often a product set appears (e.g., 0.01 Support means 1% of all invoices).
 - **Confidence**: The reliability of the rule (e.g., 0.20 Confidence means 20% of customers who bought A also bought B).

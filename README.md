@@ -5,7 +5,7 @@ An AI-driven analytical platform for modern retail management, providing deep in
 ## Technical Capabilities
 
 - **RFM Segmentation Engine**: Beyond simple grouping, the system calculates granular R/F/M scores to measure customer "vibrancy." It handles outlier suppression and log-transforming skewed monetary values to ensure clustering stability.
-- **Market Basket Mining (Apriori)**: Employs association rule mining with optimized support (1%) and confidence (20%) thresholds. This allows the system to discover non-obvious cross-selling opportunities (e.g., "Customers who bought item A also bought B").
+- **Market Basket Mining (FPGrowth)**: Employs association rule mining with optimized support (0.5%) and confidence (20%) thresholds. This memory-efficient algorithm allows the system to discover non-obvious cross-selling opportunities (e.g., "Customers who bought item A also bought B") across a massive combined product space.
 - **Data Engineering Pipeline**: Automated cleaning scripts handle:
     - Removal of "Returns" (negative quantities/prices).
     - Customer ID imputation and formatting.

@@ -74,7 +74,7 @@ def main():
     st.markdown("#### System Capabilities")
     blocks = st.columns(4)
     blocks[0].metric("Segmentation", "K-Means", "Clustering")
-    blocks[1].metric("Intelligence", "Apriori", "Association")
+    blocks[1].metric("Intelligence", "FPGrowth", "Association")
     blocks[2].metric("Analysis", "RFM", "Behavioral")
     blocks[3].metric("Interface", "Streamlit", "Interactive")
 
