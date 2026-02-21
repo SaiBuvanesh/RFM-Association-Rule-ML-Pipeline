@@ -39,6 +39,7 @@ This system isn't just about code; it's about making better decisions:
 ├── ui/           # Streamlit application and view components
 │   ├── app.py
 │   └── pages/
+├── Untitled.ipynb # Initial procedural code and algorithmic proof-of-concept
 └── requirements.txt
 ```
 
