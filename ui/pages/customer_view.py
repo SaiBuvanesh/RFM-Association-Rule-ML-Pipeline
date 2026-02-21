@@ -8,6 +8,9 @@ import sys
 # Add parent directory to path to import core modules
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
+import importlib
+import core.recommendation
+importlib.reload(core.recommendation)
 from core.recommendation import recommend_for_basket
 
 def load_resources():
@@ -55,7 +58,9 @@ if rules is not None:
         st.divider()
         st.subheader("Recommended Additions")
         
-        recommendations = recommend_for_basket(selected_items, rules, top_n=4)
+        # Strip items to ensure matching logic handles potential trailing spaces from data
+        stripped_selection = [item.strip() for item in selected_items]
+        recommendations = recommend_for_basket(stripped_selection, rules, top_n=4)
         
         if recommendations:
             rec_cols = st.columns(4)
