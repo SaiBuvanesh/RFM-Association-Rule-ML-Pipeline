@@ -1,0 +1,4373 @@
+customerid,recency,frequency,monetary,cluster,segment
+12346,325,2,154367,4,Loyal Customers
+12347,1,7,4310,0,Low Value Customers
+12348,74,4,1797,0,Low Value Customers
+12349,18,1,1757,0,Low Value Customers
+12350,309,1,334,1,Lost Customers
+12352,35,11,3466,0,Low Value Customers
+12353,203,1,89,1,Lost Customers
+12354,231,1,1079,1,Lost Customers
+12355,213,1,459,1,Lost Customers
+12356,22,3,2811,0,Low Value Customers
+12357,32,1,6207,0,Low Value Customers
+12358,1,2,1168,0,Low Value Customers
+12359,7,6,6437,0,Low Value Customers
+12360,51,3,2662,0,Low Value Customers
+12361,286,1,189,1,Lost Customers
+12362,2,13,5297,0,Low Value Customers
+12363,109,2,552,0,Low Value Customers
+12364,7,4,1313,0,Low Value Customers
+12365,290,3,962,1,Lost Customers
+12367,3,1,168,0,Low Value Customers
+12370,50,4,3541,0,Low Value Customers
+12371,44,2,1887,0,Low Value Customers
+12372,71,3,1298,0,Low Value Customers
+12373,310,1,364,1,Lost Customers
+12374,24,1,742,0,Low Value Customers
+12375,2,3,459,0,Low Value Customers
+12377,314,2,1628,1,Lost Customers
+12378,129,1,4008,0,Low Value Customers
+12379,81,3,854,0,Low Value Customers
+12380,21,5,2729,0,Low Value Customers
+12381,4,6,1886,0,Low Value Customers
+12383,184,6,1861,1,Lost Customers
+12384,28,3,604,0,Low Value Customers
+12386,337,2,401,1,Lost Customers
+12388,15,6,2780,0,Low Value Customers
+12390,79,1,549,0,Low Value Customers
+12391,21,1,439,0,Low Value Customers
+12393,71,4,1582,0,Low Value Customers
+12394,63,2,1272,0,Low Value Customers
+12395,15,15,3038,0,Low Value Customers
+12397,35,2,2409,0,Low Value Customers
+12398,45,1,1635,0,Low Value Customers
+12399,118,4,1108,0,Low Value Customers
+12401,302,1,84,1,Lost Customers
+12402,322,1,225,1,Lost Customers
+12403,49,2,445,0,Low Value Customers
+12405,148,1,1710,1,Lost Customers
+12406,21,3,3549,0,Low Value Customers
+12407,49,5,1708,0,Low Value Customers
+12408,32,9,2934,0,Low Value Customers
+12409,78,7,11088,0,Low Value Customers
+12410,300,3,705,1,Lost Customers
+12412,74,3,1226,0,Low Value Customers
+12413,66,5,822,0,Low Value Customers
+12414,216,3,562,1,Lost Customers
+12415,23,26,126103,4,Loyal Customers
+12417,2,12,3719,0,Low Value Customers
+12418,112,1,668,0,Low Value Customers
+12420,63,1,600,0,Low Value Customers
+12421,15,5,807,0,Low Value Customers
+12422,95,3,803,0,Low Value Customers
+12423,0,9,1869,0,Low Value Customers
+12424,162,2,1760,1,Lost Customers
+12425,77,1,777,0,Low Value Customers
+12426,194,1,582,1,Lost Customers
+12427,11,5,943,0,Low Value Customers
+12428,25,12,8035,0,Low Value Customers
+12429,8,4,3750,0,Low Value Customers
+12430,42,1,256,0,Low Value Customers
+12431,35,18,6491,0,Low Value Customers
+12432,42,5,5059,0,Low Value Customers
+12433,0,7,13375,0,Low Value Customers
+12434,84,4,847,0,Low Value Customers
+12435,79,2,7829,0,Low Value Customers
+12436,99,1,509,0,Low Value Customers
+12437,1,19,5006,0,Low Value Customers
+12438,13,2,2906,0,Low Value Customers
+12441,366,1,173,1,Lost Customers
+12442,2,1,172,0,Low Value Customers
+12444,20,5,5005,0,Low Value Customers
+12445,21,1,133,0,Low Value Customers
+12446,57,1,1002,0,Low Value Customers
+12447,242,1,476,1,Lost Customers
+12448,43,1,449,0,Low Value Customers
+12449,21,4,4067,0,Low Value Customers
+12450,155,2,197,1,Lost Customers
+12451,10,6,9137,0,Low Value Customers
+12452,16,3,432,0,Low Value Customers
+12453,133,1,707,0,Low Value Customers
+12454,52,2,7056,0,Low Value Customers
+12455,72,6,2466,0,Low Value Customers
+12456,43,4,3208,0,Low Value Customers
+12457,57,12,2808,0,Low Value Customers
+12458,70,2,947,0,Low Value Customers
+12461,93,2,826,0,Low Value Customers
+12462,1,4,1255,0,Low Value Customers
+12463,45,7,1385,0,Low Value Customers
+12464,9,8,1212,0,Low Value Customers
+12465,7,3,750,0,Low Value Customers
+12468,142,3,735,1,Lost Customers
+12471,1,49,20871,0,Low Value Customers
+12472,30,13,6914,0,Low Value Customers
+12473,28,9,5018,0,Low Value Customers
+12474,16,30,7583,0,Low Value Customers
+12475,53,1,723,0,Low Value Customers
+12476,0,20,7086,0,Low Value Customers
+12477,22,9,13322,0,Low Value Customers
+12478,3,1,680,0,Low Value Customers
+12479,3,3,577,0,Low Value Customers
+12480,27,4,3281,0,Low Value Customers
+12481,22,11,5585,0,Low Value Customers
+12483,16,13,2642,0,Low Value Customers
+12484,32,8,4573,0,Low Value Customers
+12488,9,3,1298,0,Low Value Customers
+12489,335,1,334,1,Lost Customers
+12490,4,10,5417,0,Low Value Customers
+12491,38,1,460,0,Low Value Customers
+12492,62,2,263,0,Low Value Customers
+12493,165,3,450,1,Lost Customers
+12494,9,13,1352,0,Low Value Customers
+12497,81,1,1043,0,Low Value Customers
+12498,20,3,403,0,Low Value Customers
+12500,22,13,4309,0,Low Value Customers
+12501,314,2,2249,1,Lost Customers
+12502,95,5,3723,0,Low Value Customers
+12503,337,1,1126,1,Lost Customers
+12504,17,4,850,0,Low Value Customers
+12505,300,1,4,1,Lost Customers
+12506,232,1,73,1,Lost Customers
+12507,133,4,1351,0,Low Value Customers
+12508,25,2,397,0,Low Value Customers
+12509,283,1,176,1,Lost Customers
+12510,142,2,982,1,Lost Customers
+12512,65,2,132,0,Low Value Customers
+12513,84,2,637,0,Low Value Customers
+12514,266,1,1017,1,Lost Customers
+12515,352,1,383,1,Lost Customers
+12516,77,2,1312,0,Low Value Customers
+12517,27,6,2519,0,Low Value Customers
+12518,0,5,2056,0,Low Value Customers
+12519,63,1,330,0,Low Value Customers
+12520,78,6,2686,0,Low Value Customers
+12521,142,1,599,1,Lost Customers
+12522,38,2,192,0,Low Value Customers
+12523,1,13,1833,0,Low Value Customers
+12524,8,8,4485,0,Low Value Customers
+12526,0,3,1316,0,Low Value Customers
+12527,81,3,348,0,Low Value Customers
+12528,8,8,1944,0,Low Value Customers
+12530,59,5,1700,0,Low Value Customers
+12531,14,1,125,0,Low Value Customers
+12532,29,1,349,0,Low Value Customers
+12534,130,1,1089,0,Low Value Customers
+12535,91,2,716,0,Low Value Customers
+12536,7,5,21096,0,Low Value Customers
+12538,28,1,363,0,Low Value Customers
+12539,21,5,7284,0,Low Value Customers
+12540,19,19,13491,0,Low Value Customers
+12541,29,3,981,0,Low Value Customers
+12544,29,2,389,0,Low Value Customers
+12545,74,2,1000,0,Low Value Customers
+12546,46,3,1181,0,Low Value Customers
+12547,197,2,207,1,Lost Customers
+12548,165,1,95,1,Lost Customers
+12550,78,1,964,0,Low Value Customers
+12551,357,1,168,1,Lost Customers
+12552,38,2,437,0,Low Value Customers
+12553,7,14,3732,0,Low Value Customers
+12556,49,2,599,0,Low Value Customers
+12557,15,5,11990,0,Low Value Customers
+12558,1,2,539,0,Low Value Customers
+12559,310,3,587,1,Lost Customers
+12560,4,4,2166,0,Low Value Customers
+12561,302,1,238,1,Lost Customers
+12562,7,7,3781,0,Low Value Customers
+12564,260,1,456,1,Lost Customers
+12565,281,2,160,1,Lost Customers
+12566,72,2,356,0,Low Value Customers
+12567,22,11,9687,0,Low Value Customers
+12569,1,35,4184,0,Low Value Customers
+12571,39,2,519,0,Low Value Customers
+12572,8,3,1036,0,Low Value Customers
+12573,226,1,160,1,Lost Customers
+12574,315,1,218,1,Lost Customers
+12576,35,6,1324,0,Low Value Customers
+12577,34,4,689,0,Low Value Customers
+12578,20,4,2835,0,Low Value Customers
+12579,72,3,470,0,Low Value Customers
+12580,246,1,415,1,Lost Customers
+12581,39,1,197,0,Low Value Customers
+12582,238,2,511,1,Lost Customers
+12583,2,18,7375,0,Low Value Customers
+12584,3,18,2782,0,Low Value Customers
+12585,233,4,2097,1,Lost Customers
+12586,16,2,213,0,Low Value Customers
+12587,7,1,144,0,Low Value Customers
+12588,38,1,214,0,Low Value Customers
+12589,28,2,646,0,Low Value Customers
+12590,189,3,9867,1,Lost Customers
+12591,316,1,452,1,Lost Customers
+12592,91,2,437,0,Low Value Customers
+12593,108,3,418,0,Low Value Customers
+12594,37,11,3356,0,Low Value Customers
+12596,50,2,618,0,Low Value Customers
+12597,18,5,3939,0,Low Value Customers
+12598,9,9,3043,0,Low Value Customers
+12599,28,7,1032,0,Low Value Customers
+12600,28,11,2617,0,Low Value Customers
+12601,189,6,584,1,Lost Customers
+12602,58,1,153,0,Low Value Customers
+12603,21,1,739,0,Low Value Customers
+12604,78,2,254,0,Low Value Customers
+12605,364,1,7,1,Lost Customers
+12607,57,2,3159,0,Low Value Customers
+12609,77,3,1126,0,Low Value Customers
+12610,22,7,2141,0,Low Value Customers
+12611,51,1,1193,0,Low Value Customers
+12612,57,2,764,0,Low Value Customers
+12613,30,6,3469,0,Low Value Customers
+12614,277,1,315,1,Lost Customers
+12615,1,4,2291,0,Low Value Customers
+12616,84,5,769,0,Low Value Customers
+12617,28,1,352,0,Low Value Customers
+12618,21,1,177,0,Low Value Customers
+12619,15,13,4067,0,Low Value Customers
+12620,14,3,1339,0,Low Value Customers
+12621,1,23,13767,0,Low Value Customers
+12622,231,1,180,1,Lost Customers
+12623,275,1,305,1,Lost Customers
+12624,105,2,641,0,Low Value Customers
+12625,211,3,2753,1,Lost Customers
+12626,22,13,6852,0,Low Value Customers
+12627,10,7,4478,0,Low Value Customers
+12628,3,4,803,0,Low Value Customers
+12630,9,2,1270,0,Low Value Customers
+12631,56,1,640,0,Low Value Customers
+12633,58,5,2187,0,Low Value Customers
+12635,89,2,1689,0,Low Value Customers
+12637,66,10,6071,0,Low Value Customers
+12638,32,1,671,0,Low Value Customers
+12639,238,1,486,1,Lost Customers
+12640,23,3,1174,0,Low Value Customers
+12641,114,1,185,0,Low Value Customers
+12642,24,3,1013,0,Low Value Customers
+12643,127,6,3344,0,Low Value Customers
+12644,129,1,477,0,Low Value Customers
+12645,33,5,1794,0,Low Value Customers
+12646,4,2,1346,0,Low Value Customers
+12647,21,13,3775,0,Low Value Customers
+12648,154,1,318,1,Lost Customers
+12649,106,4,643,0,Low Value Customers
+12650,2,1,314,0,Low Value Customers
+12651,334,1,114,1,Lost Customers
+12652,321,2,925,1,Lost Customers
+12653,148,2,2209,1,Lost Customers
+12654,10,5,601,0,Low Value Customers
+12656,16,8,4119,0,Low Value Customers
+12657,10,5,2134,0,Low Value Customers
+12658,18,1,686,0,Low Value Customers
+12659,29,1,91,0,Low Value Customers
+12660,10,1,245,0,Low Value Customers
+12662,0,12,3882,0,Low Value Customers
+12664,7,10,4899,0,Low Value Customers
+12665,324,2,64,1,Lost Customers
+12666,358,1,227,1,Lost Customers
+12667,57,1,620,0,Low Value Customers
+12668,6,6,3871,0,Low Value Customers
+12669,150,4,3880,1,Lost Customers
+12670,9,6,3005,0,Low Value Customers
+12672,329,1,225,1,Lost Customers
+12673,4,2,610,0,Low Value Customers
+12674,11,7,2018,0,Low Value Customers
+12676,24,6,1331,0,Low Value Customers
+12678,41,13,17668,0,Low Value Customers
+12679,51,9,1167,0,Low Value Customers
+12680,0,4,862,0,Low Value Customers
+12681,14,27,13897,0,Low Value Customers
+12682,3,31,12279,0,Low Value Customers
+12683,3,20,8732,0,Low Value Customers
+12684,7,7,2283,0,Low Value Customers
+12685,27,6,2863,0,Low Value Customers
+12686,371,1,89,1,Lost Customers
+12688,113,1,4873,0,Low Value Customers
+12689,25,2,1247,0,Low Value Customers
+12690,205,1,389,1,Lost Customers
+12691,27,6,1035,0,Low Value Customers
+12693,120,6,880,0,Low Value Customers
+12694,69,2,869,0,Low Value Customers
+12695,6,4,582,0,Low Value Customers
+12697,20,5,976,0,Low Value Customers
+12700,7,6,5011,0,Low Value Customers
+12701,79,2,797,0,Low Value Customers
+12702,19,1,219,0,Low Value Customers
+12703,63,2,292,0,Low Value Customers
+12704,6,10,2460,0,Low Value Customers
+12705,14,14,6922,0,Low Value Customers
+12707,291,1,603,1,Lost Customers
+12708,29,16,2809,0,Low Value Customers
+12709,2,26,10148,0,Low Value Customers
+12710,96,4,1167,0,Low Value Customers
+12712,22,17,4550,0,Low Value Customers
+12713,0,1,848,0,Low Value Customers
+12714,8,5,4708,0,Low Value Customers
+12715,105,1,343,0,Low Value Customers
+12716,3,2,1053,0,Low Value Customers
+12717,150,3,1080,1,Lost Customers
+12718,70,1,238,0,Low Value Customers
+12719,4,3,681,0,Low Value Customers
+12720,2,29,5850,0,Low Value Customers
+12721,31,7,2683,0,Low Value Customers
+12722,84,6,1090,0,Low Value Customers
+12723,3,5,725,0,Low Value Customers
+12724,4,4,1031,0,Low Value Customers
+12725,370,1,427,1,Lost Customers
+12726,27,7,2609,0,Low Value Customers
+12727,10,9,4013,0,Low Value Customers
+12728,70,4,836,0,Low Value Customers
+12729,113,1,453,0,Low Value Customers
+12731,23,14,18998,0,Low Value Customers
+12732,179,1,236,1,Lost Customers
+12733,233,1,383,1,Lost Customers
+12734,352,1,110,1,Lost Customers
+12735,314,2,779,1,Lost Customers
+12736,332,1,234,1,Lost Customers
+12738,371,1,155,1,Lost Customers
+12739,77,2,1013,0,Low Value Customers
+12740,63,1,427,0,Low Value Customers
+12743,133,2,540,0,Low Value Customers
+12744,51,10,33438,0,Low Value Customers
+12747,1,11,4196,0,Low Value Customers
+12748,0,224,37700,2,Big Spenders
+12749,3,8,4313,0,Low Value Customers
+12750,128,1,275,0,Low Value Customers
+12752,80,1,4366,0,Low Value Customers
+12753,3,11,21834,0,Low Value Customers
+12754,235,5,3072,1,Lost Customers
+12755,249,4,5420,1,Lost Customers
+12756,86,1,112,0,Low Value Customers
+12757,15,19,11464,0,Low Value Customers
+12758,116,2,2791,0,Low Value Customers
+12759,51,3,1531,0,Low Value Customers
+12762,7,2,1898,0,Low Value Customers
+12763,137,2,494,0,Low Value Customers
+12764,316,1,1693,1,Lost Customers
+12766,3,7,6989,0,Low Value Customers
+12769,238,1,1143,1,Lost Customers
+12770,210,1,1351,1,Lost Customers
+12772,59,1,892,0,Low Value Customers
+12775,16,6,1420,0,Low Value Customers
+12778,19,7,840,0,Low Value Customers
+12779,20,12,4094,0,Low Value Customers
+12781,20,5,945,0,Low Value Customers
+12782,4,6,2388,0,Low Value Customers
+12783,1,8,2847,0,Low Value Customers
+12784,8,2,532,0,Low Value Customers
+12785,2,2,318,0,Low Value Customers
+12787,9,3,463,0,Low Value Customers
+12789,64,1,91,0,Low Value Customers
+12790,191,1,324,1,Lost Customers
+12791,373,1,192,1,Lost Customers
+12792,256,1,400,1,Lost Customers
+12793,334,2,545,1,Lost Customers
+12794,52,2,860,0,Low Value Customers
+12795,18,1,430,0,Low Value Customers
+12797,359,3,313,1,Lost Customers
+12798,9,3,6977,0,Low Value Customers
+12802,183,2,442,1,Lost Customers
+12808,36,3,483,0,Low Value Customers
+12809,167,2,494,1,Lost Customers
+12811,260,3,514,1,Lost Customers
+12812,44,1,229,0,Low Value Customers
+12814,101,1,125,0,Low Value Customers
+12815,147,2,1063,1,Lost Customers
+12816,95,2,572,0,Low Value Customers
+12817,280,1,166,1,Lost Customers
+12818,177,2,1566,1,Lost Customers
+12820,2,4,942,0,Low Value Customers
+12821,213,1,92,1,Lost Customers
+12822,70,3,978,0,Low Value Customers
+12823,74,5,1759,0,Low Value Customers
+12824,59,1,397,0,Low Value Customers
+12826,2,8,1481,0,Low Value Customers
+12827,5,3,430,0,Low Value Customers
+12828,2,6,1018,0,Low Value Customers
+12829,321,3,332,1,Lost Customers
+12830,37,7,6880,0,Low Value Customers
+12831,261,1,215,1,Lost Customers
+12832,31,2,383,0,Low Value Customers
+12833,144,1,417,1,Lost Customers
+12834,282,1,312,1,Lost Customers
+12836,58,4,2610,0,Low Value Customers
+12837,172,1,134,1,Lost Customers
+12838,33,2,671,0,Low Value Customers
+12839,2,16,5599,0,Low Value Customers
+12840,143,6,2739,0,Low Value Customers
+12841,4,26,4137,0,Low Value Customers
+12842,69,2,1118,0,Low Value Customers
+12843,65,9,1723,0,Low Value Customers
+12844,28,2,325,0,Low Value Customers
+12845,266,4,354,1,Lost Customers
+12847,21,1,843,0,Low Value Customers
+12849,30,2,1010,0,Low Value Customers
+12851,96,1,131,0,Low Value Customers
+12852,289,2,323,1,Lost Customers
+12853,107,9,2032,0,Low Value Customers
+12854,78,5,1351,0,Low Value Customers
+12855,372,1,38,1,Lost Customers
+12856,7,8,2188,0,Low Value Customers
+12857,210,2,1106,1,Lost Customers
+12863,51,2,538,0,Low Value Customers
+12864,137,1,147,1,Lost Customers
+12865,25,3,1588,0,Low Value Customers
+12866,282,1,559,1,Lost Customers
+12867,25,10,4059,0,Low Value Customers
+12868,185,6,1607,1,Lost Customers
+12870,365,1,14,1,Lost Customers
+12871,83,2,380,0,Low Value Customers
+12872,326,2,599,1,Lost Customers
+12873,281,1,374,1,Lost Customers
+12875,142,2,343,1,Lost Customers
+12876,57,2,2218,0,Low Value Customers
+12877,3,12,1535,0,Low Value Customers
+12878,17,3,868,0,Low Value Customers
+12879,44,4,593,0,Low Value Customers
+12881,275,1,298,1,Lost Customers
+12882,8,2,1463,0,Low Value Customers
+12883,24,4,703,0,Low Value Customers
+12884,87,1,309,0,Low Value Customers
+12885,62,4,1192,0,Low Value Customers
+12886,67,3,1405,0,Low Value Customers
+12888,213,4,394,1,Lost Customers
+12890,23,1,376,0,Low Value Customers
+12891,185,3,331,1,Lost Customers
+12893,30,1,176,0,Low Value Customers
+12895,41,3,398,0,Low Value Customers
+12897,204,2,216,1,Lost Customers
+12901,8,36,19015,0,Low Value Customers
+12902,264,1,138,1,Lost Customers
+12904,17,2,496,0,Low Value Customers
+12906,11,5,2919,0,Low Value Customers
+12908,58,4,1254,0,Low Value Customers
+12909,39,8,2228,0,Low Value Customers
+12910,22,8,3075,0,Low Value Customers
+12912,2,5,1662,0,Low Value Customers
+12913,4,5,2483,0,Low Value Customers
+12915,148,2,363,1,Lost Customers
+12916,138,5,2968,0,Low Value Customers
+12917,127,1,594,0,Low Value Customers
+12919,7,8,1368,0,Low Value Customers
+12920,16,1,162,0,Low Value Customers
+12921,3,50,16784,0,Low Value Customers
+12922,160,1,405,1,Lost Customers
+12923,63,1,172,0,Low Value Customers
+12924,87,5,937,0,Low Value Customers
+12925,4,2,694,0,Low Value Customers
+12928,34,5,2062,0,Low Value Customers
+12929,121,2,130,0,Low Value Customers
+12930,77,4,421,0,Low Value Customers
+12931,21,20,50649,0,Low Value Customers
+12933,23,4,608,0,Low Value Customers
+12935,1,8,2164,0,Low Value Customers
+12936,16,5,1114,0,Low Value Customers
+12937,14,4,1504,0,Low Value Customers
+12938,25,1,114,0,Low Value Customers
+12939,63,8,11581,0,Low Value Customers
+12940,45,4,936,0,Low Value Customers
+12942,130,3,675,0,Low Value Customers
+12943,300,1,3,1,Lost Customers
+12944,35,2,604,0,Low Value Customers
+12945,287,1,462,1,Lost Customers
+12947,143,11,1800,0,Low Value Customers
+12948,15,8,2076,0,Low Value Customers
+12949,30,10,4191,0,Low Value Customers
+12950,1,3,1843,0,Low Value Customers
+12951,8,8,1086,0,Low Value Customers
+12952,5,5,1392,0,Low Value Customers
+12953,9,1,329,0,Low Value Customers
+12955,0,14,4780,0,Low Value Customers
+12956,305,1,108,1,Lost Customers
+12957,3,12,4056,0,Low Value Customers
+12962,6,2,266,0,Low Value Customers
+12963,7,9,1872,0,Low Value Customers
+12965,88,1,769,0,Low Value Customers
+12966,9,1,160,0,Low Value Customers
+12967,2,4,2127,0,Low Value Customers
+12968,111,1,135,0,Low Value Customers
+12970,6,4,405,0,Low Value Customers
+12971,3,89,11449,2,Big Spenders
+12974,197,1,144,1,Lost Customers
+12976,211,1,738,1,Lost Customers
+12977,155,1,39,1,Lost Customers
+12980,155,12,7657,0,Low Value Customers
+12981,29,2,372,0,Low Value Customers
+12982,239,2,403,1,Lost Customers
+12984,18,1,97,0,Low Value Customers
+12985,0,3,1263,0,Low Value Customers
+12987,73,3,572,0,Low Value Customers
+12988,291,1,505,1,Lost Customers
+12989,2,19,6993,0,Low Value Customers
+12990,30,3,409,0,Low Value Customers
+12991,22,2,503,0,Low Value Customers
+12993,22,4,414,0,Low Value Customers
+12994,3,5,1046,0,Low Value Customers
+12995,77,2,221,0,Low Value Customers
+12997,21,7,1255,0,Low Value Customers
+12999,195,3,455,1,Lost Customers
+13000,106,3,534,0,Low Value Customers
+13001,3,15,9806,0,Low Value Customers
+13002,317,1,120,1,Lost Customers
+13003,105,3,149,0,Low Value Customers
+13004,11,22,5698,0,Low Value Customers
+13005,173,3,558,1,Lost Customers
+13006,55,1,81,0,Low Value Customers
+13008,322,2,280,1,Lost Customers
+13011,371,1,50,1,Lost Customers
+13012,8,11,1997,0,Low Value Customers
+13013,0,15,4834,0,Low Value Customers
+13014,2,16,3567,0,Low Value Customers
+13015,52,5,3339,0,Low Value Customers
+13016,72,3,789,0,Low Value Customers
+13017,6,1,204,0,Low Value Customers
+13018,15,29,7282,0,Low Value Customers
+13021,3,12,2648,0,Low Value Customers
+13023,63,2,689,0,Low Value Customers
+13026,0,8,1014,0,Low Value Customers
+13027,113,6,6912,0,Low Value Customers
+13028,22,3,662,0,Low Value Customers
+13029,30,3,1247,0,Low Value Customers
+13030,10,2,752,0,Low Value Customers
+13032,38,3,1023,0,Low Value Customers
+13033,356,1,190,1,Lost Customers
+13034,54,2,642,0,Low Value Customers
+13035,57,3,957,0,Low Value Customers
+13037,137,3,881,0,Low Value Customers
+13038,79,3,908,0,Low Value Customers
+13040,8,2,676,0,Low Value Customers
+13043,253,2,561,1,Lost Customers
+13044,290,1,560,1,Lost Customers
+13045,98,1,305,0,Low Value Customers
+13046,30,2,629,0,Low Value Customers
+13047,31,18,3395,0,Low Value Customers
+13048,13,5,1849,0,Low Value Customers
+13049,63,2,656,0,Low Value Customers
+13050,8,28,5989,0,Low Value Customers
+13052,211,1,348,1,Lost Customers
+13055,63,4,1226,0,Low Value Customers
+13058,24,3,271,0,Low Value Customers
+13059,249,1,183,1,Lost Customers
+13060,253,1,307,1,Lost Customers
+13061,71,1,248,0,Low Value Customers
+13062,190,1,346,1,Lost Customers
+13064,12,4,1105,0,Low Value Customers
+13065,372,1,205,1,Lost Customers
+13066,23,3,510,0,Low Value Customers
+13067,81,1,115,0,Low Value Customers
+13068,9,2,344,0,Low Value Customers
+13069,0,27,5149,0,Low Value Customers
+13070,191,1,228,1,Lost Customers
+13072,266,1,177,1,Lost Customers
+13075,129,1,919,0,Low Value Customers
+13077,0,4,728,0,Low Value Customers
+13078,0,43,12823,0,Low Value Customers
+13079,3,5,220,0,Low Value Customers
+13080,178,1,58,1,Lost Customers
+13081,0,21,28710,0,Low Value Customers
+13082,125,10,3631,0,Low Value Customers
+13083,3,2,303,0,Low Value Customers
+13085,157,3,559,1,Lost Customers
+13089,2,118,60202,2,Big Spenders
+13090,8,18,9132,0,Low Value Customers
+13091,20,2,371,0,Low Value Customers
+13092,70,6,495,0,Low Value Customers
+13093,266,13,7923,1,Lost Customers
+13094,20,16,2145,0,Low Value Customers
+13095,70,1,74,0,Low Value Customers
+13097,32,14,6120,0,Low Value Customers
+13098,0,41,29106,0,Low Value Customers
+13099,98,1,207,0,Low Value Customers
+13101,233,1,101,1,Lost Customers
+13102,0,27,6511,0,Low Value Customers
+13103,39,1,243,0,Low Value Customers
+13104,2,6,1098,0,Low Value Customers
+13106,128,2,93,0,Low Value Customers
+13107,43,5,1539,0,Low Value Customers
+13108,372,1,350,1,Lost Customers
+13109,2,5,806,0,Low Value Customers
+13110,30,8,1524,0,Low Value Customers
+13113,0,40,13981,0,Low Value Customers
+13115,8,14,2383,0,Low Value Customers
+13116,116,2,517,0,Low Value Customers
+13117,21,8,984,0,Low Value Customers
+13118,19,7,1270,0,Low Value Customers
+13120,238,1,30,1,Lost Customers
+13121,268,2,312,1,Lost Customers
+13122,93,2,922,0,Low Value Customers
+13124,89,3,3756,0,Low Value Customers
+13126,4,10,2142,0,Low Value Customers
+13127,77,1,259,0,Low Value Customers
+13130,93,1,64,0,Low Value Customers
+13131,22,4,1107,0,Low Value Customers
+13132,261,1,77,1,Lost Customers
+13133,273,2,109,1,Lost Customers
+13134,72,7,1846,0,Low Value Customers
+13135,196,1,3096,1,Lost Customers
+13136,49,11,2669,0,Low Value Customers
+13137,10,9,3648,0,Low Value Customers
+13138,21,6,962,0,Low Value Customers
+13139,15,8,5074,0,Low Value Customers
+13140,107,3,422,0,Low Value Customers
+13141,84,6,2391,0,Low Value Customers
+13142,18,1,307,0,Low Value Customers
+13144,332,1,110,1,Lost Customers
+13145,39,5,622,0,Low Value Customers
+13146,25,1,228,0,Low Value Customers
+13147,9,4,712,0,Low Value Customers
+13148,28,17,4041,0,Low Value Customers
+13149,13,4,1676,0,Low Value Customers
+13151,202,2,1265,1,Lost Customers
+13153,5,1,486,0,Low Value Customers
+13154,143,1,611,1,Lost Customers
+13155,32,4,971,0,Low Value Customers
+13157,48,5,1760,0,Low Value Customers
+13158,94,4,1201,0,Low Value Customers
+13159,8,5,1487,0,Low Value Customers
+13160,21,1,91,0,Low Value Customers
+13161,312,1,112,1,Lost Customers
+13162,121,5,1731,0,Low Value Customers
+13165,45,2,1021,0,Low Value Customers
+13166,281,2,419,1,Lost Customers
+13167,18,4,791,0,Low Value Customers
+13168,35,5,1308,0,Low Value Customers
+13169,63,2,712,0,Low Value Customers
+13170,26,1,108,0,Low Value Customers
+13171,7,5,510,0,Low Value Customers
+13173,3,2,353,0,Low Value Customers
+13174,15,3,2742,0,Low Value Customers
+13176,45,1,481,0,Low Value Customers
+13177,64,1,282,0,Low Value Customers
+13178,25,11,5725,0,Low Value Customers
+13182,44,1,121,0,Low Value Customers
+13183,7,9,3957,0,Low Value Customers
+13184,14,12,1721,0,Low Value Customers
+13185,267,1,71,1,Lost Customers
+13186,39,5,1612,0,Low Value Customers
+13187,336,1,236,1,Lost Customers
+13188,10,1,114,0,Low Value Customers
+13189,18,2,260,0,Low Value Customers
+13192,94,2,911,0,Low Value Customers
+13193,60,1,112,0,Low Value Customers
+13194,135,1,60,0,Low Value Customers
+13196,10,4,1797,0,Low Value Customers
+13198,9,8,3418,0,Low Value Customers
+13199,3,39,9830,0,Low Value Customers
+13200,18,4,870,0,Low Value Customers
+13203,9,4,869,0,Low Value Customers
+13207,14,2,250,0,Low Value Customers
+13208,58,7,1235,0,Low Value Customers
+13209,29,11,5963,0,Low Value Customers
+13210,93,1,353,0,Low Value Customers
+13211,9,3,1095,0,Low Value Customers
+13212,8,4,794,0,Low Value Customers
+13213,56,6,1522,0,Low Value Customers
+13216,267,1,333,1,Lost Customers
+13217,121,5,934,0,Low Value Customers
+13218,126,1,62,0,Low Value Customers
+13220,77,4,819,0,Low Value Customers
+13221,239,2,847,1,Lost Customers
+13223,199,2,163,1,Lost Customers
+13224,59,3,2161,0,Low Value Customers
+13225,2,8,6844,0,Low Value Customers
+13226,272,1,108,1,Lost Customers
+13227,201,1,257,1,Lost Customers
+13228,80,1,358,0,Low Value Customers
+13229,225,1,160,1,Lost Customers
+13230,3,15,2799,0,Low Value Customers
+13232,12,7,1328,0,Low Value Customers
+13233,73,2,605,0,Low Value Customers
+13235,211,2,1960,1,Lost Customers
+13236,24,3,762,0,Low Value Customers
+13238,10,5,720,0,Low Value Customers
+13239,261,1,329,1,Lost Customers
+13240,95,4,663,0,Low Value Customers
+13242,111,3,270,0,Low Value Customers
+13243,202,1,585,1,Lost Customers
+13244,92,1,121,0,Low Value Customers
+13245,50,1,430,0,Low Value Customers
+13246,17,7,2026,0,Low Value Customers
+13247,17,4,501,0,Low Value Customers
+13248,124,2,465,0,Low Value Customers
+13249,91,3,711,0,Low Value Customers
+13253,156,2,1030,1,Lost Customers
+13255,3,3,408,0,Low Value Customers
+13256,13,1,0,0,Low Value Customers
+13258,11,3,672,0,Low Value Customers
+13259,61,1,283,0,Low Value Customers
+13260,60,1,557,0,Low Value Customers
+13261,268,2,944,1,Lost Customers
+13262,262,1,200,1,Lost Customers
+13263,0,35,7436,0,Low Value Customers
+13265,52,5,2092,0,Low Value Customers
+13266,10,19,3950,0,Low Value Customers
+13267,2,27,4638,0,Low Value Customers
+13268,17,15,3221,0,Low Value Customers
+13269,0,17,5373,0,Low Value Customers
+13270,365,1,590,1,Lost Customers
+13271,36,2,250,0,Low Value Customers
+13272,30,2,276,0,Low Value Customers
+13273,112,1,138,0,Low Value Customers
+13276,63,2,590,0,Low Value Customers
+13277,15,4,258,0,Low Value Customers
+13278,40,1,542,0,Low Value Customers
+13279,63,2,149,0,Low Value Customers
+13280,121,3,798,0,Low Value Customers
+13282,17,6,1216,0,Low Value Customers
+13283,59,2,93,0,Low Value Customers
+13284,322,2,206,1,Lost Customers
+13285,22,4,2709,0,Low Value Customers
+13291,155,1,361,1,Lost Customers
+13292,38,2,578,0,Low Value Customers
+13294,189,2,873,1,Lost Customers
+13295,359,2,204,1,Lost Customers
+13296,136,1,87,1,Lost Customers
+13297,7,4,2089,0,Low Value Customers
+13298,0,1,360,0,Low Value Customers
+13299,267,1,142,1,Lost Customers
+13300,164,2,378,1,Lost Customers
+13301,103,4,618,0,Low Value Customers
+13302,154,1,63,1,Lost Customers
+13304,350,1,300,1,Lost Customers
+13305,3,10,2000,0,Low Value Customers
+13307,119,1,15,0,Low Value Customers
+13308,22,4,1403,0,Low Value Customers
+13309,6,5,1456,0,Low Value Customers
+13310,8,6,1180,0,Low Value Customers
+13311,3,2,598,0,Low Value Customers
+13313,21,5,1555,0,Low Value Customers
+13314,1,4,958,0,Low Value Customers
+13316,36,5,5895,0,Low Value Customers
+13317,63,9,2407,0,Low Value Customers
+13318,0,3,640,0,Low Value Customers
+13319,4,36,11026,0,Low Value Customers
+13320,69,6,1589,0,Low Value Customers
+13321,71,2,567,0,Low Value Customers
+13322,16,1,199,0,Low Value Customers
+13323,2,5,787,0,Low Value Customers
+13324,31,12,7171,0,Low Value Customers
+13325,81,1,675,0,Low Value Customers
+13327,38,9,3637,0,Low Value Customers
+13328,315,1,1308,1,Lost Customers
+13329,31,4,837,0,Low Value Customers
+13330,92,3,1140,0,Low Value Customers
+13332,13,1,350,0,Low Value Customers
+13334,81,3,3502,0,Low Value Customers
+13336,76,1,795,0,Low Value Customers
+13338,153,3,542,1,Lost Customers
+13339,200,1,860,1,Lost Customers
+13340,44,7,10736,0,Low Value Customers
+13341,260,1,775,1,Lost Customers
+13343,172,2,402,1,Lost Customers
+13344,67,3,2511,0,Low Value Customers
+13345,276,2,401,1,Lost Customers
+13347,69,1,341,0,Low Value Customers
+13348,63,1,233,0,Low Value Customers
+13349,10,1,247,0,Low Value Customers
+13350,15,3,1047,0,Low Value Customers
+13351,65,1,373,0,Low Value Customers
+13352,7,2,406,0,Low Value Customers
+13354,70,1,743,0,Low Value Customers
+13355,121,1,674,0,Low Value Customers
+13356,79,1,768,0,Low Value Customers
+13357,256,1,609,1,Lost Customers
+13358,268,1,439,1,Lost Customers
+13359,58,2,447,0,Low Value Customers
+13362,2,5,3095,0,Low Value Customers
+13363,17,2,992,0,Low Value Customers
+13364,66,2,269,0,Low Value Customers
+13365,8,3,2259,0,Low Value Customers
+13366,49,1,56,0,Low Value Customers
+13368,256,2,623,1,Lost Customers
+13369,353,2,352,1,Lost Customers
+13370,365,2,788,1,Lost Customers
+13372,89,1,378,0,Low Value Customers
+13373,60,3,3312,0,Low Value Customers
+13375,80,2,784,0,Low Value Customers
+13376,98,3,1019,0,Low Value Customers
+13379,25,3,572,0,Low Value Customers
+13381,20,7,3651,0,Low Value Customers
+13382,280,1,222,1,Lost Customers
+13384,30,9,4181,0,Low Value Customers
+13385,329,1,534,1,Lost Customers
+13388,120,3,727,0,Low Value Customers
+13389,10,3,797,0,Low Value Customers
+13390,74,1,544,0,Low Value Customers
+13391,203,1,59,1,Lost Customers
+13394,1,10,2727,0,Low Value Customers
+13395,184,1,307,1,Lost Customers
+13396,21,4,1396,0,Low Value Customers
+13397,72,6,1549,0,Low Value Customers
+13398,191,1,457,1,Lost Customers
+13402,126,2,621,0,Low Value Customers
+13403,17,1,75,0,Low Value Customers
+13404,0,2,252,0,Low Value Customers
+13405,73,3,572,0,Low Value Customers
+13408,1,81,28746,2,Big Spenders
+13410,8,7,1017,0,Low Value Customers
+13411,106,1,213,0,Low Value Customers
+13414,133,3,1390,0,Low Value Customers
+13416,43,2,712,0,Low Value Customers
+13417,4,2,640,0,Low Value Customers
+13418,11,23,6409,0,Low Value Customers
+13419,63,1,221,0,Low Value Customers
+13420,134,4,179,0,Low Value Customers
+13421,39,3,1835,0,Low Value Customers
+13422,50,2,2651,0,Low Value Customers
+13425,107,3,1624,0,Low Value Customers
+13426,0,12,3731,0,Low Value Customers
+13427,18,3,582,0,Low Value Customers
+13428,9,1,201,0,Low Value Customers
+13429,10,4,1006,0,Low Value Customers
+13430,18,4,710,0,Low Value Customers
+13431,66,2,1269,0,Low Value Customers
+13434,73,2,534,0,Low Value Customers
+13435,4,9,3825,0,Low Value Customers
+13436,1,1,196,0,Low Value Customers
+13437,13,7,3408,0,Low Value Customers
+13439,254,1,283,1,Lost Customers
+13441,91,1,296,0,Low Value Customers
+13447,22,4,1154,0,Low Value Customers
+13448,16,10,3608,0,Low Value Customers
+13449,23,1,291,0,Low Value Customers
+13450,26,6,2043,0,Low Value Customers
+13451,25,6,2957,0,Low Value Customers
+13452,258,2,590,1,Lost Customers
+13453,165,2,356,1,Lost Customers
+13455,24,4,1109,0,Low Value Customers
+13456,17,7,1795,0,Low Value Customers
+13458,6,22,9755,0,Low Value Customers
+13460,28,2,183,0,Low Value Customers
+13461,38,3,1445,0,Low Value Customers
+13462,182,2,159,1,Lost Customers
+13464,57,1,674,0,Low Value Customers
+13466,99,2,317,0,Low Value Customers
+13467,10,2,1071,0,Low Value Customers
+13468,1,41,5753,0,Low Value Customers
+13470,98,2,165,0,Low Value Customers
+13471,0,4,2501,0,Low Value Customers
+13473,60,3,427,0,Low Value Customers
+13474,235,1,226,1,Lost Customers
+13475,190,4,1431,1,Lost Customers
+13476,178,4,1384,1,Lost Customers
+13477,37,8,1467,0,Low Value Customers
+13479,197,3,310,1,Lost Customers
+13481,45,8,1832,0,Low Value Customers
+13482,231,1,184,1,Lost Customers
+13483,65,1,140,0,Low Value Customers
+13484,240,1,313,1,Lost Customers
+13485,232,1,454,1,Lost Customers
+13486,77,3,1122,0,Low Value Customers
+13487,57,3,575,0,Low Value Customers
+13488,16,17,9026,0,Low Value Customers
+13489,104,4,449,0,Low Value Customers
+13491,51,10,1215,0,Low Value Customers
+13492,135,3,1269,0,Low Value Customers
+13493,274,2,618,1,Lost Customers
+13494,311,1,316,1,Lost Customers
+13495,7,6,2099,0,Low Value Customers
+13496,10,3,688,0,Low Value Customers
+13497,282,3,375,1,Lost Customers
+13499,17,7,1171,0,Low Value Customers
+13500,22,4,1196,0,Low Value Customers
+13501,242,2,1370,1,Lost Customers
+13502,16,3,292,0,Low Value Customers
+13503,70,1,216,0,Low Value Customers
+13504,63,1,295,0,Low Value Customers
+13505,67,8,4504,0,Low Value Customers
+13506,311,3,464,1,Lost Customers
+13507,2,4,2479,0,Low Value Customers
+13508,243,1,110,1,Lost Customers
+13509,8,7,979,0,Low Value Customers
+13510,0,5,1797,0,Low Value Customers
+13512,260,1,251,1,Lost Customers
+13513,126,1,205,0,Low Value Customers
+13514,73,1,152,0,Low Value Customers
+13515,72,4,891,0,Low Value Customers
+13516,20,3,1389,0,Low Value Customers
+13517,59,5,2147,0,Low Value Customers
+13518,85,1,627,0,Low Value Customers
+13519,49,2,134,0,Low Value Customers
+13520,58,8,3760,0,Low Value Customers
+13521,0,3,1071,0,Low Value Customers
+13522,29,1,125,0,Low Value Customers
+13523,32,6,4174,0,Low Value Customers
+13524,40,5,680,0,Low Value Customers
+13525,14,2,628,0,Low Value Customers
+13527,33,8,2266,0,Low Value Customers
+13529,78,2,307,0,Low Value Customers
+13531,204,2,483,1,Lost Customers
+13532,33,1,210,0,Low Value Customers
+13533,182,3,269,1,Lost Customers
+13534,1,43,6127,0,Low Value Customers
+13536,0,7,3444,0,Low Value Customers
+13538,42,7,1280,0,Low Value Customers
+13539,85,4,656,0,Low Value Customers
+13544,39,2,276,0,Low Value Customers
+13546,11,3,621,0,Low Value Customers
+13548,95,2,678,0,Low Value Customers
+13549,25,8,920,0,Low Value Customers
+13551,318,1,91,1,Lost Customers
+13552,65,16,3940,0,Low Value Customers
+13555,73,4,4098,0,Low Value Customers
+13557,27,2,584,0,Low Value Customers
+13558,5,4,594,0,Low Value Customers
+13560,6,1,171,0,Low Value Customers
+13561,215,1,141,1,Lost Customers
+13562,81,3,1799,0,Low Value Customers
+13563,83,2,777,0,Low Value Customers
+13564,143,5,2825,0,Low Value Customers
+13565,18,2,240,0,Low Value Customers
+13566,40,2,856,0,Low Value Customers
+13568,172,1,187,1,Lost Customers
+13569,16,2,338,0,Low Value Customers
+13570,242,1,239,1,Lost Customers
+13571,12,12,2088,0,Low Value Customers
+13572,205,1,1384,1,Lost Customers
+13573,49,2,290,0,Low Value Customers
+13575,22,5,732,0,Low Value Customers
+13576,9,20,6731,0,Low Value Customers
+13577,24,5,1716,0,Low Value Customers
+13579,14,2,467,0,Low Value Customers
+13581,308,1,118,1,Lost Customers
+13583,155,1,781,1,Lost Customers
+13584,306,1,142,1,Lost Customers
+13587,31,3,1077,0,Low Value Customers
+13588,15,13,2512,0,Low Value Customers
+13589,14,2,379,0,Low Value Customers
+13590,10,7,1987,0,Low Value Customers
+13591,64,3,1117,0,Low Value Customers
+13592,35,4,247,0,Low Value Customers
+13593,107,6,2058,0,Low Value Customers
+13594,52,1,396,0,Low Value Customers
+13596,5,2,664,0,Low Value Customers
+13598,46,2,172,0,Low Value Customers
+13599,0,33,5272,0,Low Value Customers
+13600,311,1,219,1,Lost Customers
+13601,44,2,693,0,Low Value Customers
+13602,64,1,428,0,Low Value Customers
+13603,25,1,164,0,Low Value Customers
+13606,28,3,276,0,Low Value Customers
+13607,39,1,675,0,Low Value Customers
+13610,11,9,1098,0,Low Value Customers
+13611,88,4,1168,0,Low Value Customers
+13614,23,4,1585,0,Low Value Customers
+13615,312,2,435,1,Lost Customers
+13617,39,3,544,0,Low Value Customers
+13618,173,1,177,1,Lost Customers
+13621,116,1,213,0,Low Value Customers
+13623,30,7,803,0,Low Value Customers
+13626,252,1,257,1,Lost Customers
+13627,58,7,1652,0,Low Value Customers
+13629,22,11,7792,0,Low Value Customers
+13630,4,11,2067,0,Low Value Customers
+13631,99,12,3119,0,Low Value Customers
+13632,24,6,2123,0,Low Value Customers
+13634,32,5,1547,0,Low Value Customers
+13635,67,1,1071,0,Low Value Customers
+13636,36,6,956,0,Low Value Customers
+13637,51,3,804,0,Low Value Customers
+13638,15,1,122,0,Low Value Customers
+13639,73,1,1033,0,Low Value Customers
+13642,215,1,312,1,Lost Customers
+13643,30,3,519,0,Low Value Customers
+13644,8,5,2651,0,Low Value Customers
+13645,119,1,252,0,Low Value Customers
+13647,9,5,1656,0,Low Value Customers
+13649,256,2,346,1,Lost Customers
+13650,16,7,1863,0,Low Value Customers
+13651,34,2,94,0,Low Value Customers
+13652,45,3,1095,0,Low Value Customers
+13654,42,6,2707,0,Low Value Customers
+13655,113,2,932,0,Low Value Customers
+13656,164,2,379,1,Lost Customers
+13657,10,2,382,0,Low Value Customers
+13658,9,7,2856,0,Low Value Customers
+13659,196,3,1585,1,Lost Customers
+13662,85,7,899,0,Low Value Customers
+13663,178,1,189,1,Lost Customers
+13666,59,3,84,0,Low Value Customers
+13667,148,1,299,1,Lost Customers
+13668,2,29,6457,0,Low Value Customers
+13669,50,2,218,0,Low Value Customers
+13670,74,1,349,0,Low Value Customers
+13672,300,6,444,1,Lost Customers
+13673,18,2,387,0,Low Value Customers
+13675,150,2,486,1,Lost Customers
+13678,151,1,232,1,Lost Customers
+13680,0,5,5239,0,Low Value Customers
+13681,17,4,827,0,Low Value Customers
+13682,186,1,59,1,Lost Customers
+13684,285,2,68,1,Lost Customers
+13685,2,7,3119,0,Low Value Customers
+13686,182,1,72,1,Lost Customers
+13689,62,1,910,0,Low Value Customers
+13690,58,1,172,0,Low Value Customers
+13692,24,5,1509,0,Low Value Customers
+13693,324,2,32,1,Lost Customers
+13694,3,60,67388,2,Big Spenders
+13695,30,15,2504,0,Low Value Customers
+13697,38,1,151,0,Low Value Customers
+13699,154,1,308,1,Lost Customers
+13700,25,10,2248,0,Low Value Customers
+13703,317,1,99,1,Lost Customers
+13704,4,10,2320,0,Low Value Customers
+13705,7,3,711,0,Low Value Customers
+13706,302,1,330,1,Lost Customers
+13707,266,2,806,1,Lost Customers
+13708,270,1,285,1,Lost Customers
+13709,3,17,6386,0,Low Value Customers
+13710,31,1,180,0,Low Value Customers
+13711,218,2,252,1,Lost Customers
+13712,246,1,228,1,Lost Customers
+13715,280,8,1102,1,Lost Customers
+13716,268,1,138,1,Lost Customers
+13717,31,7,1457,0,Low Value Customers
+13718,245,2,306,1,Lost Customers
+13719,14,5,1041,0,Low Value Customers
+13720,116,4,799,0,Low Value Customers
+13721,35,1,524,0,Low Value Customers
+13722,119,4,2381,0,Low Value Customers
+13723,216,1,199,1,Lost Customers
+13725,49,11,2151,0,Low Value Customers
+13726,38,2,1079,0,Low Value Customers
+13727,28,2,333,0,Low Value Customers
+13728,36,6,1016,0,Low Value Customers
+13730,135,2,752,0,Low Value Customers
+13731,218,2,610,1,Lost Customers
+13732,27,1,491,0,Low Value Customers
+13735,24,8,3002,0,Low Value Customers
+13736,4,3,737,0,Low Value Customers
+13737,199,1,339,1,Lost Customers
+13739,17,1,216,0,Low Value Customers
+13740,240,1,350,1,Lost Customers
+13741,71,4,670,0,Low Value Customers
+13742,16,14,3136,0,Low Value Customers
+13743,2,8,1343,0,Low Value Customers
+13744,94,2,1080,0,Low Value Customers
+13745,150,2,308,1,Lost Customers
+13747,373,1,79,1,Lost Customers
+13748,95,5,948,0,Low Value Customers
+13750,53,5,1647,0,Low Value Customers
+13751,287,1,296,1,Lost Customers
+13752,123,6,1175,0,Low Value Customers
+13753,287,1,741,1,Lost Customers
+13754,151,2,282,1,Lost Customers
+13755,3,10,2114,0,Low Value Customers
+13756,1,15,5233,0,Low Value Customers
+13758,11,7,3190,0,Low Value Customers
+13759,32,2,659,0,Low Value Customers
+13760,53,2,286,0,Low Value Customers
+13761,49,2,1070,0,Low Value Customers
+13762,203,2,613,1,Lost Customers
+13763,62,3,1740,0,Low Value Customers
+13764,70,3,1519,0,Low Value Customers
+13767,1,52,17495,0,Low Value Customers
+13769,1,16,2821,0,Low Value Customers
+13771,63,5,2637,0,Low Value Customers
+13772,33,3,1122,0,Low Value Customers
+13774,81,1,345,0,Low Value Customers
+13777,0,41,26205,0,Low Value Customers
+13778,102,1,178,0,Low Value Customers
+13780,6,2,360,0,Low Value Customers
+13781,250,1,127,1,Lost Customers
+13782,12,6,908,0,Low Value Customers
+13784,9,11,2462,0,Low Value Customers
+13786,366,1,230,1,Lost Customers
+13787,75,2,309,0,Low Value Customers
+13790,3,1,348,0,Low Value Customers
+13791,42,3,1984,0,Low Value Customers
+13792,65,2,195,0,Low Value Customers
+13798,0,63,37954,2,Big Spenders
+13799,116,2,688,0,Low Value Customers
+13800,309,1,558,1,Lost Customers
+13801,66,1,324,0,Low Value Customers
+13802,137,6,5292,0,Low Value Customers
+13803,254,1,277,1,Lost Customers
+13804,30,7,2588,0,Low Value Customers
+13805,51,2,924,0,Low Value Customers
+13806,63,1,256,0,Low Value Customers
+13807,366,1,112,1,Lost Customers
+13808,5,5,1747,0,Low Value Customers
+13809,304,1,155,1,Lost Customers
+13810,28,4,2098,0,Low Value Customers
+13811,183,4,1037,1,Lost Customers
+13812,41,3,539,0,Low Value Customers
+13813,39,5,1380,0,Low Value Customers
+13814,55,3,1596,0,Low Value Customers
+13815,21,5,4039,0,Low Value Customers
+13816,23,4,588,0,Low Value Customers
+13817,28,2,382,0,Low Value Customers
+13819,301,3,1140,1,Lost Customers
+13821,144,2,385,1,Lost Customers
+13822,5,2,632,0,Low Value Customers
+13823,18,2,957,0,Low Value Customers
+13824,32,5,1698,0,Low Value Customers
+13826,157,2,204,1,Lost Customers
+13827,57,3,409,0,Low Value Customers
+13828,21,1,209,0,Low Value Customers
+13829,358,1,102,1,Lost Customers
+13831,15,6,2198,0,Low Value Customers
+13832,17,2,63,0,Low Value Customers
+13833,158,1,383,1,Lost Customers
+13835,24,4,834,0,Low Value Customers
+13837,211,2,266,1,Lost Customers
+13838,5,4,674,0,Low Value Customers
+13841,252,1,85,1,Lost Customers
+13842,58,9,3385,0,Low Value Customers
+13844,10,1,361,0,Low Value Customers
+13845,64,1,312,0,Low Value Customers
+13846,24,4,882,0,Low Value Customers
+13848,91,3,1255,0,Low Value Customers
+13849,51,2,1537,0,Low Value Customers
+13850,87,2,1604,0,Low Value Customers
+13851,95,3,2651,0,Low Value Customers
+13853,8,2,1123,0,Low Value Customers
+13854,8,29,8194,0,Low Value Customers
+13856,168,5,413,1,Lost Customers
+13858,56,1,216,0,Low Value Customers
+13859,325,1,201,1,Lost Customers
+13860,0,6,1251,0,Low Value Customers
+13862,17,10,2231,0,Low Value Customers
+13863,244,2,312,1,Lost Customers
+13865,57,4,501,0,Low Value Customers
+13866,73,1,145,0,Low Value Customers
+13867,30,3,1005,0,Low Value Customers
+13868,6,2,3192,0,Low Value Customers
+13869,122,4,3083,0,Low Value Customers
+13870,1,10,2790,0,Low Value Customers
+13871,22,14,6416,0,Low Value Customers
+13873,119,4,397,0,Low Value Customers
+13874,357,1,540,1,Lost Customers
+13875,53,5,1786,0,Low Value Customers
+13876,63,1,122,0,Low Value Customers
+13877,85,1,117,0,Low Value Customers
+13878,54,1,1271,0,Low Value Customers
+13880,20,13,3219,0,Low Value Customers
+13881,3,22,17329,0,Low Value Customers
+13882,2,6,1250,0,Low Value Customers
+13883,0,9,2810,0,Low Value Customers
+13884,6,6,793,0,Low Value Customers
+13885,188,2,506,1,Lost Customers
+13886,70,1,243,0,Low Value Customers
+13887,203,1,349,1,Lost Customers
+13888,119,2,595,0,Low Value Customers
+13889,92,1,416,0,Low Value Customers
+13890,0,14,1906,0,Low Value Customers
+13892,26,4,632,0,Low Value Customers
+13893,297,1,821,1,Lost Customers
+13894,21,5,593,0,Low Value Customers
+13895,20,5,2598,0,Low Value Customers
+13897,49,1,311,0,Low Value Customers
+13898,325,1,155,1,Lost Customers
+13899,15,2,388,0,Low Value Customers
+13900,182,3,740,1,Lost Customers
+13901,71,5,2867,0,Low Value Customers
+13904,36,2,332,0,Low Value Customers
+13908,79,5,2392,0,Low Value Customers
+13911,56,9,2580,0,Low Value Customers
+13914,3,3,638,0,Low Value Customers
+13917,49,2,272,0,Low Value Customers
+13918,49,2,1212,0,Low Value Customers
+13919,52,3,419,0,Low Value Customers
+13922,351,1,172,1,Lost Customers
+13923,53,1,351,0,Low Value Customers
+13924,1,11,1995,0,Low Value Customers
+13925,35,6,739,0,Low Value Customers
+13926,22,1,223,0,Low Value Customers
+13927,74,1,348,0,Low Value Customers
+13928,10,4,464,0,Low Value Customers
+13929,168,3,882,1,Lost Customers
+13930,57,2,337,0,Low Value Customers
+13931,85,3,1244,0,Low Value Customers
+13932,294,1,307,1,Lost Customers
+13933,108,2,608,0,Low Value Customers
+13934,263,1,922,1,Lost Customers
+13936,170,2,391,1,Lost Customers
+13937,168,1,158,1,Lost Customers
+13938,34,1,71,0,Low Value Customers
+13939,22,4,580,0,Low Value Customers
+13940,16,4,839,0,Low Value Customers
+13941,21,7,5313,0,Low Value Customers
+13946,78,3,561,0,Low Value Customers
+13947,64,1,90,0,Low Value Customers
+13948,360,1,102,1,Lost Customers
+13949,2,6,2427,0,Low Value Customers
+13950,10,5,761,0,Low Value Customers
+13951,175,3,674,1,Lost Customers
+13952,210,3,3256,1,Lost Customers
+13953,6,7,3515,0,Low Value Customers
+13954,1,3,501,0,Low Value Customers
+13955,153,2,322,1,Lost Customers
+13956,4,5,1019,0,Low Value Customers
+13958,371,1,102,1,Lost Customers
+13959,78,3,594,0,Low Value Customers
+13960,20,2,230,0,Low Value Customers
+13962,21,2,169,0,Low Value Customers
+13963,307,4,664,1,Lost Customers
+13967,145,1,80,1,Lost Customers
+13969,6,20,9091,0,Low Value Customers
+13971,8,11,2814,0,Low Value Customers
+13972,70,2,190,0,Low Value Customers
+13973,286,1,264,1,Lost Customers
+13974,48,1,413,0,Low Value Customers
+13975,30,7,2484,0,Low Value Customers
+13976,206,1,357,1,Lost Customers
+13978,14,2,196,0,Low Value Customers
+13979,72,1,869,0,Low Value Customers
+13980,59,1,200,0,Low Value Customers
+13982,38,5,1882,0,Low Value Customers
+13983,29,13,2616,0,Low Value Customers
+13984,26,6,1352,0,Low Value Customers
+13985,3,16,7095,0,Low Value Customers
+13986,16,1,320,0,Low Value Customers
+13988,19,9,4197,0,Low Value Customers
+13989,65,2,1266,0,Low Value Customers
+13990,212,1,311,1,Lost Customers
+13991,11,7,858,0,Low Value Customers
+13992,29,1,76,0,Low Value Customers
+13993,31,12,3523,0,Low Value Customers
+13994,3,6,2274,0,Low Value Customers
+13995,14,6,1403,0,Low Value Customers
+13999,9,15,3938,0,Low Value Customers
+14000,205,2,637,1,Lost Customers
+14001,45,4,2055,0,Low Value Customers
+14002,133,2,529,0,Low Value Customers
+14004,42,7,4582,0,Low Value Customers
+14005,9,5,2874,0,Low Value Customers
+14006,115,3,962,0,Low Value Customers
+14009,197,3,705,1,Lost Customers
+14012,277,1,328,1,Lost Customers
+14013,109,3,473,0,Low Value Customers
+14014,76,1,505,0,Low Value Customers
+14015,52,1,917,0,Low Value Customers
+14016,153,5,4353,1,Lost Customers
+14019,46,4,1444,0,Low Value Customers
+14020,16,2,642,0,Low Value Customers
+14021,154,3,631,1,Lost Customers
+14022,224,1,440,1,Lost Customers
+14023,6,2,584,0,Low Value Customers
+14024,121,2,327,0,Low Value Customers
+14027,60,1,104,0,Low Value Customers
+14029,62,2,467,0,Low Value Customers
+14030,17,8,2358,0,Low Value Customers
+14031,6,23,19939,0,Low Value Customers
+14032,1,18,3021,0,Low Value Customers
+14034,21,4,788,0,Low Value Customers
+14035,28,5,1428,0,Low Value Customers
+14036,284,1,626,1,Lost Customers
+14037,175,2,147,1,Lost Customers
+14038,77,4,1566,0,Low Value Customers
+14039,32,1,152,0,Low Value Customers
+14040,40,15,3633,0,Low Value Customers
+14041,265,1,141,1,Lost Customers
+14044,26,4,646,0,Low Value Customers
+14045,108,4,1659,0,Low Value Customers
+14046,283,1,154,1,Lost Customers
+14047,8,7,1327,0,Low Value Customers
+14048,276,2,444,1,Lost Customers
+14049,16,6,5621,0,Low Value Customers
+14050,31,2,746,0,Low Value Customers
+14051,0,26,15743,0,Low Value Customers
+14052,19,1,225,0,Low Value Customers
+14053,123,2,260,0,Low Value Customers
+14054,64,1,92,0,Low Value Customers
+14055,105,1,725,0,Low Value Customers
+14056,0,29,8242,0,Low Value Customers
+14057,23,18,6282,0,Low Value Customers
+14059,266,1,183,1,Lost Customers
+14060,4,20,6145,0,Low Value Customers
+14062,9,12,10464,0,Low Value Customers
+14064,28,7,1499,0,Low Value Customers
+14066,266,1,152,1,Lost Customers
+14067,63,2,374,0,Low Value Customers
+14068,319,1,265,1,Lost Customers
+14071,3,9,1568,0,Low Value Customers
+14073,20,2,162,0,Low Value Customers
+14075,4,3,942,0,Low Value Customers
+14076,128,1,118,0,Low Value Customers
+14077,40,5,499,0,Low Value Customers
+14078,101,6,1049,0,Low Value Customers
+14079,124,1,375,0,Low Value Customers
+14080,32,1,45,0,Low Value Customers
+14081,266,4,951,1,Lost Customers
+14082,364,1,182,1,Lost Customers
+14083,3,9,1002,0,Low Value Customers
+14085,1,19,4434,0,Low Value Customers
+14087,2,2,204,0,Low Value Customers
+14088,9,14,50568,0,Low Value Customers
+14089,56,1,158,0,Low Value Customers
+14090,324,1,76,1,Lost Customers
+14092,7,17,4090,0,Low Value Customers
+14093,11,1,433,0,Low Value Customers
+14096,3,34,73208,2,Big Spenders
+14098,36,1,147,0,Low Value Customers
+14099,15,12,3115,0,Low Value Customers
+14100,137,1,191,1,Lost Customers
+14101,73,6,5976,0,Low Value Customers
+14102,4,8,1151,0,Low Value Customers
+14104,154,2,216,1,Lost Customers
+14105,84,2,1272,0,Low Value Customers
+14107,51,8,2717,0,Low Value Customers
+14108,30,3,601,0,Low Value Customers
+14109,22,2,208,0,Low Value Customers
+14110,3,13,5696,0,Low Value Customers
+14111,13,5,697,0,Low Value Customers
+14112,22,12,3056,0,Low Value Customers
+14113,3,8,2302,0,Low Value Customers
+14114,273,2,386,1,Lost Customers
+14116,19,5,1382,0,Low Value Customers
+14117,143,1,90,1,Lost Customers
+14119,353,1,19,1,Lost Customers
+14121,3,6,2820,0,Low Value Customers
+14124,83,1,419,0,Low Value Customers
+14125,10,3,2720,0,Low Value Customers
+14126,7,4,768,0,Low Value Customers
+14127,122,3,709,0,Low Value Customers
+14128,60,2,637,0,Low Value Customers
+14129,1,5,1123,0,Low Value Customers
+14130,318,1,480,1,Lost Customers
+14132,1,12,3591,0,Low Value Customers
+14133,129,5,620,0,Low Value Customers
+14135,1,15,4690,0,Low Value Customers
+14138,1,2,965,0,Low Value Customers
+14139,45,1,415,0,Low Value Customers
+14140,3,3,950,0,Low Value Customers
+14141,2,6,951,0,Low Value Customers
+14142,372,1,311,1,Lost Customers
+14143,133,1,115,0,Low Value Customers
+14145,46,5,4336,0,Low Value Customers
+14146,8,6,5432,0,Low Value Customers
+14147,48,3,498,0,Low Value Customers
+14148,233,1,157,1,Lost Customers
+14149,212,3,633,1,Lost Customers
+14150,35,2,658,0,Low Value Customers
+14152,74,3,631,0,Low Value Customers
+14154,238,2,1345,1,Lost Customers
+14155,265,1,118,1,Lost Customers
+14156,9,66,121205,4,Loyal Customers
+14157,19,3,457,0,Low Value Customers
+14158,39,1,507,0,Low Value Customers
+14159,19,14,4645,0,Low Value Customers
+14161,215,3,1097,1,Lost Customers
+14162,173,2,289,1,Lost Customers
+14163,86,4,2445,0,Low Value Customers
+14164,70,2,1631,0,Low Value Customers
+14165,275,1,120,1,Lost Customers
+14167,38,4,562,0,Low Value Customers
+14171,97,1,363,0,Low Value Customers
+14173,10,4,450,0,Low Value Customers
+14174,32,1,134,0,Low Value Customers
+14175,50,7,3336,0,Low Value Customers
+14176,296,5,579,1,Lost Customers
+14177,84,5,554,0,Low Value Customers
+14178,8,7,1600,0,Low Value Customers
+14179,40,2,701,0,Low Value Customers
+14180,10,31,4856,0,Low Value Customers
+14184,66,1,452,0,Low Value Customers
+14185,330,1,197,1,Lost Customers
+14188,8,10,2089,0,Low Value Customers
+14189,1,24,4703,0,Low Value Customers
+14191,1,14,4709,0,Low Value Customers
+14193,67,2,853,0,Low Value Customers
+14194,4,32,11482,0,Low Value Customers
+14195,201,3,1061,1,Lost Customers
+14196,106,1,335,0,Low Value Customers
+14198,3,7,739,0,Low Value Customers
+14199,217,1,185,1,Lost Customers
+14201,59,9,806,0,Low Value Customers
+14204,1,1,150,0,Low Value Customers
+14205,10,4,714,0,Low Value Customers
+14206,238,2,348,1,Lost Customers
+14208,94,1,151,0,Low Value Customers
+14209,10,7,2079,0,Low Value Customers
+14210,90,7,1910,0,Low Value Customers
+14211,52,13,2273,0,Low Value Customers
+14212,89,1,1070,0,Low Value Customers
+14213,371,1,1192,1,Lost Customers
+14214,30,7,1008,0,Low Value Customers
+14215,11,7,1801,0,Low Value Customers
+14216,2,4,1839,0,Low Value Customers
+14217,1,24,2084,0,Low Value Customers
+14218,42,1,169,0,Low Value Customers
+14219,3,1,89,0,Low Value Customers
+14220,246,2,632,1,Lost Customers
+14221,41,10,3437,0,Low Value Customers
+14222,176,1,683,1,Lost Customers
+14223,91,4,1007,0,Low Value Customers
+14224,109,4,1009,0,Low Value Customers
+14226,28,7,2245,0,Low Value Customers
+14227,25,15,3386,0,Low Value Customers
+14229,51,5,1643,0,Low Value Customers
+14231,178,5,1029,1,Lost Customers
+14232,31,8,2052,0,Low Value Customers
+14233,43,5,1477,0,Low Value Customers
+14234,21,4,754,0,Low Value Customers
+14235,9,6,3195,0,Low Value Customers
+14236,80,2,490,0,Low Value Customers
+14237,372,1,161,1,Lost Customers
+14238,325,1,146,1,Lost Customers
+14239,42,13,2438,0,Low Value Customers
+14240,29,2,890,0,Low Value Customers
+14241,183,1,213,1,Lost Customers
+14242,234,2,280,1,Lost Customers
+14243,8,14,2641,0,Low Value Customers
+14245,175,5,1709,1,Lost Customers
+14246,110,3,1474,0,Low Value Customers
+14247,277,1,136,1,Lost Customers
+14248,317,1,302,1,Lost Customers
+14250,6,3,1904,0,Low Value Customers
+14251,1,5,2879,0,Low Value Customers
+14256,253,3,1003,1,Lost Customers
+14257,50,6,3112,0,Low Value Customers
+14258,8,10,12689,0,Low Value Customers
+14259,141,1,120,1,Lost Customers
+14261,50,2,1163,0,Low Value Customers
+14262,7,8,2618,0,Low Value Customers
+14264,154,3,348,1,Lost Customers
+14265,108,2,530,0,Low Value Customers
+14267,150,7,1753,1,Lost Customers
+14270,331,1,492,1,Lost Customers
+14271,225,1,112,1,Lost Customers
+14272,73,2,437,0,Low Value Customers
+14273,50,4,559,0,Low Value Customers
+14276,87,5,1220,0,Low Value Customers
+14277,14,4,4447,0,Low Value Customers
+14280,196,1,134,1,Lost Customers
+14282,2,15,3701,0,Low Value Customers
+14284,30,3,612,0,Low Value Customers
+14285,20,4,1910,0,Low Value Customers
+14286,23,5,4661,0,Low Value Customers
+14287,7,4,202,0,Low Value Customers
+14288,211,2,439,1,Lost Customers
+14289,8,6,911,0,Low Value Customers
+14290,10,6,2321,0,Low Value Customers
+14291,1,12,3893,0,Low Value Customers
+14292,7,14,4924,0,Low Value Customers
+14293,2,4,1046,0,Low Value Customers
+14295,39,2,177,0,Low Value Customers
+14297,17,6,1326,0,Low Value Customers
+14298,2,45,52192,2,Big Spenders
+14299,7,18,5075,0,Low Value Customers
+14300,18,1,43,0,Low Value Customers
+14301,107,2,648,0,Low Value Customers
+14304,222,2,569,1,Lost Customers
+14305,70,5,1914,0,Low Value Customers
+14306,50,3,2103,0,Low Value Customers
+14307,88,6,2995,0,Low Value Customers
+14309,7,10,2385,0,Low Value Customers
+14311,224,2,390,1,Lost Customers
+14312,46,6,1611,0,Low Value Customers
+14314,106,1,120,0,Low Value Customers
+14315,20,7,2505,0,Low Value Customers
+14317,64,1,508,0,Low Value Customers
+14320,206,3,612,1,Lost Customers
+14321,10,5,1530,0,Low Value Customers
+14323,114,4,635,0,Low Value Customers
+14326,234,2,200,1,Lost Customers
+14327,162,1,311,1,Lost Customers
+14329,8,14,5061,0,Low Value Customers
+14331,123,2,462,0,Low Value Customers
+14332,22,3,840,0,Low Value Customers
+14333,63,2,478,0,Low Value Customers
+14334,16,9,2564,0,Low Value Customers
+14335,15,2,454,0,Low Value Customers
+14336,16,4,1614,0,Low Value Customers
+14338,157,4,622,1,Lost Customers
+14339,234,4,329,1,Lost Customers
+14340,218,1,134,1,Lost Customers
+14341,44,9,2182,0,Low Value Customers
+14342,20,6,729,0,Low Value Customers
+14344,126,8,889,0,Low Value Customers
+14345,38,1,108,0,Low Value Customers
+14346,120,2,1021,0,Low Value Customers
+14348,259,1,409,1,Lost Customers
+14349,9,1,133,0,Low Value Customers
+14350,270,2,307,1,Lost Customers
+14351,164,1,51,1,Lost Customers
+14352,156,4,1078,1,Lost Customers
+14353,214,1,90,1,Lost Customers
+14354,5,2,163,0,Low Value Customers
+14355,365,1,174,1,Lost Customers
+14356,59,4,735,0,Low Value Customers
+14357,42,1,225,0,Low Value Customers
+14359,18,6,941,0,Low Value Customers
+14360,31,4,2118,0,Low Value Customers
+14362,21,1,151,0,Low Value Customers
+14364,108,8,3717,0,Low Value Customers
+14367,7,19,9321,0,Low Value Customers
+14368,319,1,155,1,Lost Customers
+14371,294,1,100,1,Lost Customers
+14373,357,1,76,1,Lost Customers
+14375,184,1,235,1,Lost Customers
+14377,190,2,617,1,Lost Customers
+14379,43,2,348,0,Low Value Customers
+14381,51,1,202,0,Low Value Customers
+14382,25,1,615,0,Low Value Customers
+14383,37,3,1247,0,Low Value Customers
+14385,8,3,202,0,Low Value Customers
+14386,296,1,142,1,Lost Customers
+14387,32,3,1727,0,Low Value Customers
+14388,8,10,3253,0,Low Value Customers
+14389,8,5,1087,0,Low Value Customers
+14390,9,13,4702,0,Low Value Customers
+14393,217,1,67,1,Lost Customers
+14395,1,12,3515,0,Low Value Customers
+14396,64,2,487,0,Low Value Customers
+14397,0,23,2669,0,Low Value Customers
+14400,140,2,589,1,Lost Customers
+14401,3,14,4062,0,Low Value Customers
+14403,129,5,1525,0,Low Value Customers
+14404,33,7,1488,0,Low Value Customers
+14406,118,1,156,0,Low Value Customers
+14407,106,9,2204,0,Low Value Customers
+14408,10,7,2599,0,Low Value Customers
+14409,70,7,2210,0,Low Value Customers
+14410,15,15,1627,0,Low Value Customers
+14411,310,1,1063,1,Lost Customers
+14412,34,3,778,0,Low Value Customers
+14413,361,1,121,1,Lost Customers
+14414,91,8,1508,0,Low Value Customers
+14415,0,18,5944,0,Low Value Customers
+14416,21,2,490,0,Low Value Customers
+14418,3,3,1937,0,Low Value Customers
+14419,10,6,1051,0,Low Value Customers
+14420,84,2,389,0,Low Value Customers
+14421,56,2,813,0,Low Value Customers
+14422,0,6,4263,0,Low Value Customers
+14423,217,1,265,1,Lost Customers
+14424,17,1,322,0,Low Value Customers
+14426,18,16,5044,0,Low Value Customers
+14427,49,2,363,0,Low Value Customers
+14428,6,7,1238,0,Low Value Customers
+14431,298,2,517,1,Lost Customers
+14432,9,6,2248,0,Low Value Customers
+14434,21,6,1372,0,Low Value Customers
+14436,98,1,89,0,Low Value Customers
+14437,142,2,169,1,Lost Customers
+14438,305,1,131,1,Lost Customers
+14439,319,1,2661,1,Lost Customers
+14440,7,5,2357,0,Low Value Customers
+14441,0,10,1880,0,Low Value Customers
+14442,1,5,1635,0,Low Value Customers
+14443,53,7,1439,0,Low Value Customers
+14446,0,4,1010,0,Low Value Customers
+14447,18,5,1163,0,Low Value Customers
+14448,8,2,375,0,Low Value Customers
+14449,18,4,885,0,Low Value Customers
+14450,180,3,483,1,Lost Customers
+14451,59,2,643,0,Low Value Customers
+14452,10,2,259,0,Low Value Customers
+14453,189,1,119,1,Lost Customers
+14456,4,14,3032,0,Low Value Customers
+14457,310,1,113,1,Lost Customers
+14459,154,1,1837,1,Lost Customers
+14460,109,4,485,0,Low Value Customers
+14461,147,3,2103,1,Lost Customers
+14462,63,15,2018,0,Low Value Customers
+14463,97,3,529,0,Low Value Customers
+14465,246,3,1038,1,Lost Customers
+14466,28,7,2272,0,Low Value Customers
+14467,17,4,596,0,Low Value Customers
+14470,11,2,461,0,Low Value Customers
+14472,103,8,1852,0,Low Value Customers
+14473,73,2,234,0,Low Value Customers
+14474,42,2,557,0,Low Value Customers
+14475,71,6,1051,0,Low Value Customers
+14476,256,1,193,1,Lost Customers
+14477,19,5,1311,0,Low Value Customers
+14479,253,2,316,1,Lost Customers
+14480,10,1,279,0,Low Value Customers
+14481,164,2,636,1,Lost Customers
+14482,17,6,2022,0,Low Value Customers
+14483,149,2,145,1,Lost Customers
+14484,49,1,321,0,Low Value Customers
+14485,38,1,162,0,Low Value Customers
+14487,26,7,1178,0,Low Value Customers
+14488,50,2,1081,0,Low Value Customers
+14489,206,1,463,1,Lost Customers
+14491,174,2,340,1,Lost Customers
+14493,6,7,2403,0,Low Value Customers
+14494,25,1,139,0,Low Value Customers
+14495,50,2,123,0,Low Value Customers
+14496,311,2,538,1,Lost Customers
+14497,300,2,493,1,Lost Customers
+14498,42,5,1957,0,Low Value Customers
+14499,25,3,808,0,Low Value Customers
+14500,87,3,356,0,Low Value Customers
+14501,63,3,312,0,Low Value Customers
+14502,19,14,2549,0,Low Value Customers
+14503,2,6,3543,0,Low Value Customers
+14504,46,4,673,0,Low Value Customers
+14505,16,11,5946,0,Low Value Customers
+14506,16,5,1960,0,Low Value Customers
+14507,23,7,1382,0,Low Value Customers
+14508,21,2,268,0,Low Value Customers
+14511,10,6,1362,0,Low Value Customers
+14512,187,2,275,1,Lost Customers
+14513,100,4,472,0,Low Value Customers
+14514,60,3,990,0,Low Value Customers
+14515,17,6,2076,0,Low Value Customers
+14517,32,2,330,0,Low Value Customers
+14518,63,1,174,0,Low Value Customers
+14520,1,2,270,0,Low Value Customers
+14522,23,4,974,0,Low Value Customers
+14523,107,1,241,0,Low Value Customers
+14524,31,9,1843,0,Low Value Customers
+14525,8,13,4326,0,Low Value Customers
+14527,2,86,9304,2,Big Spenders
+14528,36,1,364,0,Low Value Customers
+14529,59,3,578,0,Low Value Customers
+14530,25,6,2862,0,Low Value Customers
+14532,235,4,932,1,Lost Customers
+14533,24,9,2086,0,Low Value Customers
+14534,2,25,4769,0,Low Value Customers
+14535,58,4,2877,0,Low Value Customers
+14536,259,1,170,1,Lost Customers
+14537,57,1,355,0,Low Value Customers
+14538,64,2,388,0,Low Value Customers
+14539,15,2,537,0,Low Value Customers
+14540,9,3,952,0,Low Value Customers
+14541,58,8,1453,0,Low Value Customers
+14542,185,1,103,1,Lost Customers
+14543,3,21,4283,0,Low Value Customers
+14544,23,2,2004,0,Low Value Customers
+14546,3,9,2665,0,Low Value Customers
+14547,3,9,3995,0,Low Value Customers
+14548,150,2,652,1,Lost Customers
+14549,310,1,289,1,Lost Customers
+14550,10,2,757,0,Low Value Customers
+14551,17,2,186,0,Low Value Customers
+14552,151,1,164,1,Lost Customers
+14553,18,5,859,0,Low Value Customers
+14554,9,4,2279,0,Low Value Customers
+14555,56,2,312,0,Low Value Customers
+14557,63,2,1576,0,Low Value Customers
+14560,6,24,2301,0,Low Value Customers
+14561,75,3,1080,0,Low Value Customers
+14562,3,22,5336,0,Low Value Customers
+14565,95,6,3124,0,Low Value Customers
+14566,110,1,1432,0,Low Value Customers
+14567,34,3,1536,0,Low Value Customers
+14569,0,1,227,0,Low Value Customers
+14570,280,2,218,1,Lost Customers
+14572,2,10,2833,0,Low Value Customers
+14573,179,13,1689,1,Lost Customers
+14576,371,1,35,1,Lost Customers
+14577,12,4,859,0,Low Value Customers
+14578,2,1,168,0,Low Value Customers
+14581,16,1,138,0,Low Value Customers
+14582,40,1,114,0,Low Value Customers
+14583,5,5,986,0,Low Value Customers
+14584,168,5,1046,1,Lost Customers
+14585,49,1,157,0,Low Value Customers
+14586,226,3,340,1,Lost Customers
+14587,18,10,1583,0,Low Value Customers
+14589,371,1,39,1,Lost Customers
+14591,14,4,1320,0,Low Value Customers
+14592,34,3,557,0,Low Value Customers
+14593,21,3,617,0,Low Value Customers
+14594,6,2,363,0,Low Value Customers
+14595,19,6,1740,0,Low Value Customers
+14597,10,2,866,0,Low Value Customers
+14598,43,1,221,0,Low Value Customers
+14600,305,1,393,1,Lost Customers
+14601,10,1,213,0,Low Value Customers
+14603,274,1,660,1,Lost Customers
+14606,0,128,12518,2,Big Spenders
+14607,15,17,21437,0,Low Value Customers
+14608,3,4,1785,0,Low Value Customers
+14609,71,4,601,0,Low Value Customers
+14616,242,3,406,1,Lost Customers
+14618,8,4,568,0,Low Value Customers
+14619,238,2,409,1,Lost Customers
+14620,203,3,432,1,Lost Customers
+14621,0,6,1810,0,Low Value Customers
+14622,184,1,320,1,Lost Customers
+14623,31,6,906,0,Low Value Customers
+14624,56,2,225,0,Low Value Customers
+14625,184,5,950,1,Lost Customers
+14626,8,7,2825,0,Low Value Customers
+14627,311,1,21,1,Lost Customers
+14628,90,2,671,0,Low Value Customers
+14629,3,3,975,0,Low Value Customers
+14631,50,3,1006,0,Low Value Customers
+14632,262,1,114,1,Lost Customers
+14633,265,1,344,1,Lost Customers
+14636,35,2,609,0,Low Value Customers
+14638,50,1,443,0,Low Value Customers
+14639,51,8,3016,0,Low Value Customers
+14640,15,8,2190,0,Low Value Customers
+14641,21,1,110,0,Low Value Customers
+14642,58,1,96,0,Low Value Customers
+14643,169,3,719,1,Lost Customers
+14644,8,4,881,0,Low Value Customers
+14645,156,2,597,1,Lost Customers
+14646,1,77,280923,4,Loyal Customers
+14647,200,1,236,1,Lost Customers
+14649,4,4,1402,0,Low Value Customers
+14651,66,2,653,0,Low Value Customers
+14652,76,1,114,0,Low Value Customers
+14653,0,7,1926,0,Low Value Customers
+14655,3,5,1934,0,Low Value Customers
+14656,168,2,291,1,Lost Customers
+14657,17,5,858,0,Low Value Customers
+14658,4,2,247,0,Low Value Customers
+14659,8,12,2603,0,Low Value Customers
+14660,86,2,285,0,Low Value Customers
+14661,26,1,107,0,Low Value Customers
+14662,28,4,741,0,Low Value Customers
+14664,19,2,636,0,Low Value Customers
+14665,60,7,2413,0,Low Value Customers
+14666,23,1,195,0,Low Value Customers
+14667,10,27,9185,0,Low Value Customers
+14669,241,3,1259,1,Lost Customers
+14670,279,2,392,1,Lost Customers
+14672,234,2,765,1,Lost Customers
+14673,2,5,1736,0,Low Value Customers
+14675,15,1,596,0,Low Value Customers
+14676,30,8,2553,0,Low Value Customers
+14679,371,1,2,1,Lost Customers
+14680,24,23,30575,0,Low Value Customers
+14681,70,3,498,0,Low Value Customers
+14682,187,2,52,1,Lost Customers
+14684,25,5,1201,0,Low Value Customers
+14687,106,1,628,0,Low Value Customers
+14688,7,27,6102,0,Low Value Customers
+14689,208,1,112,1,Lost Customers
+14690,43,3,368,0,Low Value Customers
+14691,30,5,2114,0,Low Value Customers
+14692,136,5,601,0,Low Value Customers
+14693,264,1,172,1,Lost Customers
+14696,3,9,2086,0,Low Value Customers
+14697,217,2,188,1,Lost Customers
+14698,1,5,1217,0,Low Value Customers
+14699,213,1,109,1,Lost Customers
+14700,31,3,2195,0,Low Value Customers
+14701,10,12,2589,0,Low Value Customers
+14702,0,18,3293,0,Low Value Customers
+14703,14,1,318,0,Low Value Customers
+14704,10,9,1493,0,Low Value Customers
+14705,198,1,179,1,Lost Customers
+14708,2,4,1156,0,Low Value Customers
+14709,14,14,4930,0,Low Value Customers
+14710,13,4,599,0,Low Value Customers
+14711,9,12,2870,0,Low Value Customers
+14712,28,3,917,0,Low Value Customers
+14713,8,12,2664,0,Low Value Customers
+14714,23,1,160,0,Low Value Customers
+14715,24,4,867,0,Low Value Customers
+14716,42,2,307,0,Low Value Customers
+14719,1,6,1591,0,Low Value Customers
+14720,5,3,663,0,Low Value Customers
+14722,146,1,180,1,Lost Customers
+14723,9,6,1122,0,Low Value Customers
+14725,24,1,655,0,Low Value Customers
+14727,273,1,268,1,Lost Customers
+14729,373,1,313,1,Lost Customers
+14730,0,8,1897,0,Low Value Customers
+14731,46,3,380,0,Low Value Customers
+14732,7,10,2718,0,Low Value Customers
+14733,8,15,9720,0,Low Value Customers
+14735,3,34,6323,0,Low Value Customers
+14737,3,3,1164,0,Low Value Customers
+14738,38,9,1338,0,Low Value Customers
+14739,1,8,3905,0,Low Value Customers
+14740,190,4,1473,1,Lost Customers
+14741,11,6,1400,0,Low Value Customers
+14744,15,9,1111,0,Low Value Customers
+14745,112,6,1273,0,Low Value Customers
+14747,247,2,362,1,Lost Customers
+14748,28,6,1519,0,Low Value Customers
+14752,43,1,389,0,Low Value Customers
+14753,86,1,563,0,Low Value Customers
+14754,44,2,638,0,Low Value Customers
+14755,9,12,5055,0,Low Value Customers
+14756,14,1,738,0,Low Value Customers
+14757,74,1,420,0,Low Value Customers
+14758,144,4,1484,1,Lost Customers
+14759,4,3,1625,0,Low Value Customers
+14760,293,2,124,1,Lost Customers
+14761,58,2,255,0,Low Value Customers
+14762,263,1,300,1,Lost Customers
+14764,43,2,306,0,Low Value Customers
+14765,28,3,254,0,Low Value Customers
+14766,7,8,2523,0,Low Value Customers
+14768,16,3,245,0,Low Value Customers
+14769,2,10,10450,0,Low Value Customers
+14770,231,2,876,1,Lost Customers
+14772,111,1,139,0,Low Value Customers
+14775,57,3,1011,0,Low Value Customers
+14776,50,13,2881,0,Low Value Customers
+14777,3,2,17,0,Low Value Customers
+14778,126,2,730,0,Low Value Customers
+14779,280,3,386,1,Lost Customers
+14780,54,2,447,0,Low Value Customers
+14782,319,1,200,1,Lost Customers
+14784,25,2,289,0,Low Value Customers
+14785,9,2,77,0,Low Value Customers
+14788,6,2,679,0,Low Value Customers
+14789,28,1,197,0,Low Value Customers
+14790,16,4,745,0,Low Value Customers
+14792,63,2,12,0,Low Value Customers
+14793,3,2,243,0,Low Value Customers
+14794,2,9,1367,0,Low Value Customers
+14795,165,1,131,1,Lost Customers
+14796,0,27,8158,0,Low Value Customers
+14798,52,3,173,0,Low Value Customers
+14799,50,1,157,0,Low Value Customers
+14800,47,16,4435,0,Low Value Customers
+14801,60,1,189,0,Low Value Customers
+14803,161,3,845,1,Lost Customers
+14804,8,1,353,0,Low Value Customers
+14805,14,4,546,0,Low Value Customers
+14806,74,1,193,0,Low Value Customers
+14808,39,15,3284,0,Low Value Customers
+14810,40,11,2085,0,Low Value Customers
+14813,369,2,152,1,Lost Customers
+14815,36,2,778,0,Low Value Customers
+14816,196,1,271,1,Lost Customers
+14817,199,2,1110,1,Lost Customers
+14818,73,3,657,0,Low Value Customers
+14819,63,2,272,0,Low Value Customers
+14820,20,4,507,0,Low Value Customers
+14821,366,1,48,1,Lost Customers
+14823,179,3,321,1,Lost Customers
+14824,9,4,1127,0,Low Value Customers
+14825,3,12,2221,0,Low Value Customers
+14828,196,3,2139,1,Lost Customers
+14829,28,6,750,0,Low Value Customers
+14830,52,1,188,0,Low Value Customers
+14834,17,8,1742,0,Low Value Customers
+14836,9,3,102,0,Low Value Customers
+14837,89,5,1657,0,Low Value Customers
+14840,267,1,62,1,Lost Customers
+14841,52,6,3295,0,Low Value Customers
+14842,34,8,3192,0,Low Value Customers
+14844,63,4,3189,0,Low Value Customers
+14847,148,1,309,1,Lost Customers
+14849,21,28,7956,0,Low Value Customers
+14850,311,2,373,1,Lost Customers
+14851,22,2,511,0,Low Value Customers
+14852,57,6,2836,0,Low Value Customers
+14853,8,3,488,0,Low Value Customers
+14854,77,8,2749,0,Low Value Customers
+14855,118,2,645,0,Low Value Customers
+14856,35,3,1290,0,Low Value Customers
+14857,59,3,1180,0,Low Value Customers
+14859,12,5,1355,0,Low Value Customers
+14860,8,2,172,0,Low Value Customers
+14861,51,1,125,0,Low Value Customers
+14862,25,2,841,0,Low Value Customers
+14863,28,1,266,0,Low Value Customers
+14865,6,2,52,0,Low Value Customers
+14866,10,13,14582,0,Low Value Customers
+14867,185,4,719,1,Lost Customers
+14868,2,9,2967,0,Low Value Customers
+14869,3,3,725,0,Low Value Customers
+14870,261,1,327,1,Lost Customers
+14871,2,4,501,0,Low Value Customers
+14873,209,1,519,1,Lost Customers
+14875,8,5,1481,0,Low Value Customers
+14878,12,9,1476,0,Low Value Customers
+14880,76,3,690,0,Low Value Customers
+14881,19,1,255,0,Low Value Customers
+14882,26,2,589,0,Low Value Customers
+14883,18,7,766,0,Low Value Customers
+14885,131,1,765,0,Low Value Customers
+14886,252,1,364,1,Lost Customers
+14887,78,1,1862,0,Low Value Customers
+14888,206,1,369,1,Lost Customers
+14889,335,1,135,1,Lost Customers
+14890,253,1,125,1,Lost Customers
+14891,147,2,554,1,Lost Customers
+14893,9,2,1237,0,Low Value Customers
+14894,84,1,655,0,Low Value Customers
+14895,7,24,11257,0,Low Value Customers
+14896,204,2,468,1,Lost Customers
+14897,7,4,1366,0,Low Value Customers
+14898,22,8,1344,0,Low Value Customers
+14901,10,10,1427,0,Low Value Customers
+14902,20,2,351,0,Low Value Customers
+14903,20,10,2861,0,Low Value Customers
+14904,1,2,1025,0,Low Value Customers
+14905,153,3,632,1,Lost Customers
+14907,2,10,3523,0,Low Value Customers
+14908,73,1,277,0,Low Value Customers
+14910,2,7,478,0,Low Value Customers
+14911,0,248,154963,2,Big Spenders
+14912,16,3,894,0,Low Value Customers
+14913,35,4,1227,0,Low Value Customers
+14915,85,3,356,0,Low Value Customers
+14916,70,5,1273,0,Low Value Customers
+14918,115,2,1610,0,Low Value Customers
+14920,212,2,977,1,Lost Customers
+14921,29,2,1316,0,Low Value Customers
+14923,50,1,749,0,Low Value Customers
+14924,245,1,310,1,Lost Customers
+14929,31,1,223,0,Low Value Customers
+14930,108,3,2362,0,Low Value Customers
+14931,4,6,1550,0,Low Value Customers
+14932,365,1,363,1,Lost Customers
+14934,72,3,1893,0,Low Value Customers
+14935,296,1,1784,1,Lost Customers
+14936,8,9,8156,0,Low Value Customers
+14937,56,4,1626,0,Low Value Customers
+14944,29,14,5957,0,Low Value Customers
+14946,13,1,100,0,Low Value Customers
+14947,71,2,290,0,Low Value Customers
+14948,22,7,1137,0,Low Value Customers
+14950,8,2,381,0,Low Value Customers
+14951,78,1,311,0,Low Value Customers
+14952,45,15,8286,0,Low Value Customers
+14953,24,1,285,0,Low Value Customers
+14954,11,1,294,0,Low Value Customers
+14957,252,1,58,1,Lost Customers
+14958,146,3,483,1,Lost Customers
+14959,58,5,705,0,Low Value Customers
+14960,7,2,221,0,Low Value Customers
+14961,10,12,7082,0,Low Value Customers
+14962,270,1,126,1,Lost Customers
+14963,9,5,1472,0,Low Value Customers
+14964,246,1,206,1,Lost Customers
+14965,95,2,596,0,Low Value Customers
+14966,14,1,183,0,Low Value Customers
+14967,49,1,463,0,Low Value Customers
+14968,29,1,147,0,Low Value Customers
+14970,67,4,1592,0,Low Value Customers
+14971,34,3,1097,0,Low Value Customers
+14972,127,1,114,0,Low Value Customers
+14973,106,3,1314,0,Low Value Customers
+14974,36,1,89,0,Low Value Customers
+14975,56,1,279,0,Low Value Customers
+14976,56,8,815,0,Low Value Customers
+14978,71,5,1921,0,Low Value Customers
+14981,245,1,102,1,Lost Customers
+14984,18,2,202,0,Low Value Customers
+14985,197,2,292,1,Lost Customers
+14987,15,2,326,0,Low Value Customers
+14988,211,1,334,1,Lost Customers
+14995,38,2,231,0,Low Value Customers
+14997,45,4,551,0,Low Value Customers
+14998,169,2,414,1,Lost Customers
+15000,47,1,490,0,Low Value Customers
+15002,115,4,1641,0,Low Value Customers
+15004,146,1,1220,1,Lost Customers
+15005,15,35,6430,0,Low Value Customers
+15006,50,1,480,0,Low Value Customers
+15007,158,1,156,1,Lost Customers
+15009,11,3,1259,0,Low Value Customers
+15010,35,1,308,0,Low Value Customers
+15012,53,2,405,0,Low Value Customers
+15014,42,2,257,0,Low Value Customers
+15016,172,1,170,1,Lost Customers
+15017,33,1,125,0,Low Value Customers
+15018,38,4,536,0,Low Value Customers
+15019,266,1,252,1,Lost Customers
+15021,8,13,1914,0,Low Value Customers
+15022,11,4,852,0,Low Value Customers
+15023,2,12,6760,0,Low Value Customers
+15024,9,10,1636,0,Low Value Customers
+15025,32,1,361,0,Low Value Customers
+15026,79,3,469,0,Low Value Customers
+15027,30,6,1080,0,Low Value Customers
+15028,7,4,627,0,Low Value Customers
+15030,71,2,518,0,Low Value Customers
+15031,3,4,653,0,Low Value Customers
+15032,255,5,5454,1,Lost Customers
+15033,4,11,2572,0,Low Value Customers
+15034,15,11,4305,0,Low Value Customers
+15035,89,1,252,0,Low Value Customers
+15036,71,3,429,0,Low Value Customers
+15038,42,7,725,0,Low Value Customers
+15039,9,52,19894,0,Low Value Customers
+15041,169,1,179,1,Lost Customers
+15042,198,1,135,1,Lost Customers
+15043,30,1,537,0,Low Value Customers
+15044,18,22,7705,0,Low Value Customers
+15045,151,3,837,1,Lost Customers
+15046,8,16,5240,0,Low Value Customers
+15047,269,1,343,1,Lost Customers
+15048,64,5,384,0,Low Value Customers
+15049,273,1,121,1,Lost Customers
+15050,24,5,1792,0,Low Value Customers
+15051,22,3,1383,0,Low Value Customers
+15052,318,1,207,1,Lost Customers
+15053,4,3,693,0,Low Value Customers
+15054,11,2,302,0,Low Value Customers
+15057,274,2,1489,1,Lost Customers
+15058,24,11,2102,0,Low Value Customers
+15059,40,11,1349,0,Low Value Customers
+15060,7,4,294,0,Low Value Customers
+15061,3,55,54839,2,Big Spenders
+15062,70,4,987,0,Low Value Customers
+15063,212,1,370,1,Lost Customers
+15065,37,6,3180,0,Low Value Customers
+15066,31,2,1026,0,Low Value Customers
+15067,77,3,1744,0,Low Value Customers
+15068,45,2,553,0,Low Value Customers
+15069,178,1,1109,1,Lost Customers
+15070,372,1,106,1,Lost Customers
+15071,93,2,982,0,Low Value Customers
+15073,9,4,1474,0,Low Value Customers
+15074,104,1,735,0,Low Value Customers
+15075,77,1,773,0,Low Value Customers
+15076,172,1,880,1,Lost Customers
+15078,6,38,9862,0,Low Value Customers
+15079,212,5,897,1,Lost Customers
+15081,21,6,522,0,Low Value Customers
+15083,256,1,88,1,Lost Customers
+15087,281,1,306,1,Lost Customers
+15088,20,3,1179,0,Low Value Customers
+15089,9,6,2420,0,Low Value Customers
+15090,307,1,381,1,Lost Customers
+15091,53,2,484,0,Low Value Customers
+15092,214,2,457,1,Lost Customers
+15093,17,9,4783,0,Low Value Customers
+15095,103,5,1376,0,Low Value Customers
+15096,42,1,219,0,Low Value Customers
+15097,3,1,248,0,Low Value Customers
+15098,181,5,79183,0,Low Value Customers
+15099,83,1,410,0,Low Value Customers
+15100,329,6,1116,1,Lost Customers
+15101,8,3,325,0,Low Value Customers
+15103,30,2,703,0,Low Value Customers
+15104,166,3,1018,1,Lost Customers
+15105,17,7,2298,0,Low Value Customers
+15106,17,7,1437,0,Low Value Customers
+15107,310,8,391,1,Lost Customers
+15108,141,5,1308,0,Low Value Customers
+15109,240,2,506,1,Lost Customers
+15110,23,7,1019,0,Low Value Customers
+15111,28,3,1567,0,Low Value Customers
+15113,9,4,3679,0,Low Value Customers
+15114,29,10,2760,0,Low Value Customers
+15115,17,1,340,0,Low Value Customers
+15116,17,4,1352,0,Low Value Customers
+15117,14,6,1553,0,Low Value Customers
+15118,133,1,244,0,Low Value Customers
+15119,245,1,266,1,Lost Customers
+15120,129,2,373,0,Low Value Customers
+15121,49,2,457,0,Low Value Customers
+15122,84,6,1655,0,Low Value Customers
+15123,6,2,2199,0,Low Value Customers
+15124,22,2,184,0,Low Value Customers
+15125,24,23,11939,0,Low Value Customers
+15127,65,1,406,0,Low Value Customers
+15128,59,8,1522,0,Low Value Customers
+15129,49,11,3447,0,Low Value Customers
+15130,169,1,330,1,Lost Customers
+15132,17,5,977,0,Low Value Customers
+15133,127,3,982,0,Low Value Customers
+15134,14,8,1387,0,Low Value Customers
+15135,232,2,150,1,Lost Customers
+15136,2,5,1290,0,Low Value Customers
+15139,239,2,178,1,Lost Customers
+15140,51,8,2358,0,Low Value Customers
+15142,45,1,498,0,Low Value Customers
+15143,225,1,259,1,Lost Customers
+15144,7,18,6630,0,Low Value Customers
+15145,3,4,1194,0,Low Value Customers
+15146,164,3,1340,1,Lost Customers
+15147,218,2,638,1,Lost Customers
+15148,10,1,301,0,Low Value Customers
+15149,133,1,520,0,Low Value Customers
+15150,16,11,5301,0,Low Value Customers
+15152,9,16,4807,0,Low Value Customers
+15153,30,1,329,0,Low Value Customers
+15154,73,2,283,0,Low Value Customers
+15156,0,3,961,0,Low Value Customers
+15157,3,5,2002,0,Low Value Customers
+15158,44,1,401,0,Low Value Customers
+15159,1,34,18708,0,Low Value Customers
+15160,356,1,158,1,Lost Customers
+15163,17,2,304,0,Low Value Customers
+15164,68,3,824,0,Low Value Customers
+15165,372,1,487,1,Lost Customers
+15167,320,1,158,1,Lost Customers
+15168,25,1,106,0,Low Value Customers
+15171,324,2,1544,1,Lost Customers
+15172,8,5,1624,0,Low Value Customers
+15174,322,1,135,1,Lost Customers
+15175,71,1,224,0,Low Value Customers
+15178,259,1,40,1,Lost Customers
+15179,17,7,2227,0,Low Value Customers
+15180,366,1,87,1,Lost Customers
+15181,65,5,698,0,Low Value Customers
+15182,153,2,622,1,Lost Customers
+15184,28,2,402,0,Low Value Customers
+15185,69,1,310,0,Low Value Customers
+15186,13,2,411,0,Low Value Customers
+15187,1,18,4884,0,Low Value Customers
+15189,0,53,16648,0,Low Value Customers
+15192,119,3,1044,0,Low Value Customers
+15193,60,1,499,0,Low Value Customers
+15194,2,22,7711,0,Low Value Customers
+15195,2,1,3861,0,Low Value Customers
+15197,8,5,1502,0,Low Value Customers
+15198,91,2,193,0,Low Value Customers
+15199,58,4,1268,0,Low Value Customers
+15201,78,11,1545,0,Low Value Customers
+15203,25,6,1827,0,Low Value Customers
+15204,356,1,316,1,Lost Customers
+15205,84,3,657,0,Low Value Customers
+15206,9,4,420,0,Low Value Customers
+15208,0,6,872,0,Low Value Customers
+15210,224,1,331,1,Lost Customers
+15211,59,2,894,0,Low Value Customers
+15212,238,2,114,1,Lost Customers
+15213,318,3,331,1,Lost Customers
+15214,1,8,1661,0,Low Value Customers
+15215,44,6,853,0,Low Value Customers
+15216,87,1,96,0,Low Value Customers
+15218,10,11,5756,0,Low Value Customers
+15219,175,1,305,1,Lost Customers
+15220,51,7,1799,0,Low Value Customers
+15221,365,2,692,1,Lost Customers
+15222,318,1,585,1,Lost Customers
+15223,225,3,1056,1,Lost Customers
+15224,357,3,333,1,Lost Customers
+15225,233,1,409,1,Lost Customers
+15226,310,1,154,1,Lost Customers
+15227,36,5,1219,0,Low Value Customers
+15228,65,5,3396,0,Low Value Customers
+15230,238,2,429,1,Lost Customers
+15232,112,2,612,0,Low Value Customers
+15234,276,1,197,1,Lost Customers
+15235,217,12,2247,1,Lost Customers
+15236,298,1,321,1,Lost Customers
+15237,1,4,1412,0,Low Value Customers
+15238,28,5,1087,0,Low Value Customers
+15239,9,3,796,0,Low Value Customers
+15240,44,7,1727,0,Low Value Customers
+15241,66,9,1774,0,Low Value Customers
+15243,73,1,316,0,Low Value Customers
+15244,64,2,631,0,Low Value Customers
+15245,133,3,2515,0,Low Value Customers
+15246,237,2,514,1,Lost Customers
+15247,121,1,356,0,Low Value Customers
+15249,31,15,6719,0,Low Value Customers
+15251,8,15,10642,0,Low Value Customers
+15252,35,2,740,0,Low Value Customers
+15253,15,6,921,0,Low Value Customers
+15254,126,1,300,0,Low Value Customers
+15255,66,1,890,0,Low Value Customers
+15256,148,1,98,1,Lost Customers
+15257,280,2,402,1,Lost Customers
+15258,168,2,623,1,Lost Customers
+15260,99,8,1840,0,Low Value Customers
+15261,134,1,254,0,Low Value Customers
+15262,323,1,178,1,Lost Customers
+15263,106,1,156,0,Low Value Customers
+15264,63,1,393,0,Low Value Customers
+15265,150,2,1506,1,Lost Customers
+15266,337,1,119,1,Lost Customers
+15267,21,5,1717,0,Low Value Customers
+15269,23,1,408,0,Low Value Customers
+15270,15,9,2460,0,Low Value Customers
+15271,6,16,2514,0,Low Value Customers
+15272,56,2,721,0,Low Value Customers
+15274,3,2,716,0,Low Value Customers
+15275,30,2,621,0,Low Value Customers
+15276,65,1,128,0,Low Value Customers
+15277,46,1,255,0,Low Value Customers
+15279,354,2,303,1,Lost Customers
+15280,171,1,113,1,Lost Customers
+15281,58,12,2424,0,Low Value Customers
+15286,49,1,240,0,Low Value Customers
+15287,21,3,488,0,Low Value Customers
+15288,42,5,2306,0,Low Value Customers
+15289,28,4,944,0,Low Value Customers
+15290,4,21,8082,0,Low Value Customers
+15291,25,20,4740,0,Low Value Customers
+15292,200,1,178,1,Lost Customers
+15296,43,10,3735,0,Low Value Customers
+15297,9,4,648,0,Low Value Customers
+15298,1,14,5825,0,Low Value Customers
+15299,66,11,5226,0,Low Value Customers
+15300,63,1,496,0,Low Value Customers
+15301,50,14,5092,0,Low Value Customers
+15303,289,1,574,1,Lost Customers
+15304,60,10,708,0,Low Value Customers
+15306,63,3,1174,0,Low Value Customers
+15307,95,1,205,0,Low Value Customers
+15308,270,2,318,1,Lost Customers
+15311,0,118,61981,2,Big Spenders
+15312,74,5,928,0,Low Value Customers
+15313,109,1,52,0,Low Value Customers
+15314,198,1,327,1,Lost Customers
+15315,63,3,589,0,Low Value Customers
+15316,326,1,165,1,Lost Customers
+15318,3,1,312,0,Low Value Customers
+15319,283,1,204,1,Lost Customers
+15320,43,1,267,0,Low Value Customers
+15321,48,4,2833,0,Low Value Customers
+15322,63,2,756,0,Low Value Customers
+15325,103,1,161,0,Low Value Customers
+15326,333,1,311,1,Lost Customers
+15327,52,1,208,0,Low Value Customers
+15329,34,5,1093,0,Low Value Customers
+15330,31,2,714,0,Low Value Customers
+15332,365,4,1661,1,Lost Customers
+15333,207,1,1028,1,Lost Customers
+15334,156,3,350,1,Lost Customers
+15335,53,1,170,0,Low Value Customers
+15339,65,3,590,0,Low Value Customers
+15341,80,1,2020,0,Low Value Customers
+15342,115,2,420,0,Low Value Customers
+15343,86,1,364,0,Low Value Customers
+15344,0,5,651,0,Low Value Customers
+15345,34,2,419,0,Low Value Customers
+15346,332,1,252,1,Lost Customers
+15347,365,1,201,1,Lost Customers
+15348,71,1,158,0,Low Value Customers
+15349,157,2,463,1,Lost Customers
+15350,372,1,115,1,Lost Customers
+15351,11,10,2032,0,Low Value Customers
+15353,254,2,770,1,Lost Customers
+15355,28,2,277,0,Low Value Customers
+15356,30,10,2718,0,Low Value Customers
+15358,4,29,8458,0,Low Value Customers
+15360,39,1,427,0,Low Value Customers
+15361,361,1,418,1,Lost Customers
+15363,240,2,333,1,Lost Customers
+15364,95,2,913,0,Low Value Customers
+15365,25,9,3298,0,Low Value Customers
+15366,74,2,602,0,Low Value Customers
+15367,56,5,1887,0,Low Value Customers
+15368,20,1,446,0,Low Value Customers
+15369,143,1,1592,1,Lost Customers
+15370,40,8,2411,0,Low Value Customers
+15372,136,1,2007,0,Low Value Customers
+15373,7,13,2618,0,Low Value Customers
+15374,128,1,168,0,Low Value Customers
+15376,39,3,1221,0,Low Value Customers
+15379,168,8,3774,1,Lost Customers
+15380,8,6,1698,0,Low Value Customers
+15381,213,2,596,1,Lost Customers
+15382,14,8,5983,0,Low Value Customers
+15384,169,3,649,1,Lost Customers
+15385,39,1,316,0,Low Value Customers
+15386,185,1,394,1,Lost Customers
+15388,269,1,140,1,Lost Customers
+15389,171,1,500,1,Lost Customers
+15392,4,5,1555,0,Low Value Customers
+15393,15,2,231,0,Low Value Customers
+15394,9,4,2183,0,Low Value Customers
+15395,325,1,107,1,Lost Customers
+15396,112,1,288,0,Low Value Customers
+15397,289,1,94,1,Lost Customers
+15398,15,3,1351,0,Low Value Customers
+15399,0,3,815,0,Low Value Customers
+15400,91,6,765,0,Low Value Customers
+15402,148,2,626,1,Lost Customers
+15405,188,1,349,1,Lost Customers
+15406,17,4,594,0,Low Value Customers
+15407,33,4,1046,0,Low Value Customers
+15408,263,1,267,1,Lost Customers
+15410,83,8,3450,0,Low Value Customers
+15411,25,5,1361,0,Low Value Customers
+15412,170,1,190,1,Lost Customers
+15414,9,3,774,0,Low Value Customers
+15415,312,1,559,1,Lost Customers
+15416,64,5,3994,0,Low Value Customers
+15417,84,1,508,0,Low Value Customers
+15419,24,1,135,0,Low Value Customers
+15421,58,4,950,0,Low Value Customers
+15422,322,2,97,1,Lost Customers
+15423,37,1,43,0,Low Value Customers
+15424,253,2,383,1,Lost Customers
+15426,18,7,1421,0,Low Value Customers
+15427,32,3,1430,0,Low Value Customers
+15428,14,1,93,0,Low Value Customers
+15429,26,3,429,0,Low Value Customers
+15432,22,1,171,0,Low Value Customers
+15433,78,3,648,0,Low Value Customers
+15434,7,6,1085,0,Low Value Customers
+15435,21,1,149,0,Low Value Customers
+15436,11,3,1067,0,Low Value Customers
+15437,261,1,200,1,Lost Customers
+15438,130,1,156,0,Low Value Customers
+15440,54,3,383,0,Low Value Customers
+15442,248,1,594,1,Lost Customers
+15443,1,8,3238,0,Low Value Customers
+15444,8,2,1411,0,Low Value Customers
+15445,263,1,113,1,Lost Customers
+15447,330,1,155,1,Lost Customers
+15448,312,1,494,1,Lost Customers
+15449,25,5,977,0,Low Value Customers
+15450,29,1,429,0,Low Value Customers
+15452,29,3,528,0,Low Value Customers
+15453,1,7,1371,0,Low Value Customers
+15454,361,1,179,1,Lost Customers
+15456,282,3,434,1,Lost Customers
+15457,261,1,237,1,Lost Customers
+15458,24,1,161,0,Low Value Customers
+15460,353,1,214,1,Lost Customers
+15462,93,3,234,0,Low Value Customers
+15463,28,1,126,0,Low Value Customers
+15464,337,1,1044,1,Lost Customers
+15465,19,24,7764,0,Low Value Customers
+15466,84,1,334,0,Low Value Customers
+15467,8,4,537,0,Low Value Customers
+15468,34,5,496,0,Low Value Customers
+15469,42,4,572,0,Low Value Customers
+15471,1,1,454,0,Low Value Customers
+15472,112,1,371,0,Low Value Customers
+15473,13,10,2077,0,Low Value Customers
+15475,76,1,454,0,Low Value Customers
+15478,39,2,1399,0,Low Value Customers
+15480,115,1,905,0,Low Value Customers
+15482,15,16,15366,0,Low Value Customers
+15483,160,4,225,1,Lost Customers
+15484,0,5,3621,0,Low Value Customers
+15485,29,3,2564,0,Low Value Customers
+15488,92,1,91,0,Low Value Customers
+15489,22,4,1178,0,Low Value Customers
+15491,94,7,3109,0,Low Value Customers
+15492,27,2,659,0,Low Value Customers
+15493,32,7,1987,0,Low Value Customers
+15494,20,2,1280,0,Low Value Customers
+15497,17,3,1264,0,Low Value Customers
+15498,0,35,14236,0,Low Value Customers
+15500,7,4,1131,0,Low Value Customers
+15502,15,23,15228,0,Low Value Customers
+15503,362,1,141,1,Lost Customers
+15504,80,1,52,0,Low Value Customers
+15505,52,7,3724,0,Low Value Customers
+15506,22,3,972,0,Low Value Customers
+15507,171,1,475,1,Lost Customers
+15508,188,6,1000,1,Lost Customers
+15510,330,1,250,1,Lost Customers
+15511,11,5,900,0,Low Value Customers
+15512,155,2,121,1,Lost Customers
+15513,30,22,14996,0,Low Value Customers
+15514,11,13,5139,0,Low Value Customers
+15516,44,3,62,0,Low Value Customers
+15517,232,1,267,1,Lost Customers
+15518,63,13,1952,0,Low Value Customers
+15520,1,1,343,0,Low Value Customers
+15521,35,13,3425,0,Low Value Customers
+15522,32,2,397,0,Low Value Customers
+15523,83,1,412,0,Low Value Customers
+15524,24,1,440,0,Low Value Customers
+15525,1,4,749,0,Low Value Customers
+15526,32,2,148,0,Low Value Customers
+15527,18,10,2509,0,Low Value Customers
+15528,253,1,229,1,Lost Customers
+15529,22,12,3990,0,Low Value Customers
+15530,21,4,1497,0,Low Value Customers
+15531,7,2,1972,0,Low Value Customers
+15532,24,6,1628,0,Low Value Customers
+15533,18,5,868,0,Low Value Customers
+15535,172,7,579,1,Lost Customers
+15537,162,1,110,1,Lost Customers
+15539,6,1,538,0,Low Value Customers
+15540,10,1,213,0,Low Value Customers
+15541,113,1,85,0,Low Value Customers
+15543,287,1,127,1,Lost Customers
+15544,8,11,3550,0,Low Value Customers
+15545,53,2,288,0,Low Value Customers
+15547,6,14,4910,0,Low Value Customers
+15549,76,4,1718,0,Low Value Customers
+15550,3,4,575,0,Low Value Customers
+15551,36,1,436,0,Low Value Customers
+15552,216,1,90,1,Lost Customers
+15553,59,1,428,0,Low Value Customers
+15554,277,1,217,1,Lost Customers
+15555,11,20,4841,0,Low Value Customers
+15556,23,1,279,0,Low Value Customers
+15557,28,1,468,0,Low Value Customers
+15561,11,5,878,0,Low Value Customers
+15562,351,1,134,1,Lost Customers
+15563,8,7,1481,0,Low Value Customers
+15565,49,2,173,0,Low Value Customers
+15567,18,1,186,0,Low Value Customers
+15568,2,3,758,0,Low Value Customers
+15569,103,5,1375,0,Low Value Customers
+15570,6,13,4204,0,Low Value Customers
+15571,11,4,650,0,Low Value Customers
+15572,4,7,2533,0,Low Value Customers
+15573,31,2,591,0,Low Value Customers
+15574,177,4,675,1,Lost Customers
+15576,37,1,921,0,Low Value Customers
+15577,150,3,258,1,Lost Customers
+15578,161,1,127,1,Lost Customers
+15579,68,2,327,0,Low Value Customers
+15581,120,14,3925,0,Low Value Customers
+15582,24,3,682,0,Low Value Customers
+15584,23,5,723,0,Low Value Customers
+15585,176,1,455,1,Lost Customers
+15587,49,4,913,0,Low Value Customers
+15589,252,4,500,1,Lost Customers
+15590,288,1,30,1,Lost Customers
+15592,46,1,388,0,Low Value Customers
+15593,70,1,199,0,Low Value Customers
+15594,15,6,1776,0,Low Value Customers
+15596,100,9,1469,0,Low Value Customers
+15597,29,2,333,0,Low Value Customers
+15598,34,3,245,0,Low Value Customers
+15599,26,2,761,0,Low Value Customers
+15601,10,17,6807,0,Low Value Customers
+15602,7,15,1512,0,Low Value Customers
+15603,78,1,48,0,Low Value Customers
+15604,51,1,216,0,Low Value Customers
+15605,35,5,1198,0,Low Value Customers
+15606,56,11,3417,0,Low Value Customers
+15607,336,1,104,1,Lost Customers
+15608,27,4,1093,0,Low Value Customers
+15609,182,2,326,1,Lost Customers
+15610,51,1,112,0,Low Value Customers
+15611,9,15,1614,0,Low Value Customers
+15612,35,2,195,0,Low Value Customers
+15615,9,27,10439,0,Low Value Customers
+15618,32,5,806,0,Low Value Customers
+15619,10,1,336,0,Low Value Customers
+15620,49,6,1581,0,Low Value Customers
+15621,3,6,1427,0,Low Value Customers
+15622,2,16,4194,0,Low Value Customers
+15623,140,1,301,1,Lost Customers
+15624,116,4,588,0,Low Value Customers
+15625,99,8,1563,0,Low Value Customers
+15626,74,2,675,0,Low Value Customers
+15628,4,10,2874,0,Low Value Customers
+15630,44,3,1192,0,Low Value Customers
+15632,15,10,3423,0,Low Value Customers
+15634,16,1,243,0,Low Value Customers
+15636,89,2,724,0,Low Value Customers
+15637,52,1,223,0,Low Value Customers
+15638,300,1,94,1,Lost Customers
+15639,133,1,425,0,Low Value Customers
+15640,3,17,12495,0,Low Value Customers
+15641,104,4,1887,0,Low Value Customers
+15643,178,6,680,1,Lost Customers
+15644,165,4,803,1,Lost Customers
+15645,18,1,612,0,Low Value Customers
+15646,157,4,470,1,Lost Customers
+15648,203,4,696,1,Lost Customers
+15649,335,2,816,1,Lost Customers
+15651,36,3,646,0,Low Value Customers
+15652,90,1,337,0,Low Value Customers
+15653,92,2,877,0,Low Value Customers
+15654,8,2,922,0,Low Value Customers
+15655,232,2,610,1,Lost Customers
+15656,44,4,748,0,Low Value Customers
+15657,22,1,30,0,Low Value Customers
+15658,189,8,1089,1,Lost Customers
+15659,43,1,306,0,Low Value Customers
+15660,24,12,1649,0,Low Value Customers
+15661,316,2,309,1,Lost Customers
+15663,105,1,138,0,Low Value Customers
+15664,50,2,414,0,Low Value Customers
+15665,167,2,2222,1,Lost Customers
+15667,39,1,301,0,Low Value Customers
+15668,217,1,76,1,Lost Customers
+15669,39,5,690,0,Low Value Customers
+15670,296,1,173,1,Lost Customers
+15671,18,10,2678,0,Low Value Customers
+15673,87,4,2726,0,Low Value Customers
+15674,72,8,3149,0,Low Value Customers
+15675,80,3,323,0,Low Value Customers
+15676,8,5,3547,0,Low Value Customers
+15677,48,1,657,0,Low Value Customers
+15678,52,1,352,0,Low Value Customers
+15679,23,4,781,0,Low Value Customers
+15680,8,3,1333,0,Low Value Customers
+15681,17,6,1905,0,Low Value Customers
+15683,116,1,193,0,Low Value Customers
+15687,8,11,3004,0,Low Value Customers
+15689,119,2,254,0,Low Value Customers
+15690,3,2,239,0,Low Value Customers
+15691,251,1,136,1,Lost Customers
+15692,27,1,191,0,Low Value Customers
+15694,0,15,6535,0,Low Value Customers
+15695,266,2,409,1,Lost Customers
+15696,32,12,2803,0,Low Value Customers
+15699,17,1,309,0,Low Value Customers
+15700,171,3,729,1,Lost Customers
+15701,1,4,1529,0,Low Value Customers
+15703,264,1,211,1,Lost Customers
+15704,139,4,2293,0,Low Value Customers
+15705,200,1,143,1,Lost Customers
+15706,59,7,1119,0,Low Value Customers
+15707,34,4,916,0,Low Value Customers
+15708,40,11,3269,0,Low Value Customers
+15709,283,1,133,1,Lost Customers
+15712,8,5,1072,0,Low Value Customers
+15713,142,3,366,1,Lost Customers
+15714,11,2,330,0,Low Value Customers
+15716,145,4,1101,1,Lost Customers
+15717,233,1,150,1,Lost Customers
+15719,32,14,5031,0,Low Value Customers
+15720,23,1,598,0,Low Value Customers
+15721,11,1,471,0,Low Value Customers
+15722,35,6,2252,0,Low Value Customers
+15723,364,1,190,1,Lost Customers
+15724,200,3,224,1,Lost Customers
+15725,14,1,415,0,Low Value Customers
+15727,16,7,5159,0,Low Value Customers
+15728,48,1,134,0,Low Value Customers
+15729,197,2,108,1,Lost Customers
+15730,65,4,1133,0,Low Value Customers
+15732,211,2,294,1,Lost Customers
+15733,282,1,162,1,Lost Customers
+15734,114,2,1339,0,Low Value Customers
+15737,14,12,1255,0,Low Value Customers
+15738,18,19,4836,0,Low Value Customers
+15739,65,1,449,0,Low Value Customers
+15740,48,1,154,0,Low Value Customers
+15743,15,4,775,0,Low Value Customers
+15744,77,1,34,0,Low Value Customers
+15745,8,6,1117,0,Low Value Customers
+15746,133,2,210,0,Low Value Customers
+15747,12,3,946,0,Low Value Customers
+15748,39,1,144,0,Low Value Customers
+15749,234,4,67532,1,Lost Customers
+15750,2,9,2477,0,Low Value Customers
+15752,39,8,2635,0,Low Value Customers
+15753,304,1,79,1,Lost Customers
+15754,50,4,461,0,Low Value Customers
+15755,0,8,2409,0,Low Value Customers
+15756,60,4,528,0,Low Value Customers
+15757,65,2,714,0,Low Value Customers
+15758,24,1,205,0,Low Value Customers
+15759,217,3,253,1,Lost Customers
+15762,64,2,583,0,Low Value Customers
+15763,31,3,1125,0,Low Value Customers
+15764,80,10,3314,0,Low Value Customers
+15766,63,1,315,0,Low Value Customers
+15768,115,4,661,0,Low Value Customers
+15769,6,29,60681,0,Low Value Customers
+15773,5,1,635,0,Low Value Customers
+15774,68,1,270,0,Low Value Customers
+15775,244,1,104,1,Lost Customers
+15776,132,1,241,0,Low Value Customers
+15777,240,5,1072,1,Lost Customers
+15780,183,3,475,1,Lost Customers
+15781,24,4,357,0,Low Value Customers
+15782,9,4,2635,0,Low Value Customers
+15783,10,1,246,0,Low Value Customers
+15785,29,8,2354,0,Low Value Customers
+15786,43,5,5017,0,Low Value Customers
+15787,25,3,933,0,Low Value Customers
+15789,357,1,351,1,Lost Customers
+15790,9,1,218,0,Low Value Customers
+15791,43,3,1620,0,Low Value Customers
+15793,8,4,982,0,Low Value Customers
+15795,149,1,610,1,Lost Customers
+15796,0,10,2753,0,Low Value Customers
+15797,112,4,2207,0,Low Value Customers
+15799,75,3,884,0,Low Value Customers
+15800,106,2,696,0,Low Value Customers
+15801,45,4,1085,0,Low Value Customers
+15802,142,3,1354,1,Lost Customers
+15803,50,1,415,0,Low Value Customers
+15804,0,19,4564,0,Low Value Customers
+15805,22,20,5564,0,Low Value Customers
+15806,45,3,784,0,Low Value Customers
+15807,49,3,903,0,Low Value Customers
+15808,305,5,3661,1,Lost Customers
+15809,35,6,632,0,Low Value Customers
+15810,78,7,1638,0,Low Value Customers
+15811,16,9,2265,0,Low Value Customers
+15812,106,5,1801,0,Low Value Customers
+15813,207,2,1303,1,Lost Customers
+15814,2,6,2047,0,Low Value Customers
+15815,63,5,2100,0,Low Value Customers
+15819,48,4,1905,0,Low Value Customers
+15820,319,1,206,1,Lost Customers
+15821,43,2,570,0,Low Value Customers
+15822,2,2,885,0,Low Value Customers
+15823,336,2,870,1,Lost Customers
+15825,171,1,532,1,Lost Customers
+15826,50,4,1659,0,Low Value Customers
+15827,72,20,2030,0,Low Value Customers
+15829,98,2,636,0,Low Value Customers
+15830,28,2,604,0,Low Value Customers
+15831,57,4,848,0,Low Value Customers
+15832,253,1,836,1,Lost Customers
+15834,69,6,2374,0,Low Value Customers
+15835,43,4,954,0,Low Value Customers
+15836,44,2,157,0,Low Value Customers
+15837,64,1,391,0,Low Value Customers
+15838,10,21,33935,0,Low Value Customers
+15839,24,5,1076,0,Low Value Customers
+15840,58,3,365,0,Low Value Customers
+15841,63,6,1239,0,Low Value Customers
+15843,303,1,118,1,Lost Customers
+15844,45,1,130,0,Low Value Customers
+15845,17,10,3772,0,Low Value Customers
+15847,37,2,389,0,Low Value Customers
+15850,18,2,234,0,Low Value Customers
+15852,186,2,160,1,Lost Customers
+15853,51,1,110,0,Low Value Customers
+15854,3,12,2969,0,Low Value Customers
+15855,136,5,712,0,Low Value Customers
+15856,3,31,16357,0,Low Value Customers
+15857,18,1,297,0,Low Value Customers
+15858,15,5,1427,0,Low Value Customers
+15860,40,8,965,0,Low Value Customers
+15861,11,9,3311,0,Low Value Customers
+15862,7,4,832,0,Low Value Customers
+15863,25,2,68,0,Low Value Customers
+15864,21,8,2102,0,Low Value Customers
+15865,40,3,895,0,Low Value Customers
+15866,100,1,211,0,Low Value Customers
+15867,4,16,3824,0,Low Value Customers
+15869,276,2,149,1,Lost Customers
+15870,32,1,351,0,Low Value Customers
+15872,14,2,316,0,Low Value Customers
+15874,62,9,4481,0,Low Value Customers
+15877,1,3,542,0,Low Value Customers
+15880,368,2,359,1,Lost Customers
+15881,311,8,564,1,Lost Customers
+15882,198,5,537,1,Lost Customers
+15883,1,2,396,0,Low Value Customers
+15885,92,3,379,0,Low Value Customers
+15886,59,1,181,0,Low Value Customers
+15888,79,2,195,0,Low Value Customers
+15889,156,2,420,1,Lost Customers
+15891,226,1,511,1,Lost Customers
+15894,252,2,258,1,Lost Customers
+15895,149,1,179,1,Lost Customers
+15897,193,2,208,1,Lost Customers
+15898,0,6,1388,0,Low Value Customers
+15899,368,1,56,1,Lost Customers
+15900,23,1,337,0,Low Value Customers
+15901,16,3,351,0,Low Value Customers
+15903,9,8,5127,0,Low Value Customers
+15904,7,1,164,0,Low Value Customers
+15906,19,8,1613,0,Low Value Customers
+15907,3,3,882,0,Low Value Customers
+15909,173,1,191,1,Lost Customers
+15910,0,8,1228,0,Low Value Customers
+15912,177,2,264,1,Lost Customers
+15916,15,10,1539,0,Low Value Customers
+15917,247,1,123,1,Lost Customers
+15918,190,2,334,1,Lost Customers
+15919,19,2,525,0,Low Value Customers
+15920,153,4,167,1,Lost Customers
+15921,172,1,323,1,Lost Customers
+15922,371,2,375,1,Lost Customers
+15923,372,1,127,1,Lost Customers
+15925,193,1,207,1,Lost Customers
+15930,66,1,426,0,Low Value Customers
+15932,3,11,2529,0,Low Value Customers
+15933,20,3,1107,0,Low Value Customers
+15935,238,2,416,1,Lost Customers
+15937,63,1,145,0,Low Value Customers
+15938,111,5,404,0,Low Value Customers
+15939,89,16,6127,0,Low Value Customers
+15940,310,2,39,1,Lost Customers
+15942,133,1,337,0,Low Value Customers
+15944,276,1,325,1,Lost Customers
+15945,364,1,181,1,Lost Customers
+15947,82,1,1708,0,Low Value Customers
+15948,7,2,955,0,Low Value Customers
+15949,16,2,364,0,Low Value Customers
+15950,1,5,1804,0,Low Value Customers
+15951,0,3,746,0,Low Value Customers
+15952,33,4,781,0,Low Value Customers
+15953,14,10,1682,0,Low Value Customers
+15955,23,16,4442,0,Low Value Customers
+15957,31,1,428,0,Low Value Customers
+15958,73,1,104,0,Low Value Customers
+15963,19,2,470,0,Low Value Customers
+15965,16,4,808,0,Low Value Customers
+15967,22,2,397,0,Low Value Customers
+15969,2,4,749,0,Low Value Customers
+15970,303,1,314,1,Lost Customers
+15971,17,12,4199,0,Low Value Customers
+15973,235,3,515,1,Lost Customers
+15974,38,8,3454,0,Low Value Customers
+15975,83,1,371,0,Low Value Customers
+15976,164,2,427,1,Lost Customers
+15977,16,2,1054,0,Low Value Customers
+15978,76,1,1098,0,Low Value Customers
+15980,88,3,2398,0,Low Value Customers
+15981,24,8,3408,0,Low Value Customers
+15983,21,4,1465,0,Low Value Customers
+15984,2,11,2801,0,Low Value Customers
+15985,122,3,1247,0,Low Value Customers
+15986,29,1,168,0,Low Value Customers
+15987,11,7,1432,0,Low Value Customers
+15988,18,1,156,0,Low Value Customers
+15990,43,2,792,0,Low Value Customers
+15992,3,1,41,0,Low Value Customers
+15993,8,10,2818,0,Low Value Customers
+15994,54,1,414,0,Low Value Customers
+15996,87,7,1048,0,Low Value Customers
+15998,36,6,3086,0,Low Value Customers
+16000,2,3,12393,0,Low Value Customers
+16003,29,5,2735,0,Low Value Customers
+16005,11,4,578,0,Low Value Customers
+16006,210,1,101,1,Lost Customers
+16007,47,4,1693,0,Low Value Customers
+16008,23,3,478,0,Low Value Customers
+16009,21,4,972,0,Low Value Customers
+16010,245,3,392,1,Lost Customers
+16011,7,16,3352,0,Low Value Customers
+16012,34,3,1415,0,Low Value Customers
+16013,3,54,40894,2,Big Spenders
+16014,35,4,656,0,Low Value Customers
+16015,3,4,719,0,Low Value Customers
+16016,2,10,1490,0,Low Value Customers
+16017,46,1,211,0,Low Value Customers
+16018,38,2,408,0,Low Value Customers
+16019,1,10,4122,0,Low Value Customers
+16020,16,3,851,0,Low Value Customers
+16022,259,1,602,1,Lost Customers
+16023,45,3,719,0,Low Value Customers
+16024,11,1,251,0,Low Value Customers
+16025,29,1,439,0,Low Value Customers
+16026,42,1,236,0,Low Value Customers
+16027,91,7,1017,0,Low Value Customers
+16029,38,76,108532,2,Big Spenders
+16030,309,1,331,1,Lost Customers
+16031,91,2,547,0,Low Value Customers
+16033,5,27,8867,0,Low Value Customers
+16034,195,3,437,1,Lost Customers
+16036,86,2,758,0,Low Value Customers
+16037,269,3,855,1,Lost Customers
+16038,7,4,489,0,Low Value Customers
+16040,64,3,1313,0,Low Value Customers
+16041,30,3,3166,0,Low Value Customers
+16042,21,7,1227,0,Low Value Customers
+16043,37,4,773,0,Low Value Customers
+16045,119,4,1340,0,Low Value Customers
+16048,85,3,269,0,Low Value Customers
+16049,39,3,1074,0,Low Value Customers
+16050,173,1,137,1,Lost Customers
+16052,53,1,362,0,Low Value Customers
+16053,32,2,1511,0,Low Value Customers
+16054,144,1,783,1,Lost Customers
+16055,220,1,134,1,Lost Customers
+16056,44,1,650,0,Low Value Customers
+16057,3,10,2386,0,Low Value Customers
+16059,65,6,1453,0,Low Value Customers
+16061,268,1,29,1,Lost Customers
+16062,9,4,1153,0,Low Value Customers
+16063,259,1,335,1,Lost Customers
+16065,364,1,367,1,Lost Customers
+16066,16,5,1521,0,Low Value Customers
+16070,21,2,852,0,Low Value Customers
+16071,44,1,326,0,Low Value Customers
+16072,287,1,584,1,Lost Customers
+16073,291,2,150,1,Lost Customers
+16076,2,11,2295,0,Low Value Customers
+16078,283,1,79,1,Lost Customers
+16079,16,3,1352,0,Low Value Customers
+16080,81,3,257,0,Low Value Customers
+16081,55,5,2799,0,Low Value Customers
+16083,100,2,1317,0,Low Value Customers
+16084,298,1,436,1,Lost Customers
+16085,22,5,981,0,Low Value Customers
+16086,58,6,1123,0,Low Value Customers
+16091,154,2,315,1,Lost Customers
+16092,98,5,856,0,Low Value Customers
+16093,106,1,17,0,Low Value Customers
+16094,11,6,1114,0,Low Value Customers
+16096,263,1,320,1,Lost Customers
+16097,239,1,185,1,Lost Customers
+16098,87,7,2005,0,Low Value Customers
+16099,49,3,731,0,Low Value Customers
+16101,8,3,1335,0,Low Value Customers
+16102,41,3,1842,0,Low Value Customers
+16103,6,6,1429,0,Low Value Customers
+16104,61,1,298,0,Low Value Customers
+16105,248,1,336,1,Lost Customers
+16106,65,1,108,0,Low Value Customers
+16107,17,7,3204,0,Low Value Customers
+16108,84,2,868,0,Low Value Customers
+16109,218,2,611,1,Lost Customers
+16110,44,3,1320,0,Low Value Customers
+16112,142,4,195,1,Lost Customers
+16113,182,1,161,1,Lost Customers
+16114,170,1,135,1,Lost Customers
+16115,9,8,1660,0,Low Value Customers
+16116,205,2,632,1,Lost Customers
+16117,189,1,232,1,Lost Customers
+16119,7,2,423,0,Low Value Customers
+16120,58,5,1324,0,Low Value Customers
+16121,56,2,854,0,Low Value Customers
+16122,72,4,684,0,Low Value Customers
+16123,51,1,307,0,Low Value Customers
+16124,315,2,310,1,Lost Customers
+16125,366,1,289,1,Lost Customers
+16126,28,4,6287,0,Low Value Customers
+16127,38,1,656,0,Low Value Customers
+16128,17,5,1880,0,Low Value Customers
+16131,51,6,3506,0,Low Value Customers
+16133,3,46,14872,0,Low Value Customers
+16134,21,3,632,0,Low Value Customers
+16135,262,1,517,1,Lost Customers
+16136,59,3,709,0,Low Value Customers
+16138,367,1,7,1,Lost Customers
+16139,18,3,635,0,Low Value Customers
+16140,52,4,746,0,Low Value Customers
+16141,87,1,620,0,Low Value Customers
+16142,249,1,535,1,Lost Customers
+16143,2,7,2430,0,Low Value Customers
+16144,246,1,175,1,Lost Customers
+16145,8,18,3857,0,Low Value Customers
+16146,156,3,734,1,Lost Customers
+16147,133,1,375,0,Low Value Customers
+16148,295,1,76,1,Lost Customers
+16149,4,2,280,0,Low Value Customers
+16150,38,10,2199,0,Low Value Customers
+16152,268,1,1829,1,Lost Customers
+16153,49,5,1824,0,Low Value Customers
+16156,8,13,3189,0,Low Value Customers
+16157,15,4,669,0,Low Value Customers
+16159,281,1,348,1,Lost Customers
+16160,63,4,1041,0,Low Value Customers
+16161,1,26,5756,0,Low Value Customers
+16162,251,1,37,1,Lost Customers
+16163,224,3,1271,1,Lost Customers
+16164,16,4,842,0,Low Value Customers
+16168,10,28,3804,0,Low Value Customers
+16169,7,4,1822,0,Low Value Customers
+16170,50,7,1889,0,Low Value Customers
+16171,58,1,73,0,Low Value Customers
+16172,94,5,1140,0,Low Value Customers
+16173,15,7,1430,0,Low Value Customers
+16174,125,3,1009,0,Low Value Customers
+16175,93,4,1037,0,Low Value Customers
+16177,49,1,331,0,Low Value Customers
+16178,137,1,197,1,Lost Customers
+16179,60,1,215,0,Low Value Customers
+16180,99,10,10290,0,Low Value Customers
+16181,72,1,305,0,Low Value Customers
+16182,71,4,6617,0,Low Value Customers
+16183,66,1,338,0,Low Value Customers
+16184,63,7,1162,0,Low Value Customers
+16185,16,2,529,0,Low Value Customers
+16186,22,13,4021,0,Low Value Customers
+16187,31,17,6981,0,Low Value Customers
+16188,44,4,981,0,Low Value Customers
+16189,15,2,215,0,Low Value Customers
+16190,39,1,215,0,Low Value Customers
+16191,2,25,5447,0,Low Value Customers
+16193,236,1,314,1,Lost Customers
+16198,74,1,400,0,Low Value Customers
+16200,3,2,1068,0,Low Value Customers
+16201,2,5,1905,0,Low Value Customers
+16202,360,1,365,1,Lost Customers
+16203,58,5,596,0,Low Value Customers
+16204,22,1,384,0,Low Value Customers
+16205,30,4,757,0,Low Value Customers
+16206,54,4,537,0,Low Value Customers
+16207,24,1,394,0,Low Value Customers
+16208,44,2,664,0,Low Value Customers
+16209,88,5,2262,0,Low Value Customers
+16210,1,18,21086,0,Low Value Customers
+16211,80,2,551,0,Low Value Customers
+16212,18,3,699,0,Low Value Customers
+16213,78,1,159,0,Low Value Customers
+16214,170,3,1062,1,Lost Customers
+16215,80,1,242,0,Low Value Customers
+16216,266,1,914,1,Lost Customers
+16217,234,4,349,1,Lost Customers
+16218,29,8,3114,0,Low Value Customers
+16221,36,3,860,0,Low Value Customers
+16222,317,1,773,1,Lost Customers
+16224,56,4,1295,0,Low Value Customers
+16225,44,5,1096,0,Low Value Customers
+16226,202,3,255,1,Lost Customers
+16227,218,2,320,1,Lost Customers
+16229,86,2,1010,0,Low Value Customers
+16230,189,2,542,1,Lost Customers
+16232,32,5,998,0,Low Value Customers
+16233,70,5,651,0,Low Value Customers
+16235,40,6,876,0,Low Value Customers
+16236,77,1,432,0,Low Value Customers
+16239,56,3,455,0,Low Value Customers
+16240,7,5,3743,0,Low Value Customers
+16241,9,13,2590,0,Low Value Customers
+16242,7,8,3584,0,Low Value Customers
+16243,33,2,409,0,Low Value Customers
+16244,211,2,1522,1,Lost Customers
+16245,23,5,1474,0,Low Value Customers
+16247,169,1,114,1,Lost Customers
+16248,61,1,152,0,Low Value Customers
+16249,52,5,1800,0,Low Value Customers
+16250,260,2,389,1,Lost Customers
+16252,365,1,295,1,Lost Customers
+16253,31,3,3702,0,Low Value Customers
+16255,16,10,2630,0,Low Value Customers
+16256,257,2,772,1,Lost Customers
+16257,176,1,46,1,Lost Customers
+16258,44,5,5203,0,Low Value Customers
+16260,50,1,1035,0,Low Value Customers
+16261,16,4,728,0,Low Value Customers
+16262,360,1,31,1,Lost Customers
+16265,8,11,5470,0,Low Value Customers
+16266,73,7,861,0,Low Value Customers
+16268,70,2,667,0,Low Value Customers
+16270,352,1,1141,1,Lost Customers
+16271,2,6,1410,0,Low Value Customers
+16272,116,1,411,0,Low Value Customers
+16274,372,1,351,1,Lost Customers
+16275,196,1,559,1,Lost Customers
+16276,176,1,810,1,Lost Customers
+16278,22,3,594,0,Low Value Customers
+16279,20,4,1515,0,Low Value Customers
+16281,71,1,2062,0,Low Value Customers
+16282,339,1,168,1,Lost Customers
+16283,5,7,1610,0,Low Value Customers
+16284,30,2,812,0,Low Value Customers
+16287,169,1,142,1,Lost Customers
+16292,116,2,323,0,Low Value Customers
+16293,8,12,2261,0,Low Value Customers
+16295,9,4,1328,0,Low Value Customers
+16297,212,4,328,1,Lost Customers
+16298,22,3,598,0,Low Value Customers
+16302,107,2,253,0,Low Value Customers
+16303,25,4,5415,0,Low Value Customers
+16305,138,1,361,1,Lost Customers
+16306,213,9,662,1,Lost Customers
+16308,37,4,2560,0,Low Value Customers
+16309,91,3,726,0,Low Value Customers
+16311,17,2,616,0,Low Value Customers
+16313,2,2,274,0,Low Value Customers
+16315,330,1,226,1,Lost Customers
+16316,63,12,3122,0,Low Value Customers
+16317,119,3,1341,0,Low Value Customers
+16318,34,1,328,0,Low Value Customers
+16319,217,1,404,1,Lost Customers
+16320,171,2,1038,1,Lost Customers
+16321,71,7,516,0,Low Value Customers
+16322,0,2,326,0,Low Value Customers
+16323,195,1,207,1,Lost Customers
+16324,127,3,408,0,Low Value Customers
+16325,43,5,677,0,Low Value Customers
+16326,5,15,3064,0,Low Value Customers
+16327,13,6,3820,0,Low Value Customers
+16330,17,4,261,0,Low Value Customers
+16332,27,8,1592,0,Low Value Customers
+16333,7,22,26626,0,Low Value Customers
+16337,36,1,151,0,Low Value Customers
+16338,156,1,214,1,Lost Customers
+16339,283,1,94,1,Lost Customers
+16340,106,1,534,0,Low Value Customers
+16341,24,6,1984,0,Low Value Customers
+16342,74,4,322,0,Low Value Customers
+16343,15,2,328,0,Low Value Customers
+16344,157,1,101,1,Lost Customers
+16345,43,1,565,0,Low Value Customers
+16347,10,2,847,0,Low Value Customers
+16348,31,7,1415,0,Low Value Customers
+16349,290,1,53,1,Lost Customers
+16350,20,5,1132,0,Low Value Customers
+16351,332,1,153,1,Lost Customers
+16352,17,2,494,0,Low Value Customers
+16353,3,23,6675,0,Low Value Customers
+16354,62,2,395,0,Low Value Customers
+16356,197,4,213,1,Lost Customers
+16357,32,3,658,0,Low Value Customers
+16358,0,5,2030,0,Low Value Customers
+16359,6,12,2041,0,Low Value Customers
+16360,4,8,3551,0,Low Value Customers
+16361,9,4,891,0,Low Value Customers
+16362,31,9,792,0,Low Value Customers
+16363,52,1,109,0,Low Value Customers
+16364,11,2,705,0,Low Value Customers
+16365,17,9,1540,0,Low Value Customers
+16366,18,1,327,0,Low Value Customers
+16367,36,2,800,0,Low Value Customers
+16368,1,2,479,0,Low Value Customers
+16369,17,3,1545,0,Low Value Customers
+16370,81,4,1301,0,Low Value Customers
+16372,32,2,355,0,Low Value Customers
+16374,65,2,466,0,Low Value Customers
+16376,8,3,984,0,Low Value Customers
+16377,266,1,676,1,Lost Customers
+16378,246,3,362,1,Lost Customers
+16379,3,5,2182,0,Low Value Customers
+16380,60,1,1743,0,Low Value Customers
+16383,74,2,643,0,Low Value Customers
+16384,89,2,584,0,Low Value Customers
+16385,59,3,554,0,Low Value Customers
+16386,28,2,302,0,Low Value Customers
+16387,322,1,94,1,Lost Customers
+16389,52,5,1401,0,Low Value Customers
+16392,269,1,217,1,Lost Customers
+16393,1,20,3146,0,Low Value Customers
+16394,49,9,1698,0,Low Value Customers
+16395,60,5,1482,0,Low Value Customers
+16398,144,4,1780,1,Lost Customers
+16399,18,2,408,0,Low Value Customers
+16400,94,1,303,0,Low Value Customers
+16401,0,20,4135,0,Low Value Customers
+16402,264,2,293,1,Lost Customers
+16403,301,2,193,1,Lost Customers
+16404,69,1,443,0,Low Value Customers
+16405,301,2,167,1,Lost Customers
+16406,18,1,154,0,Low Value Customers
+16407,12,10,2079,0,Low Value Customers
+16409,35,5,2022,0,Low Value Customers
+16411,18,2,211,0,Low Value Customers
+16412,53,1,135,0,Low Value Customers
+16413,56,1,262,0,Low Value Customers
+16414,21,2,126,0,Low Value Customers
+16415,43,1,200,0,Low Value Customers
+16416,26,4,1075,0,Low Value Customers
+16418,44,3,631,0,Low Value Customers
+16419,112,7,971,0,Low Value Customers
+16422,16,75,35563,2,Big Spenders
+16423,24,1,346,0,Low Value Customers
+16424,190,2,184,1,Lost Customers
+16425,301,1,302,1,Lost Customers
+16426,1,10,1863,0,Low Value Customers
+16427,262,2,241,1,Lost Customers
+16428,80,1,2,0,Low Value Customers
+16429,105,1,284,0,Low Value Customers
+16430,56,1,300,0,Low Value Customers
+16431,212,3,623,1,Lost Customers
+16432,63,1,287,0,Low Value Customers
+16433,27,1,184,0,Low Value Customers
+16434,28,7,1511,0,Low Value Customers
+16438,5,5,798,0,Low Value Customers
+16440,7,5,3640,0,Low Value Customers
+16441,66,2,381,0,Low Value Customers
+16442,1,3,609,0,Low Value Customers
+16444,45,5,670,0,Low Value Customers
+16445,33,1,230,0,Low Value Customers
+16446,0,3,336942,3,Champions
+16447,135,1,255,0,Low Value Customers
+16448,197,1,182,1,Lost Customers
+16449,190,3,740,1,Lost Customers
+16450,149,1,311,1,Lost Customers
+16451,87,1,266,0,Low Value Customers
+16454,44,3,21,0,Low Value Customers
+16455,63,7,1841,0,Low Value Customers
+16456,98,5,2158,0,Low Value Customers
+16457,217,1,208,1,Lost Customers
+16458,2,18,3482,0,Low Value Customers
+16460,27,3,811,0,Low Value Customers
+16461,177,1,142,1,Lost Customers
+16462,63,4,170,0,Low Value Customers
+16463,20,7,1461,0,Low Value Customers
+16464,19,3,1298,0,Low Value Customers
+16466,33,7,1595,0,Low Value Customers
+16468,73,1,74,0,Low Value Customers
+16469,23,4,625,0,Low Value Customers
+16470,51,5,757,0,Low Value Customers
+16471,274,1,223,1,Lost Customers
+16473,164,4,317,1,Lost Customers
+16474,6,11,1870,0,Low Value Customers
+16475,87,4,544,0,Low Value Customers
+16477,63,7,2494,0,Low Value Customers
+16478,24,3,331,0,Low Value Customers
+16479,9,2,300,0,Low Value Customers
+16480,75,1,769,0,Low Value Customers
+16482,15,1,220,0,Low Value Customers
+16483,191,1,139,1,Lost Customers
+16484,173,3,429,1,Lost Customers
+16485,76,1,363,0,Low Value Customers
+16488,32,4,505,0,Low Value Customers
+16491,46,1,731,0,Low Value Customers
+16493,72,6,1373,0,Low Value Customers
+16494,296,1,826,1,Lost Customers
+16495,2,3,648,0,Low Value Customers
+16496,8,4,1636,0,Low Value Customers
+16497,49,6,2965,0,Low Value Customers
+16498,160,3,115,1,Lost Customers
+16499,359,5,411,1,Lost Customers
+16500,4,6,400,0,Low Value Customers
+16503,106,5,1442,0,Low Value Customers
+16504,24,1,465,0,Low Value Customers
+16505,31,1,777,0,Low Value Customers
+16506,19,2,90,0,Low Value Customers
+16509,296,1,363,1,Lost Customers
+16510,371,1,248,1,Lost Customers
+16511,21,3,918,0,Low Value Customers
+16513,4,4,874,0,Low Value Customers
+16515,51,5,1624,0,Low Value Customers
+16516,29,1,101,0,Low Value Customers
+16517,276,1,162,1,Lost Customers
+16518,60,3,487,0,Low Value Customers
+16519,24,2,215,0,Low Value Customers
+16520,185,4,1056,1,Lost Customers
+16523,1,28,9541,0,Low Value Customers
+16525,1,29,14159,0,Low Value Customers
+16526,171,1,290,1,Lost Customers
+16527,80,1,228,0,Low Value Customers
+16528,3,1,244,0,Low Value Customers
+16529,189,1,455,1,Lost Customers
+16531,21,7,1244,0,Low Value Customers
+16532,17,3,6748,0,Low Value Customers
+16533,18,5,1151,0,Low Value Customers
+16535,4,1,593,0,Low Value Customers
+16536,106,2,558,0,Low Value Customers
+16539,2,4,1388,0,Low Value Customers
+16542,53,1,119,0,Low Value Customers
+16545,164,1,339,1,Lost Customers
+16546,290,3,1670,1,Lost Customers
+16549,9,10,4034,0,Low Value Customers
+16550,108,9,2331,0,Low Value Customers
+16551,95,3,922,0,Low Value Customers
+16552,242,2,379,1,Lost Customers
+16553,162,14,5775,0,Low Value Customers
+16554,2,7,1032,0,Low Value Customers
+16555,34,2,285,0,Low Value Customers
+16556,66,7,3313,0,Low Value Customers
+16557,23,2,281,0,Low Value Customers
+16558,0,24,8419,0,Low Value Customers
+16560,20,3,866,0,Low Value Customers
+16561,5,2,511,0,Low Value Customers
+16563,53,1,1077,0,Low Value Customers
+16565,363,1,173,1,Lost Customers
+16566,14,6,615,0,Low Value Customers
+16567,193,2,865,1,Lost Customers
+16569,2,1,124,0,Low Value Customers
+16570,8,15,3853,0,Low Value Customers
+16571,2,5,1558,0,Low Value Customers
+16572,126,4,1019,0,Low Value Customers
+16573,73,4,678,0,Low Value Customers
+16574,70,1,451,0,Low Value Customers
+16579,364,1,30,1,Lost Customers
+16581,154,2,141,1,Lost Customers
+16582,112,1,313,0,Low Value Customers
+16583,373,1,233,1,Lost Customers
+16584,79,3,964,0,Low Value Customers
+16586,248,1,463,1,Lost Customers
+16587,231,1,225,1,Lost Customers
+16589,70,3,459,0,Low Value Customers
+16591,68,1,213,0,Low Value Customers
+16592,3,19,4154,0,Low Value Customers
+16593,50,3,330,0,Low Value Customers
+16594,74,1,181,0,Low Value Customers
+16595,60,1,360,0,Low Value Customers
+16596,15,2,250,0,Low Value Customers
+16597,3,1,90,0,Low Value Customers
+16598,276,2,149,1,Lost Customers
+16600,3,6,813,0,Low Value Customers
+16601,40,1,242,0,Low Value Customers
+16602,30,2,561,0,Low Value Customers
+16603,74,2,482,0,Low Value Customers
+16607,17,16,3656,0,Low Value Customers
+16609,14,9,5535,0,Low Value Customers
+16610,218,1,75,1,Lost Customers
+16611,185,2,137,1,Lost Customers
+16612,32,4,1187,0,Low Value Customers
+16613,69,1,618,0,Low Value Customers
+16614,182,1,506,1,Lost Customers
+16616,14,2,500,0,Low Value Customers
+16617,235,1,151,1,Lost Customers
+16618,30,6,2664,0,Low Value Customers
+16619,253,2,248,1,Lost Customers
+16620,3,2,178,0,Low Value Customers
+16621,51,4,813,0,Low Value Customers
+16623,245,1,129,1,Lost Customers
+16624,80,2,810,0,Low Value Customers
+16625,274,1,333,1,Lost Customers
+16626,0,20,4446,0,Low Value Customers
+16627,78,1,322,0,Low Value Customers
+16628,29,6,2193,0,Low Value Customers
+16629,73,2,408,0,Low Value Customers
+16633,16,7,2888,0,Low Value Customers
+16634,222,2,217,1,Lost Customers
+16637,31,5,1184,0,Low Value Customers
+16638,22,11,1684,0,Low Value Customers
+16639,24,4,1345,0,Low Value Customers
+16641,105,1,231,0,Low Value Customers
+16642,4,3,696,0,Low Value Customers
+16643,245,1,487,1,Lost Customers
+16644,177,2,833,1,Lost Customers
+16647,169,2,214,1,Lost Customers
+16648,38,2,310,0,Low Value Customers
+16650,71,1,518,0,Low Value Customers
+16652,53,11,6893,0,Low Value Customers
+16653,15,3,1258,0,Low Value Customers
+16654,140,5,607,0,Low Value Customers
+16655,17,6,3789,0,Low Value Customers
+16656,21,21,8683,0,Low Value Customers
+16657,9,4,874,0,Low Value Customers
+16658,367,1,123,1,Lost Customers
+16659,188,1,39,1,Lost Customers
+16660,15,5,1724,0,Low Value Customers
+16665,361,1,135,1,Lost Customers
+16666,18,1,118,0,Low Value Customers
+16667,67,2,567,0,Low Value Customers
+16668,14,6,306,0,Low Value Customers
+16669,23,4,1352,0,Low Value Customers
+16670,16,17,4169,0,Low Value Customers
+16671,27,3,1692,0,Low Value Customers
+16672,1,23,8176,0,Low Value Customers
+16674,54,2,304,0,Low Value Customers
+16676,33,5,1625,0,Low Value Customers
+16678,2,17,3206,0,Low Value Customers
+16679,365,1,129,1,Lost Customers
+16680,42,1,183,0,Low Value Customers
+16681,72,6,1770,0,Low Value Customers
+16682,4,5,1028,0,Low Value Customers
+16684,3,31,67415,0,Low Value Customers
+16685,60,2,324,0,Low Value Customers
+16686,46,9,2979,0,Low Value Customers
+16688,0,4,1260,0,Low Value Customers
+16689,75,3,541,0,Low Value Customers
+16690,43,3,242,0,Low Value Customers
+16692,255,2,1276,1,Lost Customers
+16693,68,2,477,0,Low Value Customers
+16696,134,4,657,0,Low Value Customers
+16697,240,1,112,1,Lost Customers
+16698,226,2,1998,1,Lost Customers
+16700,8,17,5113,0,Low Value Customers
+16701,8,18,5646,0,Low Value Customers
+16705,0,29,14123,0,Low Value Customers
+16706,36,3,531,0,Low Value Customers
+16708,45,1,656,0,Low Value Customers
+16709,84,5,3029,0,Low Value Customers
+16710,18,10,2467,0,Low Value Customers
+16711,2,5,1651,0,Low Value Customers
+16712,8,11,3611,0,Low Value Customers
+16713,18,21,6993,0,Low Value Customers
+16714,218,4,1379,1,Lost Customers
+16715,77,1,301,0,Low Value Customers
+16716,266,3,1482,1,Lost Customers
+16717,8,9,4423,0,Low Value Customers
+16718,368,1,606,1,Lost Customers
+16719,14,8,1786,0,Low Value Customers
+16720,25,1,152,0,Low Value Customers
+16721,261,1,292,1,Lost Customers
+16722,16,16,4750,0,Low Value Customers
+16723,90,2,576,0,Low Value Customers
+16725,301,8,764,1,Lost Customers
+16726,25,5,1358,0,Low Value Customers
+16727,363,1,256,1,Lost Customers
+16728,45,4,1048,0,Low Value Customers
+16729,35,26,7368,0,Low Value Customers
+16730,51,4,783,0,Low Value Customers
+16732,31,1,603,0,Low Value Customers
+16734,51,3,646,0,Low Value Customers
+16735,78,7,2278,0,Low Value Customers
+16737,52,1,417,0,Low Value Customers
+16738,297,1,3,1,Lost Customers
+16739,171,2,333,1,Lost Customers
+16742,46,2,929,0,Low Value Customers
+16743,28,8,2259,0,Low Value Customers
+16744,10,7,1291,0,Low Value Customers
+16745,86,18,7204,0,Low Value Customers
+16746,4,19,6683,0,Low Value Customers
+16747,24,4,845,0,Low Value Customers
+16748,17,5,1515,0,Low Value Customers
+16750,44,5,623,0,Low Value Customers
+16751,30,1,1764,0,Low Value Customers
+16752,372,1,207,1,Lost Customers
+16753,57,1,223,0,Low Value Customers
+16754,371,1,2002,1,Lost Customers
+16755,113,5,1487,0,Low Value Customers
+16756,214,1,239,1,Lost Customers
+16757,318,1,106,1,Lost Customers
+16758,64,1,369,0,Low Value Customers
+16759,7,4,806,0,Low Value Customers
+16761,96,1,316,0,Low Value Customers
+16762,19,3,1207,0,Low Value Customers
+16763,184,2,628,1,Lost Customers
+16764,3,18,2831,0,Low Value Customers
+16765,293,1,34,1,Lost Customers
+16766,272,2,1145,1,Lost Customers
+16767,30,11,5575,0,Low Value Customers
+16768,47,5,498,0,Low Value Customers
+16769,259,1,361,1,Lost Customers
+16770,57,6,782,0,Low Value Customers
+16771,32,5,2242,0,Low Value Customers
+16773,56,1,171,0,Low Value Customers
+16774,67,5,668,0,Low Value Customers
+16775,9,11,1691,0,Low Value Customers
+16776,59,1,371,0,Low Value Customers
+16777,79,2,222,0,Low Value Customers
+16778,73,2,245,0,Low Value Customers
+16779,1,28,10787,0,Low Value Customers
+16780,99,2,422,0,Low Value Customers
+16781,364,2,327,1,Lost Customers
+16782,9,19,2305,0,Low Value Customers
+16784,19,1,107,0,Low Value Customers
+16788,122,2,594,0,Low Value Customers
+16789,7,1,80,0,Low Value Customers
+16790,3,8,1571,0,Low Value Customers
+16791,28,8,1721,0,Low Value Customers
+16792,281,2,110,1,Lost Customers
+16793,56,1,243,0,Low Value Customers
+16794,0,12,1217,0,Low Value Customers
+16795,364,1,414,1,Lost Customers
+16796,88,1,305,0,Low Value Customers
+16800,10,1,1162,0,Low Value Customers
+16801,162,5,2346,1,Lost Customers
+16803,64,1,332,0,Low Value Customers
+16804,22,3,536,0,Low Value Customers
+16805,173,2,460,1,Lost Customers
+16806,102,4,762,0,Low Value Customers
+16807,142,3,1121,1,Lost Customers
+16808,98,2,288,0,Low Value Customers
+16809,22,6,916,0,Low Value Customers
+16810,191,2,343,1,Lost Customers
+16811,4,2,547,0,Low Value Customers
+16812,360,1,479,1,Lost Customers
+16813,7,10,1652,0,Low Value Customers
+16814,13,22,6425,0,Low Value Customers
+16816,102,4,417,0,Low Value Customers
+16817,2,13,1762,0,Low Value Customers
+16818,10,13,3381,0,Low Value Customers
+16820,95,1,497,0,Low Value Customers
+16823,226,1,358,1,Lost Customers
+16824,15,2,460,0,Low Value Customers
+16825,38,2,775,0,Low Value Customers
+16826,50,1,341,0,Low Value Customers
+16828,92,2,128,0,Low Value Customers
+16829,156,1,197,1,Lost Customers
+16830,38,1,325,0,Low Value Customers
+16832,183,3,199,1,Lost Customers
+16833,0,4,1106,0,Low Value Customers
+16834,227,1,413,1,Lost Customers
+16835,127,2,180,0,Low Value Customers
+16836,39,2,251,0,Low Value Customers
+16837,30,12,3174,0,Low Value Customers
+16838,196,3,594,1,Lost Customers
+16839,8,39,17830,0,Low Value Customers
+16841,36,7,1965,0,Low Value Customers
+16842,63,4,1267,0,Low Value Customers
+16843,42,17,10209,0,Low Value Customers
+16846,49,1,214,0,Low Value Customers
+16847,42,1,193,0,Low Value Customers
+16848,52,1,281,0,Low Value Customers
+16849,186,1,124,1,Lost Customers
+16850,333,1,332,1,Lost Customers
+16851,3,3,342,0,Low Value Customers
+16852,9,2,144,0,Low Value Customers
+16855,23,2,328,0,Low Value Customers
+16856,14,1,35,0,Low Value Customers
+16858,365,2,405,1,Lost Customers
+16859,105,5,1022,0,Low Value Customers
+16861,59,3,195,0,Low Value Customers
+16863,28,4,524,0,Low Value Customers
+16866,140,3,207,1,Lost Customers
+16869,22,5,836,0,Low Value Customers
+16871,21,7,2863,0,Low Value Customers
+16872,76,3,680,0,Low Value Customers
+16873,4,10,7180,0,Low Value Customers
+16875,63,9,2167,0,Low Value Customers
+16877,11,6,846,0,Low Value Customers
+16878,24,2,26,0,Low Value Customers
+16880,30,7,1491,0,Low Value Customers
+16881,66,1,432,0,Low Value Customers
+16882,66,3,705,0,Low Value Customers
+16883,186,2,272,1,Lost Customers
+16884,37,2,429,0,Low Value Customers
+16885,14,3,450,0,Low Value Customers
+16887,34,1,192,0,Low Value Customers
+16889,194,3,1578,1,Lost Customers
+16891,1,5,742,0,Low Value Customers
+16892,0,7,546,0,Low Value Customers
+16893,366,1,145,1,Lost Customers
+16895,64,1,202,0,Low Value Customers
+16897,298,3,366,1,Lost Customers
+16898,25,4,565,0,Low Value Customers
+16899,7,6,1271,0,Low Value Customers
+16900,11,5,1586,0,Low Value Customers
+16902,115,1,1706,0,Low Value Customers
+16903,28,1,363,0,Low Value Customers
+16904,3,16,3653,0,Low Value Customers
+16905,4,8,3054,0,Low Value Customers
+16906,81,4,559,0,Low Value Customers
+16907,28,5,928,0,Low Value Customers
+16909,63,2,394,0,Low Value Customers
+16910,3,8,1508,0,Low Value Customers
+16912,22,14,2602,0,Low Value Customers
+16913,289,1,113,1,Lost Customers
+16914,35,1,183,0,Low Value Customers
+16915,8,6,621,0,Low Value Customers
+16916,23,2,562,0,Low Value Customers
+16917,276,1,391,1,Lost Customers
+16918,49,7,1094,0,Low Value Customers
+16919,155,11,2592,0,Low Value Customers
+16921,60,1,154,0,Low Value Customers
+16923,11,26,7649,0,Low Value Customers
+16924,20,4,937,0,Low Value Customers
+16926,370,1,230,1,Lost Customers
+16927,115,3,543,0,Low Value Customers
+16928,79,19,2880,0,Low Value Customers
+16929,3,7,1295,0,Low Value Customers
+16930,25,3,378,0,Low Value Customers
+16931,4,21,4554,0,Low Value Customers
+16932,52,1,150,0,Low Value Customers
+16933,0,5,596,0,Low Value Customers
+16934,54,2,931,0,Low Value Customers
+16936,25,1,261,0,Low Value Customers
+16938,8,5,3544,0,Low Value Customers
+16940,51,3,3049,0,Low Value Customers
+16942,12,10,1931,0,Low Value Customers
+16943,211,3,816,1,Lost Customers
+16945,21,19,4345,0,Low Value Customers
+16947,235,1,406,1,Lost Customers
+16948,138,3,435,0,Low Value Customers
+16949,3,7,1411,0,Low Value Customers
+16950,56,3,1178,0,Low Value Customers
+16951,122,4,1292,0,Low Value Customers
+16952,108,2,167,0,Low Value Customers
+16953,29,1,20,0,Low Value Customers
+16954,0,9,2085,0,Low Value Customers
+16955,184,5,543,1,Lost Customers
+16956,8,2,325,0,Low Value Customers
+16957,238,2,416,1,Lost Customers
+16959,86,1,117,0,Low Value Customers
+16960,38,3,507,0,Low Value Customers
+16961,115,1,234,0,Low Value Customers
+16963,186,1,110,1,Lost Customers
+16965,226,1,201,1,Lost Customers
+16966,7,10,2161,0,Low Value Customers
+16967,188,1,319,1,Lost Customers
+16968,3,2,439,0,Low Value Customers
+16969,38,3,650,0,Low Value Customers
+16971,2,2,482,0,Low Value Customers
+16976,266,1,251,1,Lost Customers
+16978,77,1,344,0,Low Value Customers
+16979,3,8,1894,0,Low Value Customers
+16980,254,2,1028,1,Lost Customers
+16982,60,1,384,0,Low Value Customers
+16983,12,8,1916,0,Low Value Customers
+16984,77,5,4548,0,Low Value Customers
+16985,16,11,5466,0,Low Value Customers
+16986,29,2,1873,0,Low Value Customers
+16987,2,7,1616,0,Low Value Customers
+16988,4,1,126,0,Low Value Customers
+16989,6,6,1133,0,Low Value Customers
+16990,218,1,179,1,Lost Customers
+16992,10,6,1626,0,Low Value Customers
+16995,371,1,1,1,Lost Customers
+16996,29,9,1486,0,Low Value Customers
+16997,287,3,702,1,Lost Customers
+16998,149,6,302,1,Lost Customers
+16999,22,2,484,0,Low Value Customers
+17001,0,11,3989,0,Low Value Customers
+17002,72,4,1499,0,Low Value Customers
+17004,45,2,1312,0,Low Value Customers
+17006,4,4,781,0,Low Value Customers
+17007,50,7,902,0,Low Value Customers
+17010,16,2,205,0,Low Value Customers
+17011,29,1,270,0,Low Value Customers
+17014,7,4,604,0,Low Value Customers
+17015,28,3,1838,0,Low Value Customers
+17017,2,27,8814,0,Low Value Customers
+17018,40,2,920,0,Low Value Customers
+17019,10,4,1258,0,Low Value Customers
+17022,30,1,71,0,Low Value Customers
+17024,44,3,95,0,Low Value Customers
+17025,60,3,357,0,Low Value Customers
+17026,184,2,154,1,Lost Customers
+17027,78,7,919,0,Low Value Customers
+17029,110,2,716,0,Low Value Customers
+17030,63,1,146,0,Low Value Customers
+17031,11,2,380,0,Low Value Customers
+17033,85,3,1030,0,Low Value Customers
+17034,15,4,756,0,Low Value Customers
+17035,245,3,478,1,Lost Customers
+17037,77,2,1281,0,Low Value Customers
+17038,29,1,112,0,Low Value Customers
+17040,137,1,449,1,Lost Customers
+17041,26,4,1087,0,Low Value Customers
+17042,2,5,1036,0,Low Value Customers
+17043,31,4,1735,0,Low Value Customers
+17044,8,3,999,0,Low Value Customers
+17045,112,3,339,0,Low Value Customers
+17046,156,1,642,1,Lost Customers
+17047,84,3,1100,0,Low Value Customers
+17048,114,6,986,0,Low Value Customers
+17049,2,11,5720,0,Low Value Customers
+17050,95,6,3185,0,Low Value Customers
+17051,193,1,240,1,Lost Customers
+17052,27,1,399,0,Low Value Customers
+17053,128,2,500,0,Low Value Customers
+17054,27,6,1358,0,Low Value Customers
+17058,81,3,1179,0,Low Value Customers
+17059,29,5,3080,0,Low Value Customers
+17060,265,1,234,1,Lost Customers
+17061,73,12,5348,0,Low Value Customers
+17062,313,5,537,1,Lost Customers
+17063,8,11,1500,0,Low Value Customers
+17064,58,3,855,0,Low Value Customers
+17065,142,1,112,1,Lost Customers
+17068,11,22,4572,0,Low Value Customers
+17069,27,13,2764,0,Low Value Customers
+17070,113,1,304,0,Low Value Customers
+17071,8,14,2472,0,Low Value Customers
+17073,17,4,1446,0,Low Value Customers
+17075,17,5,854,0,Low Value Customers
+17076,35,3,841,0,Low Value Customers
+17078,35,2,378,0,Low Value Customers
+17079,77,1,118,0,Low Value Customers
+17080,21,3,289,0,Low Value Customers
+17081,24,2,288,0,Low Value Customers
+17082,32,2,2003,0,Low Value Customers
+17083,108,3,1405,0,Low Value Customers
+17084,34,2,2747,0,Low Value Customers
+17085,122,6,1574,0,Low Value Customers
+17086,6,6,2050,0,Low Value Customers
+17088,27,4,1991,0,Low Value Customers
+17090,3,8,1976,0,Low Value Customers
+17091,2,10,3852,0,Low Value Customers
+17092,49,4,1774,0,Low Value Customers
+17094,317,2,333,1,Lost Customers
+17095,21,6,1560,0,Low Value Customers
+17096,8,7,1051,0,Low Value Customers
+17097,1,9,970,0,Low Value Customers
+17100,17,2,971,0,Low Value Customers
+17101,9,4,1621,0,Low Value Customers
+17102,261,1,25,1,Lost Customers
+17105,158,2,665,1,Lost Customers
+17107,32,7,11232,0,Low Value Customers
+17109,28,8,896,0,Low Value Customers
+17110,164,1,163,1,Lost Customers
+17111,46,1,231,0,Low Value Customers
+17114,5,10,862,0,Low Value Customers
+17115,7,5,868,0,Low Value Customers
+17117,287,1,116,1,Lost Customers
+17118,317,1,157,1,Lost Customers
+17119,2,3,620,0,Low Value Customers
+17120,232,1,307,1,Lost Customers
+17122,118,1,138,0,Low Value Customers
+17123,161,1,345,1,Lost Customers
+17124,184,1,294,1,Lost Customers
+17125,49,1,230,0,Low Value Customers
+17126,151,7,1002,1,Lost Customers
+17128,334,1,157,1,Lost Customers
+17131,4,5,2463,0,Low Value Customers
+17133,15,7,4892,0,Low Value Customers
+17134,106,2,413,0,Low Value Customers
+17135,15,7,1139,0,Low Value Customers
+17138,275,1,380,1,Lost Customers
+17139,15,15,10733,0,Low Value Customers
+17140,246,1,454,1,Lost Customers
+17142,238,1,579,1,Lost Customers
+17144,0,2,984,0,Low Value Customers
+17146,105,3,749,0,Low Value Customers
+17147,22,6,1749,0,Low Value Customers
+17148,51,1,124,0,Low Value Customers
+17152,194,4,1875,1,Lost Customers
+17153,23,1,213,0,Low Value Customers
+17154,74,1,329,0,Low Value Customers
+17155,17,2,251,0,Low Value Customers
+17157,7,3,331,0,Low Value Customers
+17158,31,3,1266,0,Low Value Customers
+17159,21,4,1543,0,Low Value Customers
+17160,30,6,3518,0,Low Value Customers
+17162,28,11,1723,0,Low Value Customers
+17163,21,2,293,0,Low Value Customers
+17164,32,8,2468,0,Low Value Customers
+17165,283,1,158,1,Lost Customers
+17166,38,3,223,0,Low Value Customers
+17169,49,4,854,0,Low Value Customers
+17171,288,1,224,1,Lost Customers
+17172,74,2,322,0,Low Value Customers
+17173,4,9,3777,0,Low Value Customers
+17174,217,1,59,1,Lost Customers
+17175,43,5,1456,0,Low Value Customers
+17176,201,1,306,1,Lost Customers
+17179,177,3,711,1,Lost Customers
+17180,55,6,799,0,Low Value Customers
+17181,56,2,239,0,Low Value Customers
+17183,7,8,3407,0,Low Value Customers
+17186,46,2,144,0,Low Value Customers
+17187,226,1,203,1,Lost Customers
+17188,10,9,2672,0,Low Value Customers
+17189,105,2,383,0,Low Value Customers
+17190,58,3,639,0,Low Value Customers
+17191,27,7,2093,0,Low Value Customers
+17193,35,9,1724,0,Low Value Customers
+17194,273,2,262,1,Lost Customers
+17197,29,1,1013,0,Low Value Customers
+17198,23,3,692,0,Low Value Customers
+17201,53,1,289,0,Low Value Customers
+17203,35,6,3560,0,Low Value Customers
+17204,168,9,1776,1,Lost Customers
+17205,53,1,384,0,Low Value Customers
+17206,52,1,204,0,Low Value Customers
+17211,26,9,2334,0,Low Value Customers
+17212,252,1,226,1,Lost Customers
+17213,39,11,2821,0,Low Value Customers
+17214,59,7,1144,0,Low Value Customers
+17217,233,1,113,1,Lost Customers
+17218,3,10,1951,0,Low Value Customers
+17219,31,1,114,0,Low Value Customers
+17220,23,14,3187,0,Low Value Customers
+17221,6,2,334,0,Low Value Customers
+17222,64,1,328,0,Low Value Customers
+17223,309,2,416,1,Lost Customers
+17226,308,1,393,1,Lost Customers
+17227,18,6,939,0,Low Value Customers
+17228,15,8,1906,0,Low Value Customers
+17229,95,2,318,0,Low Value Customers
+17230,263,11,3810,1,Lost Customers
+17231,11,14,3171,0,Low Value Customers
+17232,2,2,417,0,Low Value Customers
+17233,34,1,190,0,Low Value Customers
+17234,182,1,149,1,Lost Customers
+17235,24,2,550,0,Low Value Customers
+17236,12,6,916,0,Low Value Customers
+17237,10,2,314,0,Low Value Customers
+17238,2,17,3719,0,Low Value Customers
+17239,312,2,385,1,Lost Customers
+17242,107,2,1135,0,Low Value Customers
+17243,0,30,8588,0,Low Value Customers
+17244,52,1,954,0,Low Value Customers
+17245,204,1,171,1,Lost Customers
+17247,14,1,280,0,Low Value Customers
+17248,119,1,318,0,Low Value Customers
+17250,3,2,381,0,Low Value Customers
+17251,362,1,269,1,Lost Customers
+17252,116,2,348,0,Low Value Customers
+17253,17,1,178,0,Low Value Customers
+17254,4,2,271,0,Low Value Customers
+17255,40,2,291,0,Low Value Customers
+17256,106,2,240,0,Low Value Customers
+17259,147,2,581,1,Lost Customers
+17262,51,5,1253,0,Low Value Customers
+17263,207,1,63,1,Lost Customers
+17265,138,2,550,1,Lost Customers
+17266,1,3,296,0,Low Value Customers
+17267,126,2,317,0,Low Value Customers
+17268,107,4,763,0,Low Value Customers
+17272,41,5,2152,0,Low Value Customers
+17274,34,1,107,0,Low Value Customers
+17277,227,2,1065,1,Lost Customers
+17278,240,1,246,1,Lost Customers
+17279,57,1,187,0,Low Value Customers
+17282,129,3,1685,0,Low Value Customers
+17284,59,7,1658,0,Low Value Customers
+17286,21,1,151,0,Low Value Customers
+17287,25,7,1049,0,Low Value Customers
+17288,8,7,1417,0,Low Value Customers
+17289,31,4,939,0,Low Value Customers
+17290,3,2,513,0,Low Value Customers
+17291,307,1,550,1,Lost Customers
+17293,7,9,1854,0,Low Value Customers
+17295,28,3,547,0,Low Value Customers
+17297,16,1,128,0,Low Value Customers
+17298,100,2,498,0,Low Value Customers
+17299,11,4,656,0,Low Value Customers
+17301,20,1,163,0,Low Value Customers
+17302,14,6,1151,0,Low Value Customers
+17303,360,1,250,1,Lost Customers
+17306,10,21,8661,0,Low Value Customers
+17307,364,1,152,1,Lost Customers
+17309,94,1,82,0,Low Value Customers
+17311,77,2,1384,0,Low Value Customers
+17312,138,3,644,0,Low Value Customers
+17313,17,2,2369,0,Low Value Customers
+17314,24,11,2541,0,Low Value Customers
+17315,0,43,6369,0,Low Value Customers
+17317,45,5,2676,0,Low Value Customers
+17320,99,3,1200,0,Low Value Customers
+17321,7,2,657,0,Low Value Customers
+17323,14,9,918,0,Low Value Customers
+17324,17,4,986,0,Low Value Customers
+17325,279,1,96,1,Lost Customers
+17329,13,2,523,0,Low Value Customers
+17330,22,2,363,0,Low Value Customers
+17331,123,1,175,0,Low Value Customers
+17333,85,1,494,0,Low Value Customers
+17334,300,3,307,1,Lost Customers
+17337,150,7,2064,1,Lost Customers
+17338,16,10,6525,0,Low Value Customers
+17339,93,2,243,0,Low Value Customers
+17340,8,16,12815,0,Low Value Customers
+17341,156,3,682,1,Lost Customers
+17343,354,1,193,1,Lost Customers
+17344,45,1,157,0,Low Value Customers
+17345,14,4,519,0,Low Value Customers
+17346,3,16,2687,0,Low Value Customers
+17347,85,1,228,0,Low Value Customers
+17348,14,5,1156,0,Low Value Customers
+17349,178,1,98,1,Lost Customers
+17350,7,5,1311,0,Low Value Customers
+17351,35,3,587,0,Low Value Customers
+17353,128,2,1740,0,Low Value Customers
+17354,50,1,1393,0,Low Value Customers
+17356,311,1,178,1,Lost Customers
+17357,23,2,384,0,Low Value Customers
+17358,302,2,360,1,Lost Customers
+17359,10,1,127,0,Low Value Customers
+17360,16,3,568,0,Low Value Customers
+17361,48,3,488,0,Low Value Customers
+17362,238,2,312,1,Lost Customers
+17364,0,12,4488,0,Low Value Customers
+17365,12,8,4767,0,Low Value Customers
+17367,237,1,167,1,Lost Customers
+17368,22,9,2442,0,Low Value Customers
+17370,72,4,446,0,Low Value Customers
+17371,16,3,418,0,Low Value Customers
+17372,40,8,1337,0,Low Value Customers
+17373,39,4,646,0,Low Value Customers
+17374,218,2,495,1,Lost Customers
+17375,189,4,427,1,Lost Customers
+17376,70,2,203,0,Low Value Customers
+17377,23,21,4233,0,Low Value Customers
+17379,10,1,389,0,Low Value Customers
+17381,8,30,20278,0,Low Value Customers
+17382,64,1,65,0,Low Value Customers
+17383,3,1,193,0,Low Value Customers
+17384,18,2,336,0,Low Value Customers
+17385,14,1,256,0,Low Value Customers
+17386,7,6,2686,0,Low Value Customers
+17387,19,2,746,0,Low Value Customers
+17388,77,4,1259,0,Low Value Customers
+17389,0,43,32367,0,Low Value Customers
+17391,163,2,508,1,Lost Customers
+17392,306,2,417,1,Lost Customers
+17394,218,1,203,1,Lost Customers
+17396,38,8,7330,0,Low Value Customers
+17397,21,2,681,0,Low Value Customers
+17398,114,3,653,0,Low Value Customers
+17400,125,5,2097,0,Low Value Customers
+17402,4,13,2633,0,Low Value Customers
+17403,35,1,263,0,Low Value Customers
+17404,3,18,33512,0,Low Value Customers
+17405,0,5,1095,0,Low Value Customers
+17406,329,5,2456,1,Lost Customers
+17408,162,1,32,1,Lost Customers
+17409,184,2,771,1,Lost Customers
+17410,15,5,1214,0,Low Value Customers
+17411,11,4,808,0,Low Value Customers
+17412,2,7,1258,0,Low Value Customers
+17414,43,2,778,0,Low Value Customers
+17415,79,1,507,0,Low Value Customers
+17416,29,9,6948,0,Low Value Customers
+17418,41,2,463,0,Low Value Customers
+17419,10,14,4252,0,Low Value Customers
+17420,49,3,598,0,Low Value Customers
+17422,15,10,2105,0,Low Value Customers
+17423,44,4,733,0,Low Value Customers
+17425,18,2,759,0,Low Value Customers
+17426,3,7,5052,0,Low Value Customers
+17427,71,1,100,0,Low Value Customers
+17428,0,33,17435,0,Low Value Customers
+17429,120,4,537,0,Low Value Customers
+17430,32,2,265,0,Low Value Customers
+17431,312,1,403,1,Lost Customers
+17432,17,2,365,0,Low Value Customers
+17433,87,1,303,0,Low Value Customers
+17434,1,9,2414,0,Low Value Customers
+17436,1,2,216,0,Low Value Customers
+17438,246,2,398,1,Lost Customers
+17440,147,5,195,1,Lost Customers
+17442,28,10,2286,0,Low Value Customers
+17443,219,1,534,1,Lost Customers
+17444,147,3,2940,1,Lost Customers
+17446,176,2,120,1,Lost Customers
+17447,39,2,541,0,Low Value Customers
+17448,144,1,4287,1,Lost Customers
+17449,1,8,2535,0,Low Value Customers
+17450,7,55,201459,4,Loyal Customers
+17451,0,10,1793,0,Low Value Customers
+17453,17,2,486,0,Low Value Customers
+17454,191,4,517,1,Lost Customers
+17455,203,1,131,1,Lost Customers
+17456,364,1,249,1,Lost Customers
+17457,126,5,1737,0,Low Value Customers
+17458,14,1,316,0,Low Value Customers
+17459,42,2,657,0,Low Value Customers
+17460,78,8,792,0,Low Value Customers
+17461,22,3,735,0,Low Value Customers
+17462,50,3,688,0,Low Value Customers
+17463,15,6,1890,0,Low Value Customers
+17464,157,1,289,1,Lost Customers
+17466,9,2,763,0,Low Value Customers
+17468,9,2,137,0,Low Value Customers
+17469,15,6,1898,0,Low Value Customers
+17470,44,5,1125,0,Low Value Customers
+17472,190,3,697,1,Lost Customers
+17475,78,1,194,0,Low Value Customers
+17480,73,2,517,0,Low Value Customers
+17481,3,5,1261,0,Low Value Customers
+17483,64,3,414,0,Low Value Customers
+17486,260,1,396,1,Lost Customers
+17489,58,2,376,0,Low Value Customers
+17490,0,11,2257,0,Low Value Customers
+17491,0,11,3575,0,Low Value Customers
+17492,247,1,374,1,Lost Customers
+17495,7,2,497,0,Low Value Customers
+17496,358,1,271,1,Lost Customers
+17498,75,1,272,0,Low Value Customers
+17499,289,1,622,1,Lost Customers
+17500,16,3,1138,0,Low Value Customers
+17501,220,2,288,1,Lost Customers
+17502,8,4,689,0,Low Value Customers
+17503,2,2,558,0,Low Value Customers
+17504,205,10,3248,1,Lost Customers
+17505,161,2,1145,1,Lost Customers
+17506,69,2,310,0,Low Value Customers
+17507,261,2,605,1,Lost Customers
+17508,280,1,387,1,Lost Customers
+17509,57,11,6098,0,Low Value Customers
+17510,24,1,308,0,Low Value Customers
+17511,2,46,93999,2,Big Spenders
+17512,28,11,2929,0,Low Value Customers
+17513,71,1,513,0,Low Value Customers
+17514,127,1,208,0,Low Value Customers
+17515,30,4,639,0,Low Value Customers
+17516,14,5,764,0,Low Value Customers
+17517,308,1,153,1,Lost Customers
+17519,16,7,1848,0,Low Value Customers
+17520,53,1,546,0,Low Value Customers
+17521,23,4,724,0,Low Value Customers
+17522,1,5,1070,0,Low Value Customers
+17523,10,4,652,0,Low Value Customers
+17524,360,1,145,1,Lost Customers
+17525,359,1,422,1,Lost Customers
+17526,0,8,1685,0,Low Value Customers
+17527,53,6,989,0,Low Value Customers
+17528,0,11,3716,0,Low Value Customers
+17530,0,10,2367,0,Low Value Customers
+17531,120,2,299,0,Low Value Customers
+17534,53,1,223,0,Low Value Customers
+17535,279,1,164,1,Lost Customers
+17536,176,1,76,1,Lost Customers
+17537,29,2,887,0,Low Value Customers
+17538,25,1,98,0,Low Value Customers
+17540,8,3,587,0,Low Value Customers
+17542,269,1,170,1,Lost Customers
+17545,42,3,642,0,Low Value Customers
+17547,371,1,11,1,Lost Customers
+17548,217,3,348,1,Lost Customers
+17549,23,2,148,0,Low Value Customers
+17550,196,3,267,1,Lost Customers
+17551,358,1,290,1,Lost Customers
+17552,42,6,950,0,Low Value Customers
+17553,129,1,1487,0,Low Value Customers
+17554,0,5,1952,0,Low Value Customers
+17555,19,2,480,0,Low Value Customers
+17556,205,1,157,1,Lost Customers
+17557,13,3,541,0,Low Value Customers
+17560,94,5,854,0,Low Value Customers
+17561,18,1,165,0,Low Value Customers
+17562,13,8,1137,0,Low Value Customers
+17564,23,3,454,0,Low Value Customers
+17566,7,2,869,0,Low Value Customers
+17567,6,10,4650,0,Low Value Customers
+17569,331,1,344,1,Lost Customers
+17571,49,4,1425,0,Low Value Customers
+17572,70,4,226,0,Low Value Customers
+17573,28,4,398,0,Low Value Customers
+17574,242,1,185,1,Lost Customers
+17576,7,22,3729,0,Low Value Customers
+17578,190,2,162,1,Lost Customers
+17579,4,4,457,0,Low Value Customers
+17580,252,3,215,1,Lost Customers
+17581,0,31,11334,0,Low Value Customers
+17582,235,1,175,1,Lost Customers
+17584,6,3,1257,0,Low Value Customers
+17585,108,4,1116,0,Low Value Customers
+17588,99,3,1240,0,Low Value Customers
+17589,59,4,2404,0,Low Value Customers
+17590,1,3,1468,0,Low Value Customers
+17591,72,8,2214,0,Low Value Customers
+17593,3,6,3939,0,Low Value Customers
+17594,84,2,993,0,Low Value Customers
+17595,11,2,386,0,Low Value Customers
+17596,22,7,2806,0,Low Value Customers
+17597,213,1,2044,1,Lost Customers
+17600,17,1,161,0,Low Value Customers
+17601,238,1,116,1,Lost Customers
+17602,1,8,5106,0,Low Value Customers
+17603,49,5,1954,0,Low Value Customers
+17604,216,2,309,1,Lost Customers
+17608,32,2,191,0,Low Value Customers
+17609,40,6,1114,0,Low Value Customers
+17611,3,19,3997,0,Low Value Customers
+17612,52,10,2104,0,Low Value Customers
+17613,22,17,4594,0,Low Value Customers
+17614,56,1,386,0,Low Value Customers
+17615,129,3,329,0,Low Value Customers
+17616,173,3,571,1,Lost Customers
+17618,5,3,930,0,Low Value Customers
+17619,311,1,214,1,Lost Customers
+17620,59,1,81,0,Low Value Customers
+17621,20,4,1423,0,Low Value Customers
+17623,32,1,527,0,Low Value Customers
+17624,14,2,843,0,Low Value Customers
+17625,17,4,2020,0,Low Value Customers
+17628,80,1,75,0,Low Value Customers
+17629,5,9,1844,0,Low Value Customers
+17630,169,2,503,1,Lost Customers
+17631,1,3,528,0,Low Value Customers
+17633,30,6,1407,0,Low Value Customers
+17634,35,9,2358,0,Low Value Customers
+17636,8,2,305,0,Low Value Customers
+17637,30,2,547,0,Low Value Customers
+17639,275,1,108,1,Lost Customers
+17640,86,1,621,0,Low Value Customers
+17642,119,2,712,0,Low Value Customers
+17643,372,1,101,1,Lost Customers
+17644,0,17,3022,0,Low Value Customers
+17646,218,4,1021,1,Lost Customers
+17647,64,1,133,0,Low Value Customers
+17648,60,5,1805,0,Low Value Customers
+17649,134,2,875,0,Low Value Customers
+17650,20,1,166,0,Low Value Customers
+17651,11,14,4003,0,Low Value Customers
+17652,24,18,4998,0,Low Value Customers
+17653,28,5,1239,0,Low Value Customers
+17654,276,1,117,1,Lost Customers
+17655,10,8,2706,0,Low Value Customers
+17656,72,5,1674,0,Low Value Customers
+17658,10,3,704,0,Low Value Customers
+17659,3,14,3044,0,Low Value Customers
+17660,140,1,178,1,Lost Customers
+17663,25,9,1817,0,Low Value Customers
+17664,18,2,604,0,Low Value Customers
+17666,3,2,728,0,Low Value Customers
+17667,65,5,2055,0,Low Value Customers
+17668,0,2,347,0,Low Value Customers
+17669,42,7,3406,0,Low Value Customers
+17670,227,1,205,1,Lost Customers
+17671,15,6,1861,0,Low Value Customers
+17672,43,4,3249,0,Low Value Customers
+17673,0,7,1601,0,Low Value Customers
+17674,73,2,551,0,Low Value Customers
+17675,0,41,20650,0,Low Value Customers
+17676,3,7,1375,0,Low Value Customers
+17677,1,43,16489,0,Low Value Customers
+17678,263,1,298,1,Lost Customers
+17679,52,2,1992,0,Low Value Customers
+17680,23,1,184,0,Low Value Customers
+17682,9,7,2489,0,Low Value Customers
+17684,43,1,239,0,Low Value Customers
+17685,16,7,3155,0,Low Value Customers
+17686,6,7,5739,0,Low Value Customers
+17690,29,16,4736,0,Low Value Customers
+17691,357,2,290,1,Lost Customers
+17692,126,5,748,0,Low Value Customers
+17693,135,3,213,0,Low Value Customers
+17694,141,1,283,1,Lost Customers
+17695,131,2,765,0,Low Value Customers
+17696,37,14,2370,0,Low Value Customers
+17697,235,1,338,1,Lost Customers
+17698,260,1,154,1,Lost Customers
+17700,16,6,2560,0,Low Value Customers
+17701,252,1,417,1,Lost Customers
+17702,29,6,1929,0,Low Value Customers
+17703,34,3,798,0,Low Value Customers
+17704,168,2,885,1,Lost Customers
+17705,2,10,1865,0,Low Value Customers
+17706,3,22,10911,0,Low Value Customers
+17707,184,2,152,1,Lost Customers
+17708,187,2,263,1,Lost Customers
+17709,169,1,137,1,Lost Customers
+17711,10,2,385,0,Low Value Customers
+17712,44,1,522,0,Low Value Customers
+17714,320,1,153,1,Lost Customers
+17715,200,1,326,1,Lost Customers
+17716,22,12,5806,0,Low Value Customers
+17718,231,1,139,1,Lost Customers
+17719,37,18,5424,0,Low Value Customers
+17720,25,4,1195,0,Low Value Customers
+17722,95,6,2467,0,Low Value Customers
+17723,126,6,3276,0,Low Value Customers
+17724,57,4,1070,0,Low Value Customers
+17725,15,14,3507,0,Low Value Customers
+17727,8,2,1077,0,Low Value Customers
+17728,3,5,3236,0,Low Value Customers
+17730,2,15,5308,0,Low Value Customers
+17731,78,5,1602,0,Low Value Customers
+17732,372,1,303,1,Lost Customers
+17733,38,2,692,0,Low Value Customers
+17734,53,3,700,0,Low Value Customers
+17735,1,19,13110,0,Low Value Customers
+17736,8,4,417,0,Low Value Customers
+17737,8,2,168,0,Low Value Customers
+17738,18,5,1894,0,Low Value Customers
+17739,11,8,2796,0,Low Value Customers
+17742,112,2,355,0,Low Value Customers
+17744,3,7,2353,0,Low Value Customers
+17746,234,2,121,1,Lost Customers
+17747,99,2,78,0,Low Value Customers
+17749,177,2,674,1,Lost Customers
+17750,4,9,1710,0,Low Value Customers
+17752,358,1,80,1,Lost Customers
+17754,0,6,1696,0,Low Value Customers
+17757,0,31,5613,0,Low Value Customers
+17758,18,8,3408,0,Low Value Customers
+17759,16,3,819,0,Low Value Customers
+17760,21,2,287,0,Low Value Customers
+17761,32,1,712,0,Low Value Customers
+17763,262,1,15,1,Lost Customers
+17764,50,2,772,0,Low Value Customers
+17765,158,3,367,1,Lost Customers
+17767,14,1,271,0,Low Value Customers
+17768,7,3,2081,0,Low Value Customers
+17769,12,12,3994,0,Low Value Customers
+17770,198,5,1143,1,Lost Customers
+17771,56,2,245,0,Low Value Customers
+17772,10,2,173,0,Low Value Customers
+17774,96,5,1223,0,Low Value Customers
+17775,254,1,56,1,Lost Customers
+17777,24,3,647,0,Low Value Customers
+17779,20,5,666,0,Low Value Customers
+17781,158,2,188,1,Lost Customers
+17783,71,2,283,0,Low Value Customers
+17785,52,1,131,0,Low Value Customers
+17786,84,2,266,0,Low Value Customers
+17787,152,4,1817,1,Lost Customers
+17788,73,2,1117,0,Low Value Customers
+17789,280,1,225,1,Lost Customers
+17790,26,14,1964,0,Low Value Customers
+17791,29,1,106,0,Low Value Customers
+17793,24,1,300,0,Low Value Customers
+17795,179,2,342,1,Lost Customers
+17796,39,4,690,0,Low Value Customers
+17797,21,3,780,0,Low Value Customers
+17799,21,11,3069,0,Low Value Customers
+17800,36,9,1187,0,Low Value Customers
+17802,81,4,1318,0,Low Value Customers
+17805,73,1,512,0,Low Value Customers
+17806,10,1,546,0,Low Value Customers
+17809,15,15,6196,0,Low Value Customers
+17811,3,51,7921,0,Low Value Customers
+17812,12,4,699,0,Low Value Customers
+17813,13,7,1754,0,Low Value Customers
+17816,36,4,36,0,Low Value Customers
+17817,3,3,387,0,Low Value Customers
+17819,71,8,3748,0,Low Value Customers
+17820,190,2,24,1,Lost Customers
+17824,50,1,298,0,Low Value Customers
+17827,4,5,1987,0,Low Value Customers
+17828,8,9,2040,0,Low Value Customers
+17829,298,1,889,1,Lost Customers
+17830,1,3,398,0,Low Value Customers
+17831,32,1,35,0,Low Value Customers
+17832,49,1,155,0,Low Value Customers
+17835,2,3,342,0,Low Value Customers
+17836,46,1,110,0,Low Value Customers
+17837,41,10,1574,0,Low Value Customers
+17838,26,6,3174,0,Low Value Customers
+17839,41,1,318,0,Low Value Customers
+17841,1,169,41170,2,Big Spenders
+17843,302,1,205,1,Lost Customers
+17844,106,1,51,0,Low Value Customers
+17846,84,1,2033,0,Low Value Customers
+17848,80,9,901,0,Low Value Customers
+17849,217,4,605,1,Lost Customers
+17850,301,35,5478,1,Lost Customers
+17852,11,2,114,0,Low Value Customers
+17854,184,2,311,1,Lost Customers
+17855,372,1,208,1,Lost Customers
+17856,1,6,1442,0,Low Value Customers
+17857,2,25,26994,0,Low Value Customers
+17858,5,12,5140,0,Low Value Customers
+17859,304,1,141,1,Lost Customers
+17860,368,1,226,1,Lost Customers
+17861,2,9,2139,0,Low Value Customers
+17862,323,1,330,1,Lost Customers
+17863,58,6,3160,0,Low Value Customers
+17864,12,3,554,0,Low Value Customers
+17865,30,27,10894,0,Low Value Customers
+17866,142,2,333,1,Lost Customers
+17867,29,8,1732,0,Low Value Customers
+17869,106,5,428,0,Low Value Customers
+17870,1,13,1870,0,Low Value Customers
+17871,204,1,155,1,Lost Customers
+17873,79,6,1943,0,Low Value Customers
+17874,184,7,708,1,Lost Customers
+17877,169,1,237,1,Lost Customers
+17878,43,1,379,0,Low Value Customers
+17879,173,1,178,1,Lost Customers
+17880,364,1,458,1,Lost Customers
+17881,303,1,133,1,Lost Customers
+17883,2,4,664,0,Low Value Customers
+17884,3,4,695,0,Low Value Customers
+17885,11,1,156,0,Low Value Customers
+17886,31,3,869,0,Low Value Customers
+17887,128,1,111,0,Low Value Customers
+17888,18,10,916,0,Low Value Customers
+17889,211,2,201,1,Lost Customers
+17890,322,2,586,1,Lost Customers
+17891,161,1,203,1,Lost Customers
+17892,55,3,244,0,Low Value Customers
+17893,224,1,107,1,Lost Customers
+17894,71,8,1118,0,Low Value Customers
+17895,43,1,95,0,Low Value Customers
+17896,22,1,256,0,Low Value Customers
+17897,172,4,567,1,Lost Customers
+17898,84,2,152,0,Low Value Customers
+17899,158,1,154,1,Lost Customers
+17900,164,4,209,1,Lost Customers
+17901,28,1,110,0,Low Value Customers
+17904,20,2,193,0,Low Value Customers
+17905,70,4,798,0,Low Value Customers
+17906,246,1,72,1,Lost Customers
+17908,373,1,232,1,Lost Customers
+17911,8,1,366,0,Low Value Customers
+17912,309,6,325,1,Lost Customers
+17913,58,2,408,0,Low Value Customers
+17914,3,1,329,0,Low Value Customers
+17917,44,3,335,0,Low Value Customers
+17919,87,1,1304,0,Low Value Customers
+17920,3,17,4119,0,Low Value Customers
+17921,63,4,820,0,Low Value Customers
+17923,281,1,207,1,Lost Customers
+17924,0,13,3030,0,Low Value Customers
+17925,372,1,244,1,Lost Customers
+17926,132,2,397,0,Low Value Customers
+17928,44,2,212,0,Low Value Customers
+17929,10,5,851,0,Low Value Customers
+17930,35,5,1740,0,Low Value Customers
+17931,133,2,408,0,Low Value Customers
+17932,28,3,1331,0,Low Value Customers
+17934,51,2,704,0,Low Value Customers
+17935,137,2,145,0,Low Value Customers
+17936,4,1,380,0,Low Value Customers
+17937,8,7,4301,0,Low Value Customers
+17939,159,1,99,1,Lost Customers
+17940,48,14,6142,0,Low Value Customers
+17941,130,1,304,0,Low Value Customers
+17942,7,1,77,0,Low Value Customers
+17946,232,2,149,1,Lost Customers
+17947,36,1,176,0,Low Value Customers
+17948,146,1,358,1,Lost Customers
+17949,0,52,64270,2,Big Spenders
+17950,71,4,492,0,Low Value Customers
+17951,39,4,1026,0,Low Value Customers
+17954,4,16,2351,0,Low Value Customers
+17955,198,4,557,1,Lost Customers
+17956,248,1,12,1,Lost Customers
+17957,65,1,111,0,Low Value Customers
+17958,116,1,508,0,Low Value Customers
+17960,170,1,73,1,Lost Customers
+17961,20,39,1296,0,Low Value Customers
+17962,141,1,102,1,Lost Customers
+17964,31,2,463,0,Low Value Customers
+17965,37,14,2599,0,Low Value Customers
+17966,37,5,1098,0,Low Value Customers
+17967,371,1,112,1,Lost Customers
+17968,373,1,265,1,Lost Customers
+17969,165,2,228,1,Lost Customers
+17970,210,1,562,1,Lost Customers
+17972,241,1,135,1,Lost Customers
+17973,51,1,337,0,Low Value Customers
+17974,24,3,703,0,Low Value Customers
+17975,14,14,4578,0,Low Value Customers
+17976,371,1,321,1,Lost Customers
+17977,28,1,288,0,Low Value Customers
+17978,364,1,300,1,Lost Customers
+17979,35,5,752,0,Low Value Customers
+17980,165,3,811,1,Lost Customers
+17984,144,1,152,1,Lost Customers
+17985,21,1,631,0,Low Value Customers
+17986,55,1,20,0,Low Value Customers
+17987,184,1,198,1,Lost Customers
+17988,11,8,211,0,Low Value Customers
+17990,236,3,630,1,Lost Customers
+17991,224,2,93,1,Lost Customers
+17994,121,6,723,0,Low Value Customers
+17995,281,1,76,1,Lost Customers
+17997,73,12,2421,0,Low Value Customers
+17999,36,2,380,0,Low Value Customers
+18001,11,2,415,0,Low Value Customers
+18004,361,1,157,1,Lost Customers
+18005,3,2,226,0,Low Value Customers
+18006,22,1,444,0,Low Value Customers
+18008,69,9,2116,0,Low Value Customers
+18009,234,2,252,1,Lost Customers
+18010,256,1,174,1,Lost Customers
+18011,372,1,102,1,Lost Customers
+18013,154,2,187,1,Lost Customers
+18014,27,1,162,0,Low Value Customers
+18015,3,1,120,0,Low Value Customers
+18016,31,5,1477,0,Low Value Customers
+18017,80,3,523,0,Low Value Customers
+18018,107,2,122,0,Low Value Customers
+18019,51,1,38,0,Low Value Customers
+18022,35,1,612,0,Low Value Customers
+18024,152,3,542,1,Lost Customers
+18027,98,1,115,0,Low Value Customers
+18030,3,3,240,0,Low Value Customers
+18032,333,1,73,1,Lost Customers
+18033,64,1,93,0,Low Value Customers
+18034,21,2,418,0,Low Value Customers
+18035,35,3,713,0,Low Value Customers
+18036,31,3,403,0,Low Value Customers
+18037,153,6,70,1,Lost Customers
+18040,18,2,357,0,Low Value Customers
+18041,11,22,4119,0,Low Value Customers
+18042,53,1,165,0,Low Value Customers
+18043,24,3,529,0,Low Value Customers
+18044,3,11,2091,0,Low Value Customers
+18045,44,1,178,0,Low Value Customers
+18048,202,2,172,1,Lost Customers
+18050,358,1,74,1,Lost Customers
+18053,65,2,302,0,Low Value Customers
+18055,6,11,6793,0,Low Value Customers
+18056,287,1,363,1,Lost Customers
+18058,9,1,170,0,Low Value Customers
+18059,8,4,316,0,Low Value Customers
+18061,21,10,2119,0,Low Value Customers
+18062,172,3,720,1,Lost Customers
+18064,132,2,814,0,Low Value Customers
+18065,5,15,2405,0,Low Value Customers
+18066,74,1,318,0,Low Value Customers
+18067,39,1,396,0,Low Value Customers
+18068,288,1,101,1,Lost Customers
+18069,25,7,2024,0,Low Value Customers
+18071,257,2,453,1,Lost Customers
+18072,154,2,494,1,Lost Customers
+18073,113,13,3872,0,Low Value Customers
+18074,373,1,489,1,Lost Customers
+18075,22,14,2684,0,Low Value Customers
+18077,7,11,2584,0,Low Value Customers
+18078,216,2,336,1,Lost Customers
+18079,44,4,3613,0,Low Value Customers
+18080,18,2,1231,0,Low Value Customers
+18081,35,3,343,0,Low Value Customers
+18082,25,1,680,0,Low Value Customers
+18084,15,2,93,0,Low Value Customers
+18085,329,2,689,1,Lost Customers
+18086,273,1,101,1,Lost Customers
+18087,97,4,4341,0,Low Value Customers
+18088,60,1,166,0,Low Value Customers
+18092,1,12,9070,0,Low Value Customers
+18093,92,5,2129,0,Low Value Customers
+18094,81,7,3017,0,Low Value Customers
+18095,312,2,580,1,Lost Customers
+18096,11,3,849,0,Low Value Customers
+18097,7,7,2667,0,Low Value Customers
+18099,126,1,168,0,Low Value Customers
+18101,10,2,222,0,Low Value Customers
+18102,0,62,262876,4,Loyal Customers
+18104,36,1,754,0,Low Value Customers
+18105,37,1,113,0,Low Value Customers
+18106,329,1,421,1,Lost Customers
+18108,248,2,277,1,Lost Customers
+18109,1,31,8132,0,Low Value Customers
+18110,18,2,229,0,Low Value Customers
+18112,11,2,352,0,Low Value Customers
+18113,368,1,76,1,Lost Customers
+18114,289,1,220,1,Lost Customers
+18116,67,8,1403,0,Low Value Customers
+18117,25,1,315,0,Low Value Customers
+18118,10,31,5683,0,Low Value Customers
+18119,367,1,180,1,Lost Customers
+18120,213,1,111,1,Lost Customers
+18121,148,2,653,1,Lost Customers
+18122,7,6,1793,0,Low Value Customers
+18123,23,2,574,0,Low Value Customers
+18125,29,5,1133,0,Low Value Customers
+18126,60,1,200,0,Low Value Customers
+18127,18,3,347,0,Low Value Customers
+18129,242,1,112,1,Lost Customers
+18130,8,4,1073,0,Low Value Customers
+18133,210,2,1147,1,Lost Customers
+18135,28,5,681,0,Low Value Customers
+18136,62,4,806,0,Low Value Customers
+18138,294,1,152,1,Lost Customers
+18139,16,8,8483,0,Low Value Customers
+18141,360,1,35,1,Lost Customers
+18142,150,4,1024,1,Lost Customers
+18143,116,2,1000,0,Low Value Customers
+18144,7,12,2888,0,Low Value Customers
+18145,12,4,2861,0,Low Value Customers
+18146,140,2,160,1,Lost Customers
+18147,45,2,179,0,Low Value Customers
+18149,50,3,612,0,Low Value Customers
+18150,31,3,566,0,Low Value Customers
+18151,134,2,653,0,Low Value Customers
+18154,2,2,399,0,Low Value Customers
+18155,74,4,395,0,Low Value Customers
+18156,12,2,675,0,Low Value Customers
+18158,8,3,455,0,Low Value Customers
+18159,300,1,530,1,Lost Customers
+18160,56,2,638,0,Low Value Customers
+18161,9,6,1624,0,Low Value Customers
+18164,30,2,404,0,Low Value Customers
+18165,176,1,302,1,Lost Customers
+18167,3,6,1414,0,Low Value Customers
+18168,175,9,1196,1,Lost Customers
+18169,60,1,202,0,Low Value Customers
+18170,32,3,980,0,Low Value Customers
+18171,58,7,1254,0,Low Value Customers
+18172,14,25,7633,0,Low Value Customers
+18173,86,4,2106,0,Low Value Customers
+18174,6,1,104,0,Low Value Customers
+18176,353,2,504,1,Lost Customers
+18177,30,7,1368,0,Low Value Customers
+18178,113,6,1608,0,Low Value Customers
+18179,8,6,1793,0,Low Value Customers
+18180,4,6,1843,0,Low Value Customers
+18181,23,1,366,0,Low Value Customers
+18183,217,6,663,1,Lost Customers
+18184,14,1,49,0,Low Value Customers
+18185,248,1,304,1,Lost Customers
+18188,14,4,2003,0,Low Value Customers
+18189,77,3,1096,0,Low Value Customers
+18190,191,3,294,1,Lost Customers
+18191,261,1,207,1,Lost Customers
+18192,71,1,957,0,Low Value Customers
+18193,150,3,274,1,Lost Customers
+18194,63,2,1051,0,Low Value Customers
+18196,94,2,686,0,Low Value Customers
+18198,3,21,5768,0,Low Value Customers
+18200,105,1,150,0,Low Value Customers
+18202,199,3,1396,1,Lost Customers
+18203,156,1,160,1,Lost Customers
+18204,70,4,1989,0,Low Value Customers
+18205,35,2,517,0,Low Value Customers
+18209,28,1,139,0,Low Value Customers
+18210,1,6,2621,0,Low Value Customers
+18211,25,5,600,0,Low Value Customers
+18212,325,1,216,1,Lost Customers
+18213,236,1,232,1,Lost Customers
+18215,88,1,299,0,Low Value Customers
+18216,30,1,481,0,Low Value Customers
+18217,28,2,621,0,Low Value Customers
+18218,205,4,677,1,Lost Customers
+18219,2,11,2119,0,Low Value Customers
+18220,219,2,312,1,Lost Customers
+18221,21,6,1049,0,Low Value Customers
+18222,92,1,443,0,Low Value Customers
+18223,1,27,6653,0,Low Value Customers
+18224,263,1,158,1,Lost Customers
+18225,2,17,5653,0,Low Value Customers
+18226,38,14,5264,0,Low Value Customers
+18227,217,1,93,1,Lost Customers
+18228,49,3,790,0,Low Value Customers
+18229,11,20,7276,0,Low Value Customers
+18230,8,10,2903,0,Low Value Customers
+18231,191,6,2088,1,Lost Customers
+18232,81,5,603,0,Low Value Customers
+18233,325,1,440,1,Lost Customers
+18235,71,3,1796,0,Low Value Customers
+18236,29,6,882,0,Low Value Customers
+18237,2,5,987,0,Low Value Customers
+18239,218,5,1561,1,Lost Customers
+18240,45,1,422,0,Low Value Customers
+18241,9,18,2088,0,Low Value Customers
+18242,71,4,2232,0,Low Value Customers
+18245,6,8,2626,0,Low Value Customers
+18246,23,2,596,0,Low Value Customers
+18248,113,4,825,0,Low Value Customers
+18249,16,1,95,0,Low Value Customers
+18250,300,2,355,1,Lost Customers
+18251,86,1,4314,0,Low Value Customers
+18252,50,2,518,0,Low Value Customers
+18255,88,1,103,0,Low Value Customers
+18256,354,1,50,1,Lost Customers
+18257,38,12,2409,0,Low Value Customers
+18259,24,3,2338,0,Low Value Customers
+18260,172,8,2676,1,Lost Customers
+18261,42,2,324,0,Low Value Customers
+18262,139,1,149,1,Lost Customers
+18263,22,4,1215,0,Low Value Customers
+18265,71,2,801,0,Low Value Customers
+18268,133,2,51,0,Low Value Customers
+18269,357,2,198,1,Lost Customers
+18270,37,3,327,0,Low Value Customers
+18272,2,7,3092,0,Low Value Customers
+18273,1,3,204,0,Low Value Customers
+18274,17,2,351,0,Low Value Customers
+18276,20,3,348,0,Low Value Customers
+18277,57,2,123,0,Low Value Customers
+18278,73,1,173,0,Low Value Customers
+18280,277,1,180,1,Lost Customers
+18281,180,1,80,1,Lost Customers
+18282,7,3,179,0,Low Value Customers
+18283,3,16,2045,0,Low Value Customers
+18287,42,3,1837,0,Low Value Customers
