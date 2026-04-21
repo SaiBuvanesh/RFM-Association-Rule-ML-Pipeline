@@ -28,7 +28,7 @@ def main():
     print("Saving RFM artifacts...")
     save_model(kmeans, "kmeans_model.pkl")
     save_model(scaler, "scaler.pkl")
-27:     joblib.dump(segment_map, os.path.join("artifacts", "segment_map.pkl"))
+    joblib.dump(segment_map, os.path.join(base_dir, "artifacts", "segment_map.pkl"))
     
     rfm_segments_path = os.path.join(base_dir, "artifacts", "rfm_segments.csv")
     rfm_labeled.to_csv(rfm_segments_path, index=False)
