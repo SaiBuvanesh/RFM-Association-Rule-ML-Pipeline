@@ -28,6 +28,7 @@ def main():
     print("Saving RFM artifacts...")
     save_model(kmeans, "kmeans_model.pkl")
     save_model(scaler, "scaler.pkl")
+27:     joblib.dump(segment_map, os.path.join("artifacts", "segment_map.pkl"))
     
     rfm_segments_path = os.path.join(base_dir, "artifacts", "rfm_segments.csv")
     rfm_labeled.to_csv(rfm_segments_path, index=False)
@@ -43,6 +44,11 @@ def main():
     
     print(f"Rules generated: {len(rules)}")
     save_rules(rules, "association_rules.pkl")
+    
+    print("Saving product price mapping...")
+    product_prices = df.groupby('description')['unitprice'].mean().to_dict()
+    joblib.dump(product_prices, os.path.join("artifacts", "product_prices.pkl"))
+    
     print("Optimization complete.")
 
 if __name__ == "__main__":

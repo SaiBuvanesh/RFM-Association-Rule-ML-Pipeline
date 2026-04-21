@@ -102,9 +102,9 @@ if rules is not None:
         Select products in the sidebar to receive AI-generated recommendations based on historical transaction patterns.
         
         #### Popular Collections
-        - **Decor**: WHITE HANGING HEART T-LIGHT HOLDER
-        - **Kitchen**: REGENCY CAKESTAND 3 TIER
-        - **Storage**: JUMBO BAG RED RETROSPOT
+        - Decor: WHITE HANGING HEART T-LIGHT HOLDER
+        - Kitchen: REGENCY CAKESTAND 3 TIER
+        - Storage: JUMBO BAG RED RETROSPOT
         """)
 
     with st.expander("Technical Details (Association Rules)"):

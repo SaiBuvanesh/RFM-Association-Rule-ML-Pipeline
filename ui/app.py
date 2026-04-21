@@ -1,11 +1,10 @@
-
 import streamlit as st
 import os
 
 # Set page config
 st.set_page_config(
     page_title="Customer Segmentation & Basket Intelligence",
-    page_icon="💼",
+    page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded"
 )
