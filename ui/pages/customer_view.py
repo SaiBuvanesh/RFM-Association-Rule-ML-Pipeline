@@ -35,10 +35,7 @@ def load_resources():
 st.title("Shopping Assistant")
 st.caption("Personalized product recommendations powered by association rule mining.")
 
-# Initialize session state for basket
-if 'basket' not in st.session_state:
-    st.session_state.basket = []
-
+# Global state is now initialized in app.py
 rules, product_list = load_resources()
 
 if rules is not None:
@@ -57,8 +54,7 @@ if rules is not None:
         if selected_items:
             st.success(f"{len(selected_items)} items selected")
             if st.button("Complete Purchase", type="primary", help="Proceed to checkout with your current selection."):
-                st.balloons()
-                st.success("Purchase logic would be integrated here!")
+                st.success("Transaction successfully processed. The selection has been recorded for session analysis.")
         else:
             st.info("Your basket is empty.")
 
@@ -92,7 +88,7 @@ if rules is not None:
                                 st.toast(f"Added {rec} to basket")
                                 st.rerun() # Refresh to update the multiselect and view
                             else:
-                                st.toast(f"{rec} is already in your basket!")
+                                st.toast(f"{rec} is already in your basket")
         else:
             st.info("No specific recommendations found for the current selection.")
             

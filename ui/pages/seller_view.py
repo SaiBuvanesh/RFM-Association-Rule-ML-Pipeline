@@ -40,6 +40,18 @@ st.caption("Strategic analysis of customer segments and purchasing behaviors.")
 rfm_df, scaler, kmeans, prices, seg_map = load_data_and_models()
 
 if rfm_df is not None:
+    # --- Sidebar Session Indicator ---
+    with st.sidebar:
+        st.header("Session Status")
+        active_basket = st.session_state.get('basket', [])
+        if active_basket:
+            st.success(f"Active Basket detected: {len(active_basket)} items")
+            if st.button("Clear Session Basket"):
+                st.session_state.basket = []
+                st.rerun()
+        else:
+            st.info("No active session basket detected.")
+
     # Use tabs for a cleaner interface
     tab_overview, tab_session, tab_lookup = st.tabs(["Market Overview", "Active Session Analytics", "Customer Deep Dive"])
 
@@ -58,9 +70,13 @@ if rfm_df is not None:
         col1, col2 = st.columns([1.5, 1])
         
         with col1:
-            st.markdown("#### Customer Segmentation (RFM)", help="Relationship between Recency and Monetary values. Use the legend to filter cohorts.")
+            st.markdown("#### Customer Segmentation (RFM)", help="Relationship between Recency and Monetary values. (Sampled for performance)")
+            # Optimizing Visualization for large datasets (sampling)
+            sample_size = min(15000, len(rfm_df))
+            plot_df = rfm_df.sample(sample_size, random_state=42) if len(rfm_df) > 15000 else rfm_df
+            
             fig = px.scatter(
-                rfm_df, x='recency', y='monetary', color='segment',
+                plot_df, x='recency', y='monetary', color='segment',
                 size='monetary', hover_name='customerid',
                 log_y=True, template="plotly_white",
                 color_discrete_sequence=px.colors.qualitative.Prism,
@@ -92,9 +108,6 @@ if rfm_df is not None:
     with tab_session:
         st.markdown("#### Real-Time Behavior Simulation")
         st.markdown("This module analyzes the active shopping session to predict which customer cohort the current user behavior aligns with.")
-        
-        # Get active basket from session state
-        active_basket = st.session_state.get('basket', [])
         
         if not active_basket:
             st.info("No items currently in the active session basket. Visit the Shopping Assistant to build a session for analysis.")

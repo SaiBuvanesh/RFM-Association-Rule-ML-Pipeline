@@ -78,4 +78,6 @@ def main():
     blocks[3].metric("Interface", "Streamlit", "Interactive")
 
 if __name__ == "__main__":
+    if 'basket' not in st.session_state:
+        st.session_state.basket = []
     main()
