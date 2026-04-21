@@ -9,7 +9,10 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 def load_data():
-    rfm_path = r"d:/data/artifacts/rfm_segments.csv"
+    # Define base path relative to the current file
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+    
+    rfm_path = os.path.join(base_dir, "artifacts", "rfm_segments.csv")
     if not os.path.exists(rfm_path):
         return None
     df = pd.read_csv(rfm_path)

@@ -14,14 +14,17 @@ importlib.reload(core.recommendation)
 from core.recommendation import recommend_for_basket
 
 def load_resources():
-    rules_path = r"d:/data/artifacts/association_rules.pkl"
+    # Define base path relative to the current file
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+    
+    rules_path = os.path.join(base_dir, "artifacts", "association_rules.pkl")
     if not os.path.exists(rules_path):
-        st.error("Resource files not found. Please ensure training is complete.")
+        st.error(f"Resource files not found at {rules_path}. Please ensure training is complete.")
         return None, None
     
     rules = joblib.load(rules_path)
     
-    products_path = r"d:/data/artifacts/unique_products.pkl"
+    products_path = os.path.join(base_dir, "artifacts", "unique_products.pkl")
     if os.path.exists(products_path):
         items = joblib.load(products_path)
     else:

@@ -12,8 +12,12 @@ import os
 import joblib
 
 def main():
-    print("Loading data...")
-    df = load_and_clean_data(r"d:/data/data/data.csv")
+    # Define relative paths from script location
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+    data_path = os.path.join(base_dir, "data", "data.csv")
+    
+    print(f"Loading data from {data_path}...")
+    df = load_and_clean_data(data_path)
     print(f"Data loaded. Shape: {df.shape}")
     
     print("Running RFM analysis...")
@@ -25,12 +29,14 @@ def main():
     save_model(kmeans, "kmeans_model.pkl")
     save_model(scaler, "scaler.pkl")
     
-    rfm_labeled.to_csv("d:/data/artifacts/rfm_segments.csv", index=False)
-    print("RFM segments saved.")
+    rfm_segments_path = os.path.join(base_dir, "artifacts", "rfm_segments.csv")
+    rfm_labeled.to_csv(rfm_segments_path, index=False)
+    print(f"RFM segments saved to {rfm_segments_path}.")
 
     all_products = sorted(df['description'].unique().astype(str))
-    joblib.dump(all_products, "d:/data/artifacts/unique_products.pkl")
-    print(f"Unique products saved: {len(all_products)}")
+    products_pkl_path = os.path.join(base_dir, "artifacts", "unique_products.pkl")
+    joblib.dump(all_products, products_pkl_path)
+    print(f"Unique products saved to {products_pkl_path}: {len(all_products)}")
 
     print("Generating association rules...")
     rules = generate_rules(df, min_support=0.005, min_threshold=0.2) 

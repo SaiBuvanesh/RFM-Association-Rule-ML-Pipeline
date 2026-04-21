@@ -1,6 +1,3 @@
-# Python Version Requirement
-python_version >= "3.10"
-
 pandas
 numpy
 matplotlib
