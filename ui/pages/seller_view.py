@@ -5,55 +5,31 @@ import plotly.express as px
 import os
 import sys
 import joblib
-import numpy as np
 
 # Add parent directory to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
-def load_data_and_models():
+def load_data():
     # Define base path relative to the current file
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
     artifact_dir = os.path.join(base_dir, "artifacts")
     
     rfm_path = os.path.join(artifact_dir, "rfm_segments.csv")
     if not os.path.exists(rfm_path):
-        return None, None, None, None, None
+        return None
     
     df = pd.read_csv(rfm_path)
     df['customerid'] = df['customerid'].astype(int)
-    
-    # Load Models for simulation
-    try:
-        scaler = joblib.load(os.path.join(artifact_dir, "scaler.pkl"))
-        kmeans = joblib.load(os.path.join(artifact_dir, "kmeans_model.pkl"))
-        prices = joblib.load(os.path.join(artifact_dir, "product_prices.pkl"))
-        seg_map = joblib.load(os.path.join(artifact_dir, "segment_map.pkl"))
-    except Exception as e:
-        st.warning(f"Some analytical components are missing: {e}")
-        return df, None, None, None, None
-        
-    return df, scaler, kmeans, prices, seg_map
+    return df
 
 st.title("Business Intelligence")
 st.caption("Strategic analysis of customer segments and purchasing behaviors.")
 
-rfm_df, scaler, kmeans, prices, seg_map = load_data_and_models()
+rfm_df = load_data()
 
 if rfm_df is not None:
-    # --- Sidebar Session Indicator ---
-    with st.sidebar:
-        st.header("Session Status")
-        active_basket = st.session_state.get('basket', [])
-        if active_basket:
-            st.success(f"Active Basket detected: {len(active_basket)} items")
-            if st.button("Clear Session Basket"):
-                st.session_state.basket = []
-                st.rerun()
-        else:
-            st.info("No active session basket detected.")
-
-    # Use tabs for a cleaner interface
-    tab_overview, tab_session, tab_lookup = st.tabs(["Market Overview", "Active Session Analytics", "Customer Deep Dive"])
+    # Restored to focused 2-tab professional layout
+    tab_overview, tab_lookup = st.tabs(["Market Overview", "Customer Intelligence Search"])
 
     with tab_overview:
         # Key Performance Indicators
@@ -70,8 +46,8 @@ if rfm_df is not None:
         col1, col2 = st.columns([1.5, 1])
         
         with col1:
-            st.markdown("#### Customer Segmentation (RFM)", help="Relationship between Recency and Monetary values. (Sampled for performance)")
-            # Optimizing Visualization for large datasets (sampling)
+            st.markdown("#### Customer Segmentation (RFM)", help="Relationship between Recency and Monetary values. (Sampled for optimal browser performance)")
+            # Optimized visualization for large datasets
             sample_size = min(15000, len(rfm_df))
             plot_df = rfm_df.sample(sample_size, random_state=42) if len(rfm_df) > 15000 else rfm_df
             
@@ -105,62 +81,8 @@ if rfm_df is not None:
             - **Lost Customers**: Highest recency and lowest frequency. Customers who have likely moved to a competitor.
             """)
 
-    with tab_session:
-        st.markdown("#### Real-Time Behavior Simulation")
-        st.markdown("This module analyzes the active shopping session to predict which customer cohort the current user behavior aligns with.")
-        
-        if not active_basket:
-            st.info("No items currently in the active session basket. Visit the Shopping Assistant to build a session for analysis.")
-        elif scaler is None or kmeans is None or prices is None:
-            st.error("Analytical models required for session simulation are not available.")
-        else:
-            # Simulation Logic
-            st.markdown(f"**Analyzing Session Basket ({len(active_basket)} items)**")
-            
-            # 1. Calculate Simulated Monetary (Sum of average prices)
-            total_value = sum([prices.get(item, 10.0) for item in active_basket]) # Fallback to 10.0 if unknown
-            
-            # 2. Simulated RFM
-            # Recency = 0 (Just shopped), Frequency = 1 (Current basket), Monetary = total_value
-            sim_rfm = np.array([[0, 1, total_value]])
-            
-            # 3. Scale and Predict
-            sim_scaled = scaler.transform(sim_rfm)
-            cluster_id = kmeans.predict(sim_scaled)[0]
-            
-            # 4. Map to Segment
-            predicted_segment = seg_map.get(cluster_id, f"Cluster {cluster_id}")
-            
-            # UI Display
-            c1, c2 = st.columns(2)
-            with c1:
-                st.metric("Simulated Basket Value", f"£{total_value:.2f}")
-                st.metric("Predicted Segment Persona", predicted_segment)
-            
-            with c2:
-                # Show items being analyzed
-                st.write("Basket Composition:")
-                for item in active_basket[:10]: # Cap at 10 for UI
-                    st.caption(f"- {item}")
-                if len(active_basket) > 10:
-                    st.caption(f"... and {len(active_basket)-10} more")
-            
-            st.divider()
-            st.subheader("Market Potential Analysis")
-            st.write(f"Based on the current selection, this session profile aligns most closely with the **{predicted_segment}** cohort.")
-            
-            # Engagement strategy for this simulated profile
-            strategies = {
-                "Champions": "High immediate conversion probability. Recommend premium upsells.",
-                "Loyal Customers": "Strong repeat potential. Highlight membership benefits.",
-                "Big Spenders": "Value-driven profile. Offer bundle discounts to increase basket size.",
-                "Low Value": "Transactional profile. Focus on low-friction checkout.",
-                "Lost Customers": "Reactivation simulation. Show significant first-purchase incentives."
-            }
-            st.info(f"**Recommended Approach:** {strategies.get(predicted_segment, 'Monitor session progression for clearer behavior patterns.')}")
-
     with tab_lookup:
-        st.markdown("#### Customer Intelligence Search")
+        st.markdown("#### Strategic Profile Analysis")
         
         col_search, col_res = st.columns([1, 2])
         
@@ -205,7 +127,7 @@ if rfm_df is not None:
                             }
                             
                             strategy = strategies.get(c['segment'], "Monitor behavior for shifts in cohort.")
-                            st.success(f"**Engagement Strategy:** {strategy}")
+                            st.success(f"Engagement Strategy: {strategy}")
                             
                     else:
                         st.error(f"Customer ID {cust_int} not found.")
