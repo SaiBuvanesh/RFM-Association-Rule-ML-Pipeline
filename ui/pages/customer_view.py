@@ -35,18 +35,30 @@ def load_resources():
 st.title("Shopping Assistant")
 st.caption("Personalized product recommendations powered by association rule mining.")
 
+# Initialize session state for basket
+if 'basket' not in st.session_state:
+    st.session_state.basket = []
+
 rules, product_list = load_resources()
 
 if rules is not None:
     # Sidebar Selection
     with st.sidebar:
         st.header("Your Basket")
-        selected_items = st.multiselect("Search Products", product_list, placeholder="Type to search items...")
+        selected_items = st.multiselect(
+            "Search Products", 
+            product_list, 
+            key="basket",
+            placeholder="Type to search items...",
+            help="Search and select products to add them to your shopping basket. Recommendations will update automatically."
+        )
         
         st.divider()
         if selected_items:
             st.success(f"{len(selected_items)} items selected")
-            st.button("Complete Purchase", type="primary")
+            if st.button("Complete Purchase", type="primary", help="Proceed to checkout with your current selection."):
+                st.balloons()
+                st.success("Purchase logic would be integrated here!")
         else:
             st.info("Your basket is empty.")
 
@@ -72,8 +84,15 @@ if rules is not None:
                     with st.container(border=True):
                         st.markdown(f"**{rec}**")
                         st.caption("Frequently purchased together")
-                        if st.button(f"Add to Basket", key=f"add_{i}"):
-                            st.toast(f"Added {rec} to basket")
+                        
+                        # Add to Basket Button logic
+                        if st.button(f"Add to Basket", key=f"add_{i}", help=f"Add {rec} to your current selection."):
+                            if rec not in st.session_state.basket:
+                                st.session_state.basket.append(rec)
+                                st.toast(f"Added {rec} to basket")
+                                st.rerun() # Refresh to update the multiselect and view
+                            else:
+                                st.toast(f"{rec} is already in your basket!")
         else:
             st.info("No specific recommendations found for the current selection.")
             
