@@ -2,7 +2,7 @@
 
 An AI-driven analytical platform for modern retail management, providing deep insights into customer behavior and personalized shopping experiences.
 
-**[🚀 View Live Demo on Streamlit Cloud](https://rfm-aappciation-rule-ml-pipeline.streamlit.app/)**
+**[View Live Demo on Streamlit Cloud](https://rfm-aappciation-rule-ml-pipeline.streamlit.app/)**
 
 ### Watch the Platform in Action
 [![Project Demo](Project%20Demo.mp4)](Project%20Demo.mp4)
